@@ -1,0 +1,3384 @@
+PIH, 6.9, 0.00, null, 1347 Property Insurance Holdings, Inc.
+PIHPP, 25.75, 0.00, null, 1347 Property Insurance Holdings, Inc.
+TURN, 2.31, 0.00, null, 180 Degree Capital Corp.
+FLWS, 12.525, -1.18, null, 1-800-FLOWERS.COM, Inc.
+FCCY, 21.5, -0.69, 0.24, 1st Constitution Bancorp
+SRCE, 56.92, -0.18, 0.91, 1st Source Corporation
+VNET, 10.95, 4.99, null, 21Vianet Group, Inc.
+TWOU, 83.2, 1.39, null, 2U, Inc.
+TPNL, 3.12, 2.63, null, 3Pea International, Inc.
+JOBS, 71.41, -0.33, null, 51job, Inc.
+EGHT, 22.7, 0.44, null, 8x8, Inc.
+AVHI, 21.5, 0.47, null, AV Homes, Inc.
+AAON, 41.35, 0.00, 0.29, AAON, Inc.
+ABEO, 14.25, 1.42, null, Abeona Therapeutics Inc.
+ABEOW, 9.2943, 8.49, null, Abeona Therapeutics Inc. - Warr
+ABIL, 3.67, -8.25, null, Ability Inc.
+ABMD, 381.03, 1.09, null, ABIOMED, Inc.
+AXAS, 2.17, -1.36, null, Abraxas Petroleum Corporation
+ACIU, 8.47, 0.00, null, AC Immune SA
+ACIA, 38.39, -7.16, null, Acacia Communications, Inc.
+ACTG, 3.85, -2.53, 0.125, Acacia Research Corporation
+ACHC, 39.94, 0.35, null, Acadia Healthcare Company, Inc.
+ACAD, 14.39, 0.91, null, ACADIA Pharmaceuticals Inc.
+ACST, 0.4805, -1.94, null, Acasti Pharma Inc.
+AXDX, 23.15, -0.86, null, Accelerate Diagnostics, Inc.
+XLRN, 49.82, 1.26, null, Acceleron Pharma Inc.
+ANCX, 27.58, -1.08, 0.6, Access National Corporation
+ARAY, 3.95, -1.25, null, Accuray Incorporated
+ACRX, 2.9, -1.69, null, AcelRx Pharmaceuticals, Inc.
+ACER, 32.19, 1.16, null, Acer Therapeutics Inc.
+ACET, 3.265, 0.77, 0.26, Aceto Corporation
+AKAO, 5.26, 3.14, null, Achaogen, Inc.
+ACHV, 3.05, -3.17, null, Achieve Life Sciences, Inc.
+ACHN, 2.82, 0.71, null, Achillion Pharmaceuticals, Inc.
+ACIW, 28.46, 1.79, null, ACI Worldwide, Inc.
+ACRS, 15.45, 6.92, null, Aclaris Therapeutics, Inc.
+ACMR, 13.5, 2.90, null, ACM Research, Inc.
+ACNB, 35.25, 0.71, 0.83, ACNB Corporation
+ACOR, 28.9, 0.00, null, Acorda Therapeutics, Inc.
+ATVI, 74.09, 4.10, 0.34, Activision Blizzard, Inc.
+ACXM, 45.42, 0.35, null, Acxiom Corporation
+ADMS, 21.8, 0.05, null, Adamas Pharmaceuticals, Inc.
+ADMP, 2.8, 1.82, null, Adamis Pharmaceuticals Corporation
+ADAP, 10.25, 11.05, null, Adaptimmune Therapeutics plc
+ADUS, 65.5, 2.91, null, Addus HomeCare Corporation
+AEY, 1.44, -0.69, null, ADDvantage Technologies Group, Inc.
+IOTS, 5.7, 4.59, null, Adesto Technologies Corporation
+ADIL, 3.25, -0.61, null, Adial Pharmaceuticals, Inc.
+ADILW, 0.35, -12.50, null, Adial Pharmaceuticals
+ADMA, 5.72, 3.72, null, ADMA Biologics, Inc.
+ADBE, 261.51, 1.75, null, Adobe Systems Incorporated
+ADOM, 0.69, -0.42, null, ADOMANI, Inc.
+ADTN, 16.95, -0.29, 0.36, ADTRAN, Inc.
+ADRO, 5.85, 1.74, null, Aduro BioTech, Inc.
+ADES, 11.28, 0.18, 1.0, Advanced Emissions Solutions, Inc.
+AEIS, 58.04, -0.27, null, Advanced Energy Industries, Inc.
+AMD, 23.98, 7.58, null, Advanced Micro Devices, Inc.
+ADXS, 1.34, -8.84, null, Advaxis, Inc.
+ADXSW, 0.06, 17.19, null, Advaxis, Inc. - Warrants
+ADVM, 5.95, 2.59, null, Adverum Biotechnologies, Inc.
+DWMC, 24.86, 0.00, null, AdvisorShares Dorsey Wright Micro-Cp ETF
+DWSH, 24.9, -1.46, null, AdvisorShares Dorsey Wright Short ETF
+ACT, 26.31, 0.92, null, AdvisorShares Vice ETF
+AEGN, 24.9, -1.39, null, Aegion Corporation
+AGLE, 10.28, 0.59, null, Aeglea BioTherapeutics, Inc.
+AEHR, 2.43, -3.19, null, Aehr Test Systems
+AMTX, 1.26, -2.70, null, Aemetis, Inc.
+AERI, 61.0, 0.41, null, Aerie Pharmaceuticals, Inc.
+AVAV, 85.32, 1.02, null, AeroVironment, Inc.
+ARPO, 3.35, -5.63, null, Aerpio Pharmaceuticals, Inc.
+AEZS, 1.79, -3.76, null, Aeterna Zentaris Inc.
+AEMD, 1.07, 0.00, null, Aethlon Medical, Inc.
+GNMX, 1.19, 0.00, null, Aevi Genomic Medicine, Inc.
+AFMD, 1.625, -1.52, null, Affimed N.V.
+AGEN, 2.07, 2.99, null, Agenus Inc.
+AGRX, 0.2799, 4.83, null, Agile Therapeutics, Inc.
+AGYS, 16.7, 1.52, null, Agilysys, Inc.
+AGIO, 74.93, -0.15, null, Agios Pharmaceuticals, Inc.
+AGMH, 18.81, -4.42, null, AGM Group Holdings Inc.
+AGNC, 19.3, 0.00, 2.16, AGNC Investment Corp.
+AGNCB, 25.85, -0.08, 2.16, AGNC Investment Corp.
+AGNCN, 26.4, 0.00, 2.16, AGNC Investment Corp.
+AGFS, 6.34, -0.63, null, AgroFresh Solutions, Inc.
+AGFSW, 0.198, 10.06, null, AgroFresh Solutions, Inc. - War
+ALRN, 2.15, -7.73, null, Aileron Therapeutics, Inc.
+AIMT, 27.75, 0.51, null, Aimmune Therapeutics, Inc.
+AIRT, 34.9, 0.29, null, Air T, Inc.
+ATSG, 21.22, 0.09, null, Air Transport Services Group, Inc.
+AIRG, 11.34, -6.51, null, Airgain, Inc.
+AMCN, 0.45, 5.88, null, AirMedia Group Inc.
+AKAM, 73.4, 0.45, null, Akamai Technologies, Inc.
+AKTX, 1.88, 0.00, null, Akari Therapeutics, Plc
+AKCA, 32.63, -4.34, null, Akcea Therapeutics, Inc.
+AKBA, 8.26, 0.73, null, Akebia Therapeutics, Inc.
+AKER, 0.251, -5.57, null, Akers Biosciences, Inc.
+AKRX, 14.53, -2.68, null, Akorn, Inc.
+AKTS, 7.7, 2.53, null, Akoustis Technologies, Inc.
+ALRM, 55.94, 2.47, null, Alarm.com Holdings, Inc.
+ALSK, 1.95, 8.33, null, Alaska Communications Systems Group, Inc.
+ALBO, 31.93, -1.02, null, Albireo Pharma, Inc.
+ABDC, 6.13, -1.29, 1.36, Alcentra Capital Corporation
+ALDR, 17.7, 0.57, null, Alder Biopharmaceuticals, Inc.
+ALDX, 7.6, -0.65, null, Aldeyra Therapeutics, Inc.
+ALXN, 117.5, 0.60, null, Alexion Pharmaceuticals, Inc.
+ALCO, 32.1, -0.47, 0.24, Alico, Inc.
+ALGN, 367.6, 1.10, null, Align Technology, Inc.
+ALIM, 0.96, 0.00, null, Alimera Sciences, Inc.
+ALJJ, 2.04, -1.45, null, ALJ Regional Holdings, Inc.
+ALKS, 44.85, -0.04, null, Alkermes plc
+ALLK, 38.91, -0.23, null, Allakos Inc.
+ABTX, 44.75, -0.33, null, Allegiance Bancshares, Inc.
+ALGT, 135.4, -0.59, 2.8, Allegiant Travel Company
+ALGR, 9.56, 0.10, null, Allegro Merger Corp.
+ALGRR, 0.41, 0.00, null, Allegro Merger Corp. RT
+ALGRU, 10.2, -0.49, null, Allegro Merger Corp. Units
+ALGRW, 0.32, 0.00, null, Allegro Merger Corp.
+ALNA, 10.75, -6.11, null, Allena Pharmaceuticals, Inc.
+AMMA, 0.42, 110.32, null, Alliance MMA, Inc.
+ARLP, 20.4, 0.25, 2.05, Alliance Resource Partners, L.P.
+AHPI, 2.36, 0.43, null, Allied Healthcare Products, Inc.
+AMOT, 48.89, 0.43, 0.105, Allied Motion Technologies Inc.
+ALQA, 2.65, 3.92, null, Alliqua BioMedical, Inc.
+ALLT, 6.38, 0.16, null, Allot Communications Ltd.
+MDRX, 14.81, 0.75, null, Allscripts Healthcare Solutions, Inc.
+ALNY, 96.87, -0.12, null, Alnylam Pharmaceuticals, Inc.
+AOSL, 14.77, -1.40, null, Alpha and Omega Semiconductor Limited
+GOOG, 1220.65, 1.27, null, Alphabet Inc.
+GOOGL, 1236.75, 1.28, null, Alphabet Inc.
+SMCP, 27.0, 0.00, null, AlphaMark Actively Managed Small Cap ETF
+ATEC, 3.75, -3.60, null, Alphatec Holdings, Inc.
+ALPN, 6.19, 1.64, null, Alpine Immune Sciences, Inc.
+SWIN, 32.37, 0.00, null, ALPS/Dorsey Wright Sector Momentum ETF
+AMR, 4.78, 0.84, null, Alta Mesa Resources, Inc.
+AMRWW, 0.6495, 8.25, null, Alta Mesa Resources, Inc. Warra
+AABA, 68.9, 1.00, null, Altaba Inc.
+ALTR, 40.51, 1.53, null, Altair Engineering Inc.
+ALT, 0.3069, -1.00, null, Altimmune, Inc.
+ASPS, 37.09, 0.19, null, Altisource Portfolio Solutions S.A.
+AIMC, 40.85, 0.12, 0.68, Altra Industrial Motion Corp.
+AMAG, 24.6, 0.41, null, AMAG Pharmaceuticals, Inc.
+AMAL, 17.7, 0.06, null, Amalgamated Bank
+AMRN, 2.77, 0.73, null, Amarin Corporation plc
+AMRK, 13.39, 0.60, 0.32, A-Mark Precious Metals, Inc.
+AMZN, 1905.39, 0.13, null, Amazon.com, Inc.
+AMBC, 21.74, 0.05, null, Ambac Financial Group, Inc.
+AMBCW, 10.61, -2.66, null, Ambac Financial Group, Inc. - W
+AMBA, 39.25, 1.26, null, Ambarella, Inc.
+AMCX, 62.92, 1.13, null, AMC Networks Inc.
+DOX, 65.03, 0.14, 0.94, Amdocs Limited
+AMDA, 0.4415, -4.42, null, Amedica Corporation
+AMED, 124.49, 0.61, null, Amedisys, Inc.
+UHAL, 377.0, -0.93, null, AMERCO
+AMRH, 1.5, 0.00, null, AMERI Holdings, Inc.
+AMRHW, 0.1511, 0.00, null, Ameri Holdings, Inc.
+ATAX, 5.85, -1.68, 0.5, America First Multifamily Investors, L.P.
+AMOV, 16.9, 0.48, 0.016, América Móvil, S.A.B. de C.V.
+AAL, 38.82, -0.03, 0.4, American Airlines Group Inc.
+ACSF, 12.25, -0.20, 1.164, American Capital Senior Floating, Ltd.
+AETI, 0.87, -8.42, null, American Electric Technologies, Inc
+AFIN, 16.74, 0.66, 2.6, American Finance Trust, Inc.
+AMNB, 41.55, -0.36, 0.99, American National Bankshares Inc.
+ANAT, 128.76, -0.34, 3.28, American National Insurance Company
+AOBC, 9.65, 1.58, null, American Outdoor Brands Corporation
+APEI, 35.9, 0.70, null, American Public Education, Inc.
+ARII, 46.55, -0.04, 1.6, American Railcar Industries, Inc.
+AMRB, 15.55, -0.32, 0.2, American River Bankshares
+AMSWA, 17.61, 2.92, 0.44, American Software, Inc.
+AMSC, 6.42, 0.00, null, American Superconductor Corporation
+AMWD, 84.95, 3.66, null, American Woodmark Corporation
+CRMT, 84.05, 1.27, null, America's Car-Mart, Inc.
+ABCB, 49.85, -0.30, 0.4, Ameris Bancorp
+AMSF, 64.1, 2.48, 0.84, Amerisafe, Inc.
+ASRV, 4.45, -1.11, 0.065, AmeriServ Financial, Inc.
+ASRVP, 28.38, 2.75, null, Ameriserv Financial Capital Trust I PFD A GTD 8.45
+ATLO, 30.75, -0.16, 0.9, Ames National Corporation
+AMGN, 196.64, 0.02, 4.94, Amgen Inc.
+FOLD, 12.98, -1.22, null, Amicus Therapeutics, Inc.
+AMKR, 8.64, 0.58, null, Amkor Technology, Inc.
+AMPH, 18.02, -0.55, null, Amphastar Pharmaceuticals, Inc.
+IBUY, 53.15, 0.72, null, Amplify Online Retail ETF
+ASYS, 5.32, 1.92, null, Amtech Systems, Inc.
+AFSI, 14.52, 0.41, 0.51, AmTrust Financial Services, Inc.
+AMRS, 7.6, 0.00, null, Amyris, Inc.
+ADI, 98.78, 1.43, 1.86, Analog Devices, Inc.
+ANAB, 85.94, 0.34, null, AnaptysBio, Inc.
+AVXL, 2.76, -2.47, null, Anavex Life Sciences Corp.
+ANCB, 28.85, 0.17, null, Anchor Bancorp
+ANGI, 21.99, 0.64, null, ANGI Homeservices Inc.
+ANGO, 22.24, -1.16, null, AngioDynamics, Inc.
+ANIP, 57.31, 0.02, null, ANI Pharmaceuticals, Inc.
+ANIK, 41.42, -0.12, null, Anika Therapeutics, Inc.
+ANSS, 178.1, 1.38, null, ANSYS, Inc.
+ATRS, 3.64, 0.83, null, Antares Pharma, Inc.
+APLS, 18.19, 0.89, null, Apellis Pharmaceuticals, Inc.
+APOG, 49.9, -0.08, 0.595, Apogee Enterprises, Inc.
+APEN, 7.55, -0.26, null, Apollo Endosurgery, Inc.
+AINV, 5.61, -0.71, 0.6, Apollo Investment Corporation
+AMEH, 17.48, 10.08, null, Apollo Medical Holdings, Inc.
+APPF, 80.9, 2.47, null, AppFolio, Inc.
+APPN, 34.84, 2.68, null, Appian Corporation
+AAPL, 216.16, 0.31, 2.62, Apple Inc.
+ARCI, 0.772, 8.72, null, Appliance Recycling Centers of America, Inc.
+APDN, 1.14, -3.39, null, Applied DNA Sciences, Inc.
+APDNW, 0.25, 0.00, null, Applied DNA Sciences Inc - Warr
+AGTC, 4.35, 1.16, null, Applied Genetic Technologies Corporation
+AMAT, 42.73, -0.14, 0.6, Applied Materials, Inc.
+AAOI, 42.87, 0.19, null, Applied Optoelectronics, Inc.
+AREX, 2.25, -0.44, null, Approach Resources, Inc.
+APTI, 37.8, 3.05, null, Apptio, Inc.
+APRI, 0.295, 5.13, null, Apricus Biosciences, Inc.
+APVO, 5.34, -3.09, null, Aptevo Therapeutics Inc.
+APTX, 23.34, 0.21, null, Aptinyx Inc.
+APTO, 2.89, 0.00, null, Aptose Biosciences Inc.
+AQMS, 2.35, 4.91, null, Aqua Metals, Inc.
+AQB, 2.84, -2.74, null, AquaBounty Technologies, Inc.
+AQST, 15.73, -1.26, null, Aquestive Therapeutics, Inc.
+AQXP, 3.18, 5.65, null, Aquinox Pharmaceuticals, Inc.
+ARDM, 1.43, 1.42, null, Aradigm Corporation
+PETX, 5.32, 2.70, null, Aratana Therapeutics, Inc.
+ABUS, 9.0, 1.69, null, Arbutus Biopharma Corporation
+ARCW, 2.05, 2.50, null, ARC Group Worldwide, Inc.
+ABIO, 0.576, -1.08, null, ARCA biopharma, Inc.
+RKDA, 6.35, -1.24, null, Arcadia Biosciences, Inc.
+ARCB, 47.25, 0.43, 0.32, ArcBest Corporation
+ACGL, 30.87, 0.95, null, Arch Capital Group Ltd.
+ACGLO, 24.73, 0.04, null, Arch Capital Group Ltd.
+ACGLP, 23.99, 0.17, null, Arch Capital Group Ltd.
+FUV, 4.27, -3.39, null, Arcimoto, Inc.
+ARCT, 7.93, -0.88, null, Arcturus Therapeutics Ltd.
+ARDX, 4.4, 6.02, null, Ardelyx, Inc.
+ARNA, 36.97, -0.32, null, Arena Pharmaceuticals, Inc.
+ARCC, 17.4, 0.17, 1.52, Ares Capital Corporation
+ARGX, 91.73, -0.43, null, argenx SE
+ARDS, 13.105, 0.73, null, Aridis Pharmaceuticals, Inc.
+ARKR, 22.5, -0.88, 1.0, Ark Restaurants Corp.
+ARTX, 3.475, 2.21, null, Arotech Corporation
+ARQL, 5.85, -0.34, null, ArQule, Inc.
+ARRY, 14.23, 0.64, null, Array BioPharma Inc.
+ARRS, 24.99, 1.01, null, ARRIS International plc
+DWCR, 28.89, 2.16, null, Arrow DWA Country Rotation ETF
+DWAT, 12.42, 1.80, null, Arrow DWA Tactical ETF
+AROW, 39.55, 0.25, 0.993, Arrow Financial Corporation
+ARWR, 14.69, 2.08, null, Arrowhead Pharmaceuticals, Inc.
+ASNS, 1.89, 5.00, null, Arsanis, Inc.
+ARTNA, 38.12, -0.73, 0.941, Artesian Resources Corporation
+ARTW, 2.65, -1.85, 0.0, Art's-Way Manufacturing Co., Inc.
+ASNA, 4.85, -1.22, null, Ascena Retail Group, Inc.
+ASND, 74.06, 0.41, null, Ascendis Pharma A/S
+ASCMA, 2.83, 1.43, null, Ascent Capital Group, Inc.
+APWC, 2.6838, 5.25, null, Asia Pacific Wire &amp; Cable Corporation Limited
+ASLN, 8.0, 0.00, null, ASLAN Pharmaceuticals Limited
+ASML, 202.98, 1.72, 1.631, ASML Holding N.V.
+ASPU, 7.69, 1.05, null, Aspen Group, Inc.
+AZPN, 112.11, 1.51, null, Aspen Technology, Inc.
+ASMB, 38.35, 1.35, null, Assembly Biosciences, Inc.
+ASRT, 7.13, 2.44, null, Assertio Therapeutics, Inc.
+ASFI, 2.85, 0.00, null, Asta Funding, Inc.
+ASTE, 48.44, 1.25, 0.4, Astec Industries, Inc.
+ATRO, 44.99, -1.08, null, Astronics Corporation
+ALOT, 20.95, -0.24, 0.28, AstroNova, Inc.
+ASTC, 3.59, 1.70, null, Astrotech Corporation
+ASUR, 14.32, 0.99, null, Asure Software, Inc.
+ASV, 5.8, -3.49, null, ASV Holdings, Inc.
+ATAI, 6.72, 3.07, 0.448, ATA Inc.
+ATRA, 37.6, -1.31, null, Atara Biotherapeutics, Inc.
+ATHN, 152.12, -0.51, null, athenahealth, Inc.
+ATNX, 17.14, -0.64, null, Athenex, Inc.
+ATHX, 2.01, 1.52, null, Athersys, Inc.
+AAME, 2.7, 3.85, 0.02, Atlantic American Corporation
+ACBI, 18.75, -0.27, null, Atlantic Capital Bancshares, Inc.
+AY, 20.68, -0.05, 1.26, Atlantica Yield plc
+ATLC, 2.67, 3.49, null, Atlanticus Holdings Corporation
+AAWW, 62.05, 1.06, null, Atlas Air Worldwide Holdings, Inc.
+AFH, 10.6, 0.00, null, Atlas Financial Holdings, Inc.
+AFHBL, 25.3, -1.25, null, Atlas Financial Holdings, Inc.
+TEAM, 86.11, 4.21, null, Atlassian Corporation Plc
+ATNI, 73.63, -0.08, 0.68, ATN International, Inc.
+ATOM, 5.22, -1.88, null, Atomera Incorporated
+ATOS, 2.17, -1.81, null, Atossa Genetics Inc.
+ATRC, 34.14, 2.09, null, AtriCure, Inc.
+ATRI, 641.0, -0.42, 4.8, Atrion Corporation
+ATIS, 0.3511, -2.47, null, Attis Industries, Inc.
+ATISW, 0.08, -3.61, null, Attis Industries Inc.
+ATTU, 20.55, 2.90, null, Attunity Ltd.
+LIFE, 0.6379, 2.87, null, aTyr Pharma, Inc.
+AUBN, 47.49, 0.51, 0.94, Auburn National Bancorporation, Inc.
+BOLD, 34.04, -0.61, null, Audentes Therapeutics, Inc.
+AUDC, 10.63, 0.47, 0.2, AudioCodes Ltd.
+AUPH, 5.41, 1.12, null, Aurinia Pharmaceuticals Inc.
+EARS, 0.268, -7.11, null, Auris Medical Holding AG
+JG, 8.5, 4.42, null, Aurora Mobile Limited
+ADSK, 157.2, 15.33, null, Autodesk, Inc.
+AUTL, 29.04, 0.48, null, Autolus Therapeutics plc
+ADP, 143.59, 0.17, 2.52, Automatic Data Processing, Inc.
+AUTO, 3.545, -1.53, null, AutoWeb, Inc.
+AVDL, 4.39, -1.35, null, Avadel Pharmaceuticals plc
+ATXI, 3.9799, 4.46, null, Avenue Therapeutics, Inc.
+AVEO, 2.62, 4.80, null, AVEO Pharmaceuticals, Inc.
+AVNW, 15.8, -1.56, null, Aviat Networks, Inc.
+CDMO, 6.24, 8.52, null, Avid Bioservices, Inc.
+CDMOP, 26.3548, 1.36, null, Avid Bioservices, Inc.
+AVID, 5.83, -1.02, null, Avid Technology, Inc.
+AVGR, 1.385, 9.06, null, Avinger, Inc.
+CAR, 33.15, -1.72, null, Avis Budget Group, Inc.
+AHPA, 10.1, 0.10, null, Avista Healthcare Public Acquisition Corp.
+AHPAU, 10.25, 0.00, null, Avista Healthcare Public Acquisition Corp. Units
+AHPAW, 0.25, 0.00, null, Avista Healthcare Public Acquis
+AVT, 48.42, -0.33, 0.74, Avnet, Inc.
+AVRO, 39.31, 1.63, null, AVROBIO, Inc.
+AWRE, 3.5, 0.00, null, Aware, Inc.
+ACLS, 19.75, 1.80, null, Axcelis Technologies, Inc.
+AXGN, 41.3, 0.85, null, AxoGen, Inc.
+AAXN, 65.55, 2.41, null, Axon Enterprise, Inc.
+AXON, 2.3, -0.86, null, Axovant Sciences Ltd.
+AXSM, 2.575, -0.96, null, Axsome Therapeutics, Inc.
+AXTI, 7.45, 1.71, null, AXT, Inc.
+AYTU, 4.4, -2.87, null, Aytu BioScience, Inc.
+AZRX, 2.45, 3.38, null, AzurRx BioPharma, Inc.
+BCOM, 9.78, 2.95, 3.447, B Communications Ltd
+RILY, 22.7, 2.02, 0.32, B. Riley Financial, Inc.
+RILYG, 24.95, -0.20, null, B. Riley Financial, Inc. SR NT 7.25% 27
+RILYH, 25.92, 0.08, 0.32, B. Riley Financial, Inc.
+RILYL, 25.4373, -0.01, null, B. Riley Financial, Inc. SR NT 7.5% 21
+RILYZ, 25.27, 0.27, null, B. Riley Financial, Inc. SR NT 27
+BOSC, 2.34, -1.68, null, B.O.S Better Online Solutions Ltd.
+BIDU, 224.36, 2.31, null, Baidu, Inc.
+BCPC, 105.95, 1.79, 0.42, Balchem Corporation
+BLDP, 2.99, -2.29, null, Ballard Power Systems Inc.
+BANF, 64.1, 0.08, 0.84, BancFirst Corporation
+BANFP, 27.22, -0.26, null, BFC Capital Trust II PFD TR 7.20%
+BCTF, 16.0, -0.25, null, Bancorp 34, Inc.
+BAND, 45.13, 0.29, null, Bandwidth Inc.
+BOCH, 12.75, -0.78, 0.13, Bank of Commerce Holdings
+BMRC, 89.3, 0.00, 1.18, Bank of Marin Bancorp
+BMLP, 53.04, -0.75, 2.751, BMO Elkhorn DWA MLP Select ETN
+BKSC, 20.1, 0.00, 0.563, Bank of South Carolina Corporation
+BOTJ, 15.69, 0.13, 0.24, Bank of the James Financial Group, Inc.
+OZK, 40.55, -0.59, 0.75, Bank OZK
+BFIN, 16.14, 0.12, 0.32, BankFinancial Corporation
+BWFG, 31.18, -0.67, 0.38, Bankwell Financial Group, Inc.
+BANR, 65.42, -0.89, 1.2, Banner Corporation
+BZUN, 53.66, -0.70, null, Baozun Inc.
+DFVL, 59.92, 0.00, null, iPath US Treasury 5-year Bull ETN
+DFVS, 35.3, 0.00, null, iPath US Treasury 5-year Bear ETN
+DLBL, 75.34, 0.00, null, iPath US Treasury Long Bond Bull ETN
+DLBS, 19.05, 0.00, null, iPath US Treasury Long Bond Bear ETN
+DTUL, 56.75, 0.00, null, iPath US Treasury 2-year Bull ETN
+DTUS, 39.95, 2.38, null, iPath US Treasury 2-year Bear ETN
+DTYL, 73.23, 0.00, null, iPath US Treasury 10-year Bull ETN
+DTYS, 21.68, -0.32, null, iPath US Treasury 10-year Bear ETN
+FLAT, 65.13, 0.00, null, iPath US Treasury Flattener ETN
+STPP, 29.33, -0.98, null, iPath US Treasury Steepener ETN
+TAPR, 25.8, 0.78, null, Barclays Inverse US Treasury Aggt ETN
+BHAC, 10.72, 0.00, null, Barington/Hilco Acquisition Corp.
+BHACR, 0.2399, 0.38, null, Barington/Hilco Acquisition Cor
+BHACU, 10.58, 0.00, null, Barington/Hilco Acquisition Corp. Units
+BHACW, 0.1399, 0.00, null, Barington/Hilco Acquisition Cor
+BBSI, 76.0, -0.29, 1.0, Barrett Business Services, Inc.
+BSET, 24.0, -0.83, 0.44, Bassett Furniture Industries, Incorporated
+ZTEST, 10.0, 0.00, null, BATS BZX Exchange  (test issue)
+BCML, 26.23, -1.80, null, BayCom Corp.
+BCBP, 14.85, -0.67, 0.56, BCB Bancorp, Inc.
+BECN, 38.46, -0.67, null, Beacon Roofing Supply, Inc.
+BBGI, 6.65, -1.48, 0.19, Beasley Broadcast Group, Inc.
+BBBY, 18.96, 1.50, 0.61, Bed Bath &amp; Beyond Inc.
+BGNE, 171.63, 2.65, null, BeiGene, Ltd.
+BELFA, 24.0, -2.04, 0.28, Bel Fuse Inc.
+BELFB, 27.7, 2.03, 0.28, Bel Fuse Inc.
+BLPH, 0.8348, -4.63, null, Bellerophon Therapeutics, Inc.
+BLCM, 6.98, 2.35, null, Bellicum Pharmaceuticals, Inc.
+BNCL, 17.65, -0.28, 0.24, Beneficial Bancorp, Inc.
+BNFT, 42.45, 3.79, null, Benefitfocus, Inc.
+BNTC, 2.7, -2.44, null, Benitec Biopharma Limited
+BNTCW, 0.28, 0.00, null, Benitec Biopharma Limited - War
+BRY, 15.46, 10.19, null, Berry Petroleum Corporation
+BYSI, 22.99, -1.03, null, BeyondSpring Inc.
+BGCP, 11.87, 1.11, 0.72, BGC Partners, Inc.
+BGFV, 5.75, -2.54, 0.6, Big 5 Sporting Goods Corporation
+BRPA, 9.91, 0.00, null, Big Rock Partners Acquisition Corp.
+BRPAR, 0.4, -4.76, null, BR Partners Yield FIM C Priv
+BRPAU, 10.7, 0.00, null, Big Rock Partners Acquisition Corp. Units
+BRPAW, 0.45, 0.00, null, Big Rock Partners Acquisition C
+BILI, 10.91, 3.61, null, Bilibili Inc.
+BASI, 1.67, -1.76, null, Bioanalytical Systems, Inc.
+ORPN, 1.22, 0.83, null, Bioblast Pharma Ltd.
+BIOC, 3.21, -9.58, null, Biocept, Inc.
+BCRX, 7.22, 0.00, null, BioCryst Pharmaceuticals, Inc.
+BDSI, 2.675, 0.94, null, BioDelivery Sciences International, Inc.
+BFRA, 14.17, 1.21, null, Biofrontera AG
+BIIB, 342.33, 0.13, null, Biogen Inc.
+BHTG, 3.99, -2.68, null, BioHiTech Global, Inc.
+BKYI, 1.7, -5.56, null, BIO-key International, Inc.
+BIOL, 1.7, 4.94, null, BIOLASE, Inc.
+BLFS, 25.475, 2.19, null, BioLife Solutions, Inc.
+BLRX, 0.887, -0.11, null, BioLineRx Ltd.
+BMRN, 98.76, -0.33, null, BioMarin Pharmaceutical Inc.
+BMRA, 3.66, -0.81, null, Biomerica, Inc.
+BNGO, 0.0, 0, null, Bionano Genomics, Inc
+BNGOU, 6.36, 0.16, null, BIONANO GENOMICS, INC
+BVXV, 5.55, -0.89, null, BiondVax Pharmaceuticals Ltd.
+BVXVW, 1.3242, 0.00, null, BiondVax Pharmaceuticals Ltd. -
+BPTH, 1.41, -1.40, null, Bio-Path Holdings, Inc.
+BIOS, 2.9, 0.35, null, BioScrip, Inc.
+BSTC, 51.78, 2.03, null, BioSpecifics Technologies Corp.
+BSPM, 1.98, -0.25, null, Biostar Pharmaceuticals, Inc.
+TECH, 188.25, 0.16, 1.28, Bio-Techne Corporation
+BEAT, 59.05, -0.25, null, BioTelemetry, Inc.
+BTAI, 7.89, 2.20, null, BioXcel Therapeutics, Inc.
+BCAC, 10.1, 0.00, null, Bison Capital Acquisition Corp.
+BCACR, 0.49, 0.00, null, Bison Capital Acquisition Corp.
+BCACU, 10.7186, 0.00, null, Bison Capital Acquisition Corp. Units
+BCACW, 0.45, 0.00, null, Bison Capital Acquisition Corp.
+BJRI, 74.7, 5.43, 0.44, BJ's Restaurants, Inc.
+BBOX, 1.24, -8.82, 0.12, Black Box Corporation
+BRAC, 9.88, 0.00, null, Black Ridge Acquisition Corp.
+BRACR, 0.37, -7.50, null, Black Ridge Acquisition Corp.
+BRACU, 10.56, 1.54, null, Black Ridge Acquisition Corp. Units
+BRACW, 0.48, -4.00, null, Black Ridge Acquisition Corp. -
+BLKB, 102.4, 2.41, 0.48, Blackbaud, Inc.
+BL, 51.49, 3.15, null, BlackLine, Inc.
+BKCC, 6.14, 0.00, 0.72, BlackRock Capital Investment Corporation
+TCPC, 14.68, -0.03, 1.44, TCP Capital Corp.
+BLNK, 3.19, -2.45, null, Blink Charging Co.
+BLNKW, 1.23, 2.50, null, Blink Charging Co. Warrant
+BLMN, 19.1, -0.52, 0.34, Bloomin' Brands, Inc.
+BCOR, 36.1, 0.84, null, Blucora, Inc.
+BLBD, 22.25, 2.53, null, Blue Bird Corporation
+BHBK, 23.75, 1.06, 0.6, Blue Hills Bancorp, Inc.
+BLUE, 158.2, -1.46, null, bluebird bio, Inc.
+BKEP, 2.6, -0.95, 0.515, Blueknight Energy Partners, L.P.
+BKEPP, 6.72, 0.00, 0.515, Blueknight Energy Partners, L.P.
+BPMC, 69.08, -0.89, null, Blueprint Medicines Corporation
+ITEQ, 36.175, 0.85, null, BlueStar Israel Technology ETF
+BMCH, 22.7, 0.00, null, BMC Stock Holdings, Inc.
+BOFI, 37.87, -1.94, null, BofI Holding, Inc.
+BOFIL, 25.77, -0.27, null, Schnell Voyager 3 SICAV
+WIFI, 31.77, 1.73, null, Boingo Wireless, Inc.
+BOJA, 14.75, 0.00, null, Bojangles', Inc.
+BOKF, 101.53, -0.15, 1.85, BOK Financial Corporation
+BOKFL, 25.08, -0.44, 1.85, BOK Financial Corporation
+BNSO, 3.33, -0.60, null, Bonso Electronics International Inc.
+BKNG, 1903.34, 0.45, null, Booking Holdings Inc.
+BRQS, 4.6, 2.22, null, Borqs Technologies, Inc.
+BOMN, 22.52, 0.45, null, Boston Omaha Corporation
+BPFH, 14.2, 0.35, 0.46, Boston Private Financial Holdings, Inc.
+BPFHW, 9.44, 0.00, null, Boston Private Financial Holdin
+EPAY, 63.95, 1.01, null, Bottomline Technologies (de), Inc.
+BOXL, 3.58, -2.19, null, Boxlight Corporation
+BCLI, 3.95, -3.42, null, Brainstorm Cell Therapeutics Inc.
+BVNSC, 99.99, 0.00, null, Brandes Investment Trust Brande
+BDGE, 35.35, -0.28, 0.92, Bridge Bancorp, Inc.
+BLIN, 0.8751, -2.77, null, Bridgeline Digital, Inc.
+BWB, 12.76, -0.08, null, Bridgewater Bancshares, Inc.
+BRID, 13.72, -1.22, null, Bridgford Foods Corporation
+BCOV, 8.2, 0.00, null, Brightcove Inc.
+BHF, 41.37, 0.39, null, Brighthouse Financial, Inc.
+AVGO, 209.0, 1.66, 4.52, Broadcom Inc.
+BVSN, 1.75, -5.41, null, BroadVision, Inc.
+BYFC, 1.57, -1.26, null, Broadway Financial Corporation
+BWEN, 2.08, -0.48, null, Broadwind Energy, Inc.
+BPY, 19.66, 0.20, 1.22, Brookfield Property Partners L.P.
+BRKL, 18.2, -0.27, 0.38, Brookline Bancorp, Inc.
+BRKS, 29.65, 0.88, 0.4, Brooks Automation, Inc.
+BRKR, 35.24, 1.35, 0.16, Bruker Corporation
+BMTC, 49.05, -0.41, 0.88, Bryn Mawr Bank Corporation
+BLMT, 32.95, -0.15, null, BSB Bancorp, Inc.
+BSQR, 2.3, 2.22, null, BSQUARE Corporation
+BLDR, 16.1, -0.74, null, Builders FirstSource, Inc.
+BFST, 25.98, -0.04, 0.28, Business First Bancshares, Inc.
+CFFI, 66.0, 1.54, 1.35, C&amp;F Financial Corporation
+CHRW, 96.5, 0.10, 1.83, C.H. Robinson Worldwide, Inc.
+CA, 43.94, 0.43, 1.02, CA, Inc.
+CCMP, 112.52, 0.80, 1.2, Cabot Microelectronics Corporation
+CDNS, 46.82, 0.97, null, Cadence Design Systems, Inc.
+CDZI, 12.8, 0.79, null, Cadiz Inc.
+CZR, 10.35, 0.49, null, Caesars Entertainment Corporation
+CSTE, 18.9, 1.89, null, Caesarstone Ltd.
+PRSS, 1.3194, -4.39, null, CafePress Inc.
+CLBS, 4.98, -0.99, null, Caladrius Biosciences, Inc.
+CHY, 13.08, 0.69, 1.2, Calamos Convertible and High Income Fund
+CHI, 12.56, 0.64, null, Calamos Convertible Opportunities and Income Fund
+CCD, 22.27, 0.59, null, Calamos Dynamic Convertible and Income Fund
+CHW, 9.07, 0.22, 0.84, Calamos Global Dynamic Income Fund
+CGO, 15.255, 0.63, 1.2, Calamos Global Total Return Fund
+CSQ, 13.37, 0.75, 0.99, Calamos Strategic Total Return Fund
+CAMP, 23.09, -1.03, null, CalAmp Corp.
+CVGW, 105.5, 0.76, 0.95, Calavo Growers, Inc.
+CALA, 4.75, 1.06, null, Calithera Biosciences, Inc.
+CALM, 50.1, 0.00, 0.351, Cal-Maine Foods, Inc.
+CLMT, 7.05, 0.71, null, Calumet Specialty Products Partners, L.P.
+CRUSC, 100.02, 0.00, null, Calvert Ultra-Short Dur Inc NextShares
+CLXT, 17.32, 0.00, null, Calyxt, Inc.
+ABCD, 13.74, 4.81, null, Cambium Learning Group, Inc.
+CATC, 89.62, -0.49, 1.9, Cambridge Bancorp
+CAC, 45.98, -0.93, 1.03, Camden National Corporation
+CAMT, 10.42, 0.77, 0.14, Camtek Ltd.
+CSIQ, 13.86, 3.36, null, Canadian Solar Inc.
+CGIX, 1.05, -3.67, null, Cancer Genetics, Inc.
+CPHC, 14.95, 0.00, 0.26, Canterbury Park Holding Corporation
+CCBG, 24.86, -0.88, 0.28, Capital City Bank Group, Inc.
+CPLP, 3.03, -0.49, 0.32, Capital Product Partners L.P.
+CSWC, 19.07, -0.37, 1.07, Capital Southwest Corporation
+CSWCL, 25.7, 0.39, 0.99, Capital Southwest Corporation 5.95% NT 22
+CPTA, 8.7, 0.12, 1.14, Capitala Finance Corp.
+CPTAG, 25.0, 0.04, 1.14, Capitala Finance Corp.
+CPTAL, 25.18, 0.04, 1.14, Capitala Finance Corp.
+CFFN, 13.47, 0.22, 0.34, Capitol Federal Financial, Inc.
+CAPR, 1.1, -1.79, null, Capricor Therapeutics, Inc.
+CSTR, 17.68, -0.45, 0.04, Capstar Financial Holdings, Inc.
+CPST, 1.12, 1.82, null, Capstone Turbine Corporation
+CARA, 18.42, -0.49, null, Cara Therapeutics, Inc.
+CBLK, 23.59, -3.44, null, Carbon Black, Inc.
+CARB, 41.35, 2.10, null, Carbonite, Inc.
+CSII, 38.32, -0.42, null, Cardiovascular Systems, Inc.
+CDLX, 19.21, 1.21, null, Cardlytics, Inc.
+CATM, 37.99, -0.45, null, Cardtronics plc
+CDNA, 21.2, 4.43, 1.576, CareDx, Inc
+CECO, 16.5, -0.06, null, Career Education Corporation
+CTRE, 18.38, 0.44, 0.78, CareTrust REIT, Inc.
+CARG, 49.94, 1.30, null, CarGurus, Inc.
+CARO, 41.89, -0.07, 0.2, Carolina Financial Corporation
+CART, 8.05, -0.62, null, Carolina Trust BancShares, Inc.
+CRZO, 24.35, 0.79, null, Carrizo Oil &amp; Gas, Inc.
+TAST, 16.25, -0.31, null, Carrols Restaurant Group, Inc.
+CARV, 5.61, -9.37, null, Carver Bancorp, Inc.
+CASM, 2.28, -1.72, null, CAS Medical Systems, Inc.
+CASA, 13.97, 4.57, null, Casa Systems, Inc.
+CWST, 27.56, 1.32, null, Casella Waste Systems, Inc.
+CASY, 115.4, -0.99, 1.04, Casey's General Stores, Inc.
+CASI, 7.34, -2.78, null, CASI Pharmaceuticals, Inc.
+CASS, 73.85, 0.09, 0.927, Cass Information Systems, Inc.
+CATB, 0.712, 0.71, null, Catabasis Pharmaceuticals, Inc.
+CBIO, 11.05, 2.70, null, Catalyst Biosciences, Inc.
+CPRX, 3.17, 4.28, null, Catalyst Pharmaceuticals, Inc.
+CATS, 9.32, 4.60, null, Catasys, Inc.
+CATY, 42.52, -0.58, 0.48, Cathay General Bancorp
+CATYW, 22.37, 0.00, null, Cathay General Bancorp - Warran
+CGVIC, 100.1, 0.00, null, Causeway ETMF Trust Causeway Gl
+CIVEC, 100.12, 0.00, null, Causeway ETMF Trust Causeway In
+CVCO, 242.8, 0.71, null, Cavco Industries, Inc.
+CBFV, 32.15, 0.47, 0.88, CB Financial Services, Inc.
+CBAK, 0.6227, -6.36, null, CBAK Energy Technology, Inc.
+CBOE, 102.61, 2.53, 1.08, Cboe Global Markets, Inc.
+CBTX, 37.29, -0.21, 0.2, CBTX, Inc.
+CDK, 61.23, -0.03, 0.59, CDK Global, Inc.
+CDTI, 0.3908, -8.26, null, CDTi Advanced Materials, Inc.
+CDW, 86.79, 0.53, 0.79, CDW Corporation
+CECE, 8.53, 1.55, 0.075, CECO Environmental Corp.
+CELC, 26.11, -1.17, null, Celcuity Inc.
+CELG, 89.93, 0.10, null, Celgene Corporation
+CELGZ, 1.52, -2.56, null, Celgene Corporation - Contingen
+CLDX, 0.4703, -0.15, null, Celldex Therapeutics, Inc.
+APOP, 4.79, -0.62, null, Cellect Biotechnology Ltd.
+APOPW, 2.05, 0.00, null, Cellect Biotechnology Ltd. - Wa
+CLRB, 2.78, 1.83, null, Cellectar Biosciences, Inc.
+CLRBW, 0.1364, -47.54, null, Cellectar Biosciences, Inc. - W
+CLRBZ, 0.06, 0.00, null, Cellectar Biosciences, Inc. - S
+CLLS, 29.32, -0.24, null, Cellectis S.A.
+CBMG, 20.35, -0.49, null, Cellular Biomedicine Group, Inc.
+CLSN, 2.64, 1.15, null, Celsion Corporation
+CELH, 4.37, -1.35, null, Celsius Holdings, Inc.
+CYAD, 29.28, -1.01, null, Celyad SA
+CETX, 1.65, 0.00, 0.0, Cemtrex, Inc.
+CETXP, 3.92, 0.00, 0.0, Cemtrex, Inc.
+CETXW, 0.15, 0.00, null, Cemtrex Inc. - Series 1 Warrant
+CDEV, 18.8, 2.17, null, Centennial Resource Development, Inc.
+CSFL, 30.59, 0.20, 0.32, CenterState Bank Corporation
+CETV, 3.75, 1.35, null, Central European Media Enterprises Ltd.
+CFBK, 14.03, -2.84, null, Central Federal Corporation
+CENT, 39.32, 0.64, null, Central Garden &amp; Pet Company
+CENTA, 36.22, 0.17, null, Central Garden &amp; Pet Company
+CVCY, 21.07, -0.38, 0.26, Central Valley Community Bancorp
+CENX, 12.53, 4.85, null, Century Aluminum Company
+CNBKA, 74.8, -0.93, 0.48, Century Bancorp, Inc.
+CNTY, 8.1, 1.50, null, Century Casinos, Inc.
+CRNT, 3.33, 1.22, null, Ceragon Networks Ltd.
+CERC, 4.8, -1.84, null, Cerecor Inc.
+CERCW, 0.28, -33.33, null, Cerecor Inc. - Class A Warrants
+CERN, 65.42, 0.23, null, Cerner Corporation
+CERS, 7.11, 0.28, null, Cerus Corporation
+KOOL, 0.2949, 5.89, null, Cesca Therapeutics Inc.
+CEVA, 30.15, 2.73, null, CEVA, Inc.
+CSBR, 8.69, 5.08, null, iShares MSCI Brazil ETF USD Acc
+CYOU, 14.34, 0.56, null, Changyou.com Limited
+BURG, 2.645, -5.20, null, Chanticleer Holdings, Inc.
+CTHR, 0.99, 0.81, null, Charles &amp; Colvard, Ltd.
+GTLS, 74.32, 1.14, null, Chart Industries, Inc.
+CHTR, 300.67, 2.48, null, Charter Communications, Inc.
+CHFN, 24.81, 0.28, 0.31, Charter Financial Corporation
+CHKP, 115.74, 0.28, null, Check Point Software Technologies Ltd.
+CHEK, 3.5, 0.57, null, Check-Cap Ltd.
+CHEKW, 0.1496, 168.10, null, Check-Cap Ltd. - Series A Warra
+CHEKZ, 0.55, 0.00, null, Check-Cap Ltd.
+CKPT, 3.83, 2.96, null, Checkpoint Therapeutics, Inc.
+CEMI, 10.65, 0.00, null, Chembio Diagnostics, Inc.
+CHFC, 57.66, -0.45, 1.12, Chemical Financial Corporation
+CCXI, 11.48, 2.14, null, ChemoCentryx, Inc.
+CHMG, 42.6, -1.27, 1.04, Chemung Financial Corporation
+CHKE, 0.72, -2.70, 0.0, Cherokee Inc.
+CHFS, 1.17, -7.14, null, CHF Solutions, Inc.
+CHMA, 2.25, -2.17, null, Chiasma, Inc.
+CSSE, 9.8, 0.31, null, Chicken Soup for the Soul Entertainment, Inc.
+CSSEP, 25.6, 1.87, null, Chicken Soup for the Soul Entertainment, Inc.
+PLCE, 137.85, 1.55, 1.7, The Children's Place, Inc.
+CMRX, 4.17, 0.24, null, Chimerix, Inc.
+CADC, 4.5, -10.89, null, China Advanced Construction Materials Group, Inc.
+CAAS, 4.05, 0.50, null, China Automotive Systems, Inc.
+CBPO, 84.91, -15.85, null, China Biologic Products Holdings, Inc.
+CCCL, 1.48, 0.68, 0.012, China Ceramics Co., Ltd.
+GLG, 0.79, 24.51, null, China Commercial Credit, Inc.
+CCRC, 9.86, 1.65, null, China Customer Relations Centers, Inc.
+JRJC, 1.78, -4.30, null, China Finance Online Co. Limited
+HGSH, 1.5, 4.90, null, China HGS Real Estate Inc.
+CIFS, 13.5, 1.66, null, China Internet Nationwide Financial Services Inc.
+CJJD, 1.19, 1.71, null, China Jo-Jo Drugstores, Inc.
+CLDC, 0.97, -1.02, 0.036, China Lending Corporation
+CHNR, 1.88, -2.59, null, China Natural Resources, Inc.
+CREG, 1.3, -2.99, null, China Recycling Energy Corporation
+CNTF, 2.09, -1.42, null, China TechFaith Wireless Communication Technology Limited
+CXDC, 3.35, -2.90, null, China XD Plastics Company Limited
+CCIH, 1.17, 0.00, null, ChinaCache International Holdings Ltd.
+CNET, 2.04, 0.49, null, ChinaNet Online Holdings, Inc.
+IMOS, 13.73, 0.22, 0.01, ChipMOS TECHNOLOGIES INC.
+CDXC, 4.55, 2.71, null, ChromaDex Corporation
+CHSCL, 28.1, 0.79, null, CHS Inc.
+CHSCM, 26.82, 0.04, null, CHS Inc.
+CHSCN, 28.1, 0.36, null, CHS Inc.
+CHSCO, 28.98, 0.24, null, CHS Inc.
+CHSCP, 30.17, 0.43, null, CHS Inc.
+CHDN, 282.7, -0.41, 1.52, Churchill Downs Incorporated
+CHUY, 27.4, 0.55, null, Chuy's Holdings, Inc.
+CDTX, 4.25, -4.49, null, Cidara Therapeutics, Inc.
+CMCT, 15.5, 1.64, 0.5, CIM Commercial Trust Corporation
+CMCTP, 0.0, 0, null, CIM Commercial Trust Corporatio
+CMPR, 141.0, 0.13, null, Cimpress N.V.
+CINF, 76.49, 0.45, 2.06, Cincinnati Financial Corporation
+CIDM, 1.35, -4.93, null, Cinedigm Corp.
+CTAS, 212.63, 0.11, 1.62, Cintas Corporation
+CRUS, 44.03, 0.76, null, Cirrus Logic, Inc.
+CSCO, 46.32, 0.65, 1.24, Cisco Systems, Inc.
+CTRN, 33.55, 9.46, 0.32, Citi Trends, Inc.
+CTXR, 1.33, 1.53, null, Citius Pharmaceuticals, Inc.
+CTXRW, 0.42, 0.00, null, Citius Pharmaceuticals, Inc. - 
+CZNC, 28.63, 3.10, 1.07, Citizens &amp; Northern Corporation
+CZWI, 14.0, -1.20, 0.2, Citizens Community Bancorp, Inc.
+CZFC, 26.15, -0.19, 0.23, Citizens First Corporation
+CIZN, 23.0, -2.54, 0.96, Citizens Holding Company
+CTXS, 112.97, 0.91, null, Citrix Systems, Inc.
+CHCO, 81.92, -0.55, 1.82, City Holding Company
+CIVB, 24.21, -0.94, 0.27, Civista Bancshares, Inc.
+CIVBP, 76.25, 0.00, 0.27, Civista Bancshares, Inc.
+CLAR, 10.4, -1.89, null, Clarus Corporation
+CLNE, 2.88, 0.35, null, Clean Energy Fuels Corp.
+CACG, 31.26, 0.35, null, ClearBridge All Cap Growth ETF
+YLDE, 28.87, 0.00, null, ClearBridge Dividend Strategy ESG ETF
+LRGE, 33.5, 0.90, null, ClearBridge Large Cap Growth ESG ETF
+CLFD, 13.4, 1.13, null, Clearfield, Inc.
+CLRO, 2.15, -4.44, 0.21, ClearOne, Inc.
+CLSD, 6.73, 3.22, null, Clearside Biomedical, Inc.
+CLIR, 2.1, 0.00, null, ClearSign Combustion Corporation
+CLIRW, 0.4499, 0.00, null, ClearSign Combustion Corporatio
+CMTA, 9.49, -4.62, null, Clementia Pharmaceuticals Inc.
+CBLI, 1.94, 0.78, null, Cleveland BioLabs, Inc.
+CLVS, 35.15, -2.23, null, Clovis Oncology, Inc.
+CLPS, 13.76, -0.58, null, CLPS Incorporation
+CMFN, 9.1, 0.00, 1.0, CM Finance Inc.
+CMFNL, 25.75, 0.35, null, CM Finance Inc
+CMSS, 9.97, 0.20, null, CM Seven Star Acquisition Corporation
+CMSSR, 0.58, -1.68, null, CM Seven Star Acquisition Corporation
+CMSSU, 10.75, 0.00, null, CM Seven Star Acquisition Corporation Units
+CMSSW, 0.548, 0.00, null, CM Seven Star Acquisition Corpo
+CME, 169.32, 0.98, 2.72, CME Group Inc.
+CCNE, 31.72, -0.19, 0.66, CNB Financial Corporation
+CCB, 16.07, -0.19, null, Coastal Financial Corporation
+CWAY, 27.7, -0.54, null, Coastway Bancorp, Inc.
+COBZ, 22.88, -0.09, 0.265, CoBiz Financial Inc.
+COKE, 169.6, 0.05, 1.0, Coca-Cola Bottling Co. Consolidated
+COCP, 3.85, 1.58, null, Cocrystal Pharma, Inc.
+CODA, 4.25, -0.93, null, Coda Octopus Group, Inc.
+CDXS, 16.3, 2.84, null, Codexis, Inc.
+CODX, 3.17, 3.93, null, Co-Diagnostics, Inc.
+CVLY, 31.2, 1.07, 0.568, Codorus Valley Bancorp, Inc.
+JVA, 5.05, -2.88, null, Coffee Holding Co., Inc.
+CCOI, 53.65, 2.39, 1.96, Cogent Communications Holdings, Inc.
+CGNX, 51.68, -2.38, 0.177, Cognex Corporation
+CTSH, 75.86, 1.00, 0.7, Cognizant Technology Solutions Corporation
+CWBR, 5.13, -1.72, null, CohBar, Inc.
+COHR, 183.4, -0.24, null, Coherent, Inc.
+CHRS, 18.9, -0.53, null, Coherus BioSciences, Inc.
+COHU, 26.07, 1.01, 0.24, Cohu, Inc.
+CLCT, 13.41, 1.44, 1.225, Collectors Universe Inc.
+COLL, 16.72, 2.89, null, Collegium Pharmaceutical, Inc.
+CIGI, 81.15, 0.87, 0.1, Colliers International Group Inc.
+CLGN, 5.85, 9.96, null, CollPlant Holdings Ltd.
+CBAN, 17.35, 0.29, 0.15, Colony Bankcorp, Inc.
+COLB, 42.35, -0.45, 0.92, Columbia Banking System, Inc.
+CLBK, 16.88, 0.00, null, Columbia Financial, Inc.
+COLM, 90.49, -0.11, 0.81, Columbia Sportswear Company
+CMCO, 41.98, 1.60, 0.18, Columbus McKinnon Corporation
+CMCSA, 36.5, 3.37, 0.695, Comcast Corporation
+CCNI, 5.35, 3.88, null, Command Center, Inc.
+CBSH, 71.05, -0.56, 0.897, Commerce Bancshares, Inc.
+CBSHP, 25.64, 0.25, 0.897, Commerce Bancshares, Inc.
+CVGI, 9.34, 1.41, null, Commercial Vehicle Group, Inc.
+COMM, 30.88, 0.95, null, CommScope Holding Company, Inc.
+JCS, 3.55, 3.65, 0.16, Communications Systems, Inc.
+ESXB, 9.1, 1.11, null, Community Bankers Trust Corporation
+CFBI, 11.57, -2.12, null, Community First Bancshares, Inc.
+CYHHZ, 0.0237, 3.04, null, Community Health Systems, Inc.
+CTBI, 49.7, -1.09, 1.32, Community Trust Bancorp, Inc.
+CWBC, 11.95, -2.85, 0.17, Community West Bancshares
+CVLT, 68.2, 1.04, null, Commvault Systems, Inc.
+CGEN, 3.6, 4.35, null, Compugen Ltd.
+CPSI, 27.25, -0.37, 0.6, Computer Programs and Systems, Inc.
+CTG, 6.02, -0.99, 0.0, Computer Task Group, Incorporated
+SCOR, 18.96, 0.21, null, comScore, Inc.
+CHCI, 2.83, 2.91, null, Comstock Holding Companies, Inc.
+CMTL, 36.52, 1.25, 0.4, Comtech Telecommunications Corp.
+CNAT, 5.2, 17.91, null, Conatus Pharmaceuticals Inc.
+CNCE, 15.66, 1.23, null, Concert Pharmaceuticals, Inc.
+CDOR, 10.5, -0.85, 0.78, Condor Hospitality Trust, Inc.
+CFMS, 1.08, 5.88, null, Conformis, Inc.
+CNFR, 6.5, 1.17, null, Conifer Holdings, Inc.
+CNMD, 77.82, 0.22, 0.8, CONMED Corporation
+CTWS, 68.9, 0.09, 1.205, Connecticut Water Service, Inc.
+CNOB, 25.45, 0.00, 0.3, ConnectOne Bancorp, Inc.
+CONN, 37.15, 0.68, null, Conn's, Inc.
+CNSL, 12.08, -0.08, 1.554, Consolidated Communications Holdings, Inc.
+CWCO, 13.55, -0.37, 0.33, Consolidated Water Co. Ltd.
+CNAC, 10.06, -0.10, null, Constellation Alpha Capital Corp.
+CNACR, 0.53, -7.02, null, Constellation Alpha Capital Corp.
+CNACU, 10.5, 0.00, null, Constellation Alpha Capital Corp. Units
+CNACW, 0.39, 0.00, null, Constellation Alpha Capital Cor
+CNST, 9.9, -2.85, null, Constellation Pharmaceuticals, Inc.
+ROAD, 11.97, -0.25, null, Construction Partners, Inc.
+CPSS, 3.59, -0.55, null, Consumer Portfolio Services, Inc.
+CFRX, 1.85, -2.63, null, ContraFect Corporation
+CTRV, 0.6836, -1.37, null, ContraVir Pharmaceuticals, Inc.
+CTRL, 36.86, 0.55, null, Control4 Corporation
+CVON, 9.45, 0.64, 0.02, ConvergeOne Holdings, Inc.
+AWSM, 3.5, 0.29, null, Cool Holdings, Inc.
+CPRT, 62.73, -0.41, null, Copart, Inc.
+CRBP, 5.0, 1.01, null, Corbus Pharmaceuticals Holdings, Inc.
+CORT, 13.58, 1.42, null, Corcept Therapeutics Incorporated
+CORE, 35.54, 2.16, 0.39, Core-Mark Holding Company, Inc.
+CORI, 9.51, 5.43, null, Corium International, Inc.
+CSOD, 55.84, 0.85, null, Cornerstone OnDemand, Inc.
+CORV, 4.48, 0.00, null, Correvio Pharma Corp.
+CRVL, 60.15, -0.25, null, CorVel Corporation
+CRVS, 10.04, 2.66, null, Corvus Pharmaceuticals, Inc.
+CSGP, 434.47, 0.00, null, CoStar Group, Inc.
+COST, 231.28, 0.77, 2.07, Costco Wholesale Corporation
+CPAH, 2.15, -3.15, null, CounterPath Corporation
+ICBK, 25.05, 0.28, 0.26, County Bancorp, Inc.
+COUP, 71.0, 2.36, null, Coupa Software Incorporated
+CVTI, 28.72, -0.28, null, Covenant Transportation Group, Inc.
+COWN, 15.15, 3.06, null, Cowen Inc.
+COWNL, 25.39, 0.16, null, Cowen Inc
+COWNZ, 25.65, 0.83, null, Cowen Inc. 7.35% SR NT 27
+PMTS, 2.54, 3.67, 0.0, CPI Card Group Inc.
+CPSH, 1.41, -3.42, null, CPS Technologies Corporation
+CRAI, 57.0, 0.09, 0.65, CRA International, Inc.
+CBRL, 151.14, -0.18, 4.8, Cracker Barrel Old Country Store, Inc.
+BREW, 19.45, 1.04, null, Craft Brew Alliance, Inc.
+CRAY, 21.5, 1.42, null, Cray Inc.
+CACC, 449.98, 0.00, null, Credit Acceptance Corporation
+DGLD, 55.78, -5.15, null, VelocityShares 3x Inverse Gold ETN
+DSLV, 32.86, -6.36, null, VelocityShares 3x Inverse Silver ETN
+GLDI, 8.17, 1.24, null, Credit Suisse X-Links Gold Cov Call ETN
+SLVO, 6.786, 1.73, null, Credit Suisse X-Links Silver CovCall ETN
+TVIX, 31.18, -1.27, null, VelocityShares Daily 2x VIX ST ETN
+UGLD, 8.19, 4.87, null, VelocityShares 3x Long Gold ETN
+USLV, 6.88, 6.34, null, VelocityShares 3x Long Silver ETN
+USOI, 28.5, 0.00, null, Credit Suisse X-Lnks Crde OlShrsCvCllETN
+VIIX, 12.17, -0.57, null, VelocityShares VIX ST ETN
+ZIV, 79.43, 0.49, null, VelocityShares Daily Inverse VIX MT ETN
+CREE, 46.69, 1.46, null, Cree, Inc.
+CRESY, 14.43, 0.00, 0.026, Cresud Sociedad Anónima Comercial, Inmobiliaria, Financiera y Agropecuaria
+CRNX, 32.74, -1.00, null, Crinetics Pharmaceuticals, Inc.
+CRSP, 48.42, -0.31, null, CRISPR Therapeutics AG
+CRTO, 26.29, -0.23, null, Criteo S.A.
+CROX, 20.44, -1.21, null, Crocs, Inc.
+CRON, 9.94, 16.39, null, Cronos Group Inc.
+CCRN, 10.03, -0.50, null, Cross Country Healthcare, Inc.
+CRWS, 5.7, 0.00, 0.32, Crown Crafts, Inc.
+CYRX, 14.01, 3.93, null, Cryoport, Inc.
+CYRXW, 10.511, 6.17, null, CryoPort, Inc. - Warrants
+CSGS, 37.02, 0.95, 0.815, CSG Systems International, Inc.
+CCLP, 6.0, 0.00, 0.75, CSI Compressco LP
+CSPI, 11.65, 2.19, 0.44, CSP Inc.
+CSWI, 56.05, 0.90, null, CSW Industrials, Inc.
+CSX, 74.65, 0.95, 0.84, CSX Corporation
+CTIC, 1.72, -1.71, null, CTI BioPharma Corp.
+CTIB, 3.95, 3.40, null, CTI Industries Corporation
+CTRP, 39.34, 0.67, null, Ctrip.com International, Ltd.
+CUE, 8.58, 2.75, null, Cue Biopharma, Inc.
+CUI, 2.19, -2.23, null, CUI Global, Inc.
+CPIX, 5.84, 5.42, null, Cumberland Pharmaceuticals Inc.
+CMLS, 19.89, 4.41, null, Cumulus Media Inc.
+CRIS, 1.46, 2.82, null, Curis, Inc.
+CUTR, 33.55, -0.15, null, Cutera, Inc.
+CVBF, 24.57, -0.32, 0.56, CVB Financial Corp.
+CVV, 5.85, 3.17, null, CVD Equipment Corporation
+CYAN, 3.65, -2.67, null, Cyanotech Corporation
+CYBR, 74.2, 1.34, null, CyberArk Software Ltd.
+CYBE, 21.05, 3.44, null, CyberOptics Corporation
+CYCC, 1.55, -3.12, null, Cyclacel Pharmaceuticals, Inc.
+CYCCP, 6.2, 0.00, null, Cyclacel Pharmaceuticals, Inc.
+CBAY, 12.6, 2.77, null, CymaBay Therapeutics, Inc.
+CY, 16.78, 1.27, 0.44, Cypress Semiconductor Corporation
+CYRN, 2.925, 0.86, null, CYREN Ltd.
+CONE, 67.87, 1.22, 1.76, CyrusOne Inc.
+CYTK, 7.15, 0.70, null, Cytokinetics, Incorporated
+CTMX, 23.1, 0.04, null, CytomX Therapeutics, Inc.
+CYTX, 0.5449, -10.60, null, Cytori Therapeutics, Inc.
+CYTXW, 0.0075, 7.14, null, Cytori Therapeutics Inc - Warra
+CYTXZ, 0.0023, -58.18, null, Cytori Therapeutics Inc
+CTSO, 12.25, 2.08, null, Cytosorbents Corporation
+CYTR, 1.05, -1.87, null, CytRx Corporation
+DJCO, 239.2, 2.72, null, Daily Journal Corporation
+DAKT, 7.44, -0.53, 0.28, Daktronics, Inc.
+DARE, 1.03, -3.74, null, Daré Bioscience, Inc.
+DRIO, 1.14, 6.54, null, DarioHealth Corp.
+DRIOW, 0.3, 0.00, null, DarioHealth Corp. - Warrant
+DZSI, 10.01, -1.38, null, DASAN Zhone Solutions, Inc.
+DSKE, 8.91, -0.89, null, Daseke, Inc.
+DSKEW, 0.907001, -8.29, null, Daseke, Inc. - Warrant
+DAIO, 5.52, -4.33, null, Data I/O Corporation
+DWCH, 12.95, -0.77, null, Datawatch Corporation
+PLAY, 57.45, 4.21, null, Dave &amp; Buster's Entertainment, Inc.
+DTEA, 2.9, 3.57, null, DAVIDsTEA Inc.
+DFNL, 24.99, 0.08, null, Davis Select Financial ETF
+DINT, 18.74, 0.97, null, Davis Select International ETF
+DUSA, 25.45, 0.51, null, Davis Select US Equity ETF
+DWLD, 26.22, -0.23, null, Davis Select Worldwide ETF
+DWSN, 5.94, 1.54, 0.32, Dawson Geophysical Company
+DBVT, 21.39, 0.52, null, DBV Technologies S.A.
+DCPH, 35.47, -0.84, null, Deciphera Pharmaceuticals, Inc.
+DFRG, 9.7, -0.51, null, Del Frisco's Restaurant Group, Inc.
+TACO, 13.44, 0.30, null, Del Taco Restaurants, Inc.
+TACOW, 3.45, -1.43, null, Del Taco Restaurants, Inc. - Wa
+DMPI, 0.51631, -1.66, null, DelMar Pharmaceuticals, Inc.
+DELT, 0.82, -0.61, 0.556, Delta Technology Holdings Limited
+DNLI, 16.43, -0.73, null, Denali Therapeutics Inc.
+DENN, 15.35, 0.79, null, Denny's Corporation
+XRAY, 38.5, 1.00, 0.35, DENTSPLY SIRONA Inc.
+DERM, 9.58, 4.47, null, Dermira, Inc.
+DEST, 4.86, -2.80, 0.2, Destination Maternity Corporation
+DXLG, 2.15, 0.00, null, Destination XL Group, Inc.
+DSWL, 3.43, 0.29, 0.04, Deswell Industries, Inc.
+DTRM, 0.78, 2.63, null, Determine, Inc.
+DXCM, 136.33, -4.13, null, DexCom, Inc.
+DFBH, 9.75, -0.31, null, DFB Healthcare Acquisitions Corp.
+DFBHU, 10.05, 0.00, null, DFB Healthcare Acquisitions Corp. Units
+DFBHW, 1.5, 0.00, null, DFB Healthcare Acquisitions Cor
+DHXM, 1.8, -2.70, 0.074, DHX Media Ltd.
+DHIL, 186.44, 0.86, null, Diamond Hill Investment Group, Inc.
+FANG, 121.75, 0.12, 0.25, Diamondback Energy, Inc.
+DCIX, 1.35, 3.05, 108.045, Diana Containerships Inc.
+DRNA, 15.34, -0.78, null, Dicerna Pharmaceuticals, Inc.
+DFBG, 4.67, 5.66, null, Differential Brands Group Inc.
+DFFN, 0.3981, 2.87, null, Diffusion Pharmaceuticals Inc.
+DGII, 13.2, 0.00, null, Digi International Inc.
+DMRC, 26.1, 4.40, 0.0, Digimarc Corporation
+DRAD, 1.75, 0.00, 0.22, Digirad Corporation
+DGLY, 2.65, 3.92, null, Digital Ally, Inc.
+APPS, 1.39, -0.71, null, Digital Turbine, Inc.
+DCOM, 18.5, -0.27, 0.56, Dime Community Bancshares, Inc.
+DIOD, 37.8, 1.50, null, Diodes Incorporated
+DISCA, 28.54, -0.87, null, Discovery, Inc.
+DISCB, 28.5, 0.00, null, Discovery, Inc.
+DISCK, 26.32, -0.98, null, Discovery, Inc.
+DISH, 35.45, 1.17, null, DISH Network Corporation
+DVCR, 6.0, -6.25, 0.22, Diversicare Healthcare Services, Inc.
+SAUC, 1.18, -0.84, null, Diversified Restaurant Holdings, Inc.
+DLHC, 5.45, 0.37, null, DLH Holdings Corp.
+BOOM, 44.35, 1.60, 0.08, DMC Global Inc.
+DNBF, 34.3, 0.00, 0.28, DNB Financial Corporation
+DOCU, 65.54, 2.57, null, DocuSign, Inc.
+DOGZ, 2.87, -2.71, null, Dogness (International) Corporation
+DLTR, 93.46, -0.75, null, Dollar Tree, Inc.
+DLPN, 2.65, -1.85, null, Dolphin Entertainment, Inc.
+DLPNW, 0.1711, 0.65, null, Dolphin Entertainment, Inc.
+DOMO, 20.0, 1.68, null, Domo, Inc.
+DGICA, 15.06, 2.31, 0.492, Donegal Group Inc.
+DGICB, 13.6, -1.09, 0.492, Donegal Group Inc.
+DMLP, 18.2, -1.09, 1.627, Dorchester Minerals, L.P.
+DORM, 80.83, 2.06, null, Dorman Products, Inc.
+DOVA, 25.07, 2.66, null, Dova Pharmaceuticals, Inc.
+LYL, 2.4702, 0.82, null, Dragon Victory International Limited
+DOTA, 10.07, 0.00, null, Draper Oakwood Technology Acquisition, Inc.
+DOTAR, 0.5986, 29.99, null, Draper Oakwood Technology Acquisition, Inc.
+DOTAU, 10.7, 0.00, null, Draper Oakwood Technology Acquisition, Inc. Units
+DOTAW, 0.75, 0.00, null, Draper Oakwood Technology Acqui
+DBX, 27.03, -4.62, null, Dropbox, Inc.
+DCAR, 0.733, -6.03, null, DropCar, Inc.
+DRYS, 4.84, 0.21, 0.025, DryShips Inc.
+DSPG, 12.9, 0.39, null, DSP Group, Inc.
+DLTH, 28.27, -1.43, null, Duluth Holdings Inc.
+DNKN, 71.43, 0.26, 1.335, Dunkin' Brands Group, Inc.
+DRRX, 1.29, 0.00, null, DURECT Corporation
+DXPE, 48.56, -0.06, null, DXP Enterprises, Inc.
+DYSL, 1.35, -3.57, null, Dynasil Corporation of America
+DYNT, 2.9, 0.00, null, Dynatronics Corporation
+DVAX, 13.2, 0.00, null, Dynavax Technologies Corporation
+ETFC, 58.8, 0.63, null, E*TRADE Financial Corporation
+SSP, 14.57, 0.48, 0.1, The E.W. Scripps Company
+EBMT, 18.95, -0.79, 0.362, Eagle Bancorp Montana, Inc.
+EGBN, 54.3, -0.18, null, Eagle Bancorp, Inc.
+EGLE, 5.16, -0.19, null, Eagle Bulk Shipping Inc.
+EFBI, 15.82, 0.13, null, Eagle Financial Bancorp, Inc.
+EGRX, 80.6, -0.24, null, Eagle Pharmaceuticals, Inc.
+EWBC, 63.7, -0.89, 0.8, East West Bancorp, Inc.
+EACQ, 10.4, 0.48, null, Easterly Acquisition Corp.
+EACQU, 11.4, 0.00, null, Easterly Acquisition Corp. Units
+EACQW, 1.07, 0.00, null, Easterly Acquisition Corp. - Wa
+EML, 30.1, 2.03, 0.44, The Eastern Company
+EAST, 7.64, 1.87, null, Eastside Distilling, Inc.
+EASTW, 2.1, 8.25, null, Eastside Distilling, Inc. - War
+EVGBC, 100.02, 0.00, null, Eaton Vance Global Income Builder NS
+EVSTC, 100.02, 0.00, null, Eaton Vance Stock NextShares
+EVFTC, 100.05, 0.00, null, Eaton Vance NextShares Trust II
+EVLMC, 100.03, 0.07, null, Eaton Vance TABS 5to15Yr Ldrd MuniBd NS
+OKDCC, 100.06, 0.07, null, Eaton Vance Oaktree Divers Crdt NextShrs
+EBAY, 34.53, 0.38, null, eBay Inc.
+EBAYL, 26.2, -0.04, null, eBay Inc. NT 56
+EBIX, 78.45, -2.24, 0.3, Ebix, Inc.
+ELON, 8.42, 0.48, null, Echelon Corporation
+ECHO, 33.4, 1.06, null, Echo Global Logistics, Inc.
+SATS, 48.86, 0.21, null, EchoStar Corporation
+EEI, 13.45, -1.82, 0.4, Ecology &amp; Environment, Inc.
+ESES, 0.398, -5.26, null, Eco-Stim Energy Solutions, Inc.
+EDAP, 3.11, 0.32, null, EDAP TMS S.A.
+EDGE, 0.84, -3.45, null, Edge Therapeutics, Inc.
+EDGW, 5.07, 1.20, null, Edgewater Technology, Inc.
+EDIT, 30.66, 0.76, null, Editas Medicine, Inc.
+EDUC, 13.25, -0.75, 0.1, Educational Development Corporation
+EGAN, 13.85, 0.00, null, eGain Corporation
+EGLT, 0.295, 0.89, null, Egalet Corporation
+EHTH, 29.93, 1.32, null, eHealth, Inc.
+EIDX, 20.23, -1.99, null, Eidos Therapeutics, Inc.
+EIGR, 12.5, 8.70, null, Eiger BioPharmaceuticals, Inc.
+EKSO, 2.53, 1.61, null, Ekso Bionics Holdings, Inc.
+LOCO, 12.5, 0.00, null, El Pollo Loco Holdings, Inc.
+EMITF, 2.27, 0.89, null, Elbit Imaging Ltd.
+ESLT, 121.74, 0.68, 1.76, Elbit Systems Ltd.
+ERI, 49.75, 2.05, null, Eldorado Resorts, Inc.
+SOLO, 3.43, -6.03, null, Electrameccanica Vehicles Corp.
+SOLOW, 0.5798, -3.37, null, electrameccanica v
+ESIO, 22.88, -0.95, 0.0, Electro Scientific Industries, Inc.
+ECOR, 14.39, -4.45, null, electroCore, Inc.
+EA, 128.97, 2.27, null, Electronic Arts Inc.
+EFII, 34.75, 1.40, null, Electronics for Imaging, Inc.
+ELSE, 3.69, -0.27, null, Electro-Sensors, Inc.
+ESBK, 20.25, -0.49, 0.886, Elmira Savings Bank
+ELOX, 15.06, 5.83, null, Eloxx Pharmaceuticals, Inc.
+ELTK, 3.7296, 1.90, null, Eltek Ltd.
+EMCI, 25.95, 0.74, 0.87, EMC Insurance Group Inc.
+EMCF, 38.18, 1.81, 1.1, Emclaire Financial Corp.
+EMKR, 4.8, 1.05, null, EMCORE Corporation
+EMMS, 4.99, 0.00, null, Emmis Communications Corporation
+NYNY, 13.0, -0.76, null, Empire Resorts, Inc.
+ENTA, 91.6, 0.26, null, Enanta Pharmaceuticals, Inc.
+ECPG, 40.0, 1.52, null, Encore Capital Group, Inc.
+WIRE, 51.85, 1.27, 0.08, Encore Wire Corporation
+ENDP, 15.54, -2.63, null, Endo International plc
+ECYT, 18.37, 2.06, null, Endocyte, Inc.
+ELGX, 2.43, 2.97, null, Endologix, Inc.
+NDRA, 2.57, -4.46, null, ENDRA Life Sciences Inc.
+NDRAW, 0.59, -3.28, null, ENDRA Life Sciences Inc. - Warr
+EIGI, 9.6, -0.52, null, Endurance International Group Holdings, Inc.
+WATT, 13.02, 1.32, null, Energous Corporation
+EFOI, 2.19, -1.35, null, Energy Focus, Inc.
+ERII, 9.19, 2.11, null, Energy Recovery, Inc.
+EGC, 9.03, 0.22, null, Energy XXI Gulf Coast, Inc.
+ENG, 1.01, 1.00, null, BNPP E NMX 30 Infrastructure Glbl ETF
+ENPH, 4.91, 0.20, null, Enphase Energy, Inc.
+ESGR, 211.8, 0.17, null, Enstar Group Limited
+ESGRP, 26.09, 0.00, null, Enstar Group Limited
+ENFC, 27.85, -0.36, null, Entegra Financial Corp.
+ENTG, 33.5, 0.90, 0.28, Entegris, Inc.
+ENTX, 4.7, 4.44, null, Entera Bio Ltd.
+ENTXW, 0.94, 0.00, null, Entera Bio Ltd
+EBTC, 36.84, 0.41, 0.56, Enterprise Bancorp, Inc.
+EFSC, 57.2, 0.18, 0.44, Enterprise Financial Services Corp
+EPZM, 11.6, 2.20, null, Epizyme, Inc.
+PLUS, 101.95, -0.10, null, ePlus inc.
+EQIX, 430.02, 0.20, 8.56, Equinix, Inc. (REIT)
+EQBK, 41.99, -0.54, null, Equity Bancshares, Inc.
+ERIC, 8.53, 3.77, 0.113, Telefonaktiebolaget LM Ericsson (publ)
+ERIE, 127.15, 0.72, 3.303, Erie Indemnity Company
+ERYP, 10.3917, 0.00, null, ERYTECH Pharma S.A.
+ESCA, 13.1, -1.50, 0.48, Escalade, Incorporated
+ESPR, 49.08, 0.49, null, Esperion Therapeutics, Inc.
+ESQ, 26.25, 2.14, null, Esquire Financial Holdings, Inc.
+ESSA, 16.105, -0.89, 0.36, ESSA Bancorp, Inc.
+EPIX, 3.2, 0.00, null, ESSA Pharma Inc.
+ESND, 15.09, 0.60, 0.56, Essendant Inc.
+ESTA, 25.47, 1.11, null, Establishment Labs Holdings Inc.
+ESTR, 6.59, -6.39, null, Estre Ambiental, Inc.
+ESTRW, 0.45, 2.27, null, Estre Ambiental, Inc.
+VBND, 47.89, -0.06, null, Vident Core US Bond Strategy ETF
+VUSE, 35.32, 0.34, null, Vident Core US Equity
+VIDI, 25.2, 0.84, null, Vident International Equity
+ETSY, 49.04, 0.47, null, Etsy, Inc.
+CLWT, 3.95, 1.28, null, Euro Tech Holdings Company Limited
+EDRY, 7.15, 3.77, null, EuroDry Ltd.
+EEFT, 96.99, 0.62, null, Euronet Worldwide, Inc.
+ESEA, 1.57, -0.63, null, Euroseas Ltd.
+EVLO, 13.74, 8.70, null, Evelo Biosciences, Inc.
+EVBG, 60.08, 0.05, null, Everbridge, Inc.
+EVK, 3.4, 7.94, null, Ever-Glory International Group, Inc.
+EVER, 13.61, -0.29, null, EverQuote, Inc.
+MRAM, 8.73, 0.34, null, Everspin Technologies, Inc.
+EVLV, 1.3, 0.00, null, EVINE Live Inc.
+EVOP, 22.03, -3.84, null, EVO Payments, Inc.
+EVFM, 2.3, -1.71, null, Evofem Biosciences, Inc.
+EVGN, 2.7, 3.85, null, Evogene Ltd.
+EVOK, 2.54, 2.01, null, Evoke Pharma, Inc.
+EOLS, 20.1, 3.61, null, Evolus, Inc.
+EVOL, 2.35, 0.00, 0.0, Evolving Systems, Inc.
+EXAS, 70.51, 3.72, null, Exact Sciences Corporation
+FLAG, 43.25, -0.05, null, FLAG-Forensic Accounting Long-Short ETF
+ROBO, 41.47, 0.44, null, Robo Global Robotics&amp;Automation ETF
+XELA, 5.88, 4.63, null, Exela Technologies, Inc.
+EXEL, 17.64, -1.67, null, Exelixis, Inc.
+EXFO, 3.9, -4.88, null, EXFO Inc
+EXLS, 61.83, 1.08, null, ExlService Holdings, Inc.
+EXPI, 15.85, -0.81, null, eXp World Holdings, Inc.
+EXPE, 130.22, 1.01, 1.2, Expedia Group, Inc.
+EXPD, 73.7, -0.04, 0.87, Expeditors International of Washington, Inc.
+EXPO, 52.8, 1.54, 0.47, Exponent, Inc.
+ESRX, 87.91, 0.21, null, Express Scripts Holding Company
+STAY, 20.03, 0.10, 0.86, Extended Stay America, Inc.
+XOG, 11.82, 0.00, null, Extraction Oil &amp; Gas, Inc.
+EXTR, 6.2, 0.98, null, Extreme Networks, Inc.
+EYEG, 0.5433, -2.98, null, EyeGate Pharmaceuticals, Inc.
+EYEGW, 0.0773, 0.00, null, Eyegate Pharmaceuticals, Inc. -
+EYEN, 5.47, -0.55, null, Eyenovia, Inc.
+EYPT, 2.07, 2.48, null, EyePoint Pharmaceuticals, Inc.
+EZPW, 11.15, -0.45, null, EZCORP, Inc.
+FFIV, 187.64, 1.08, null, F5 Networks, Inc.
+FB, 174.645, 1.01, null, Facebook, Inc.
+DAVE, 6.4, -1.54, null, Famous Dave's of America, Inc.
+FANH, 26.15, 5.23, 0.634, Fanhua Inc.
+FARM, 29.75, -0.50, null, Farmer Bros. Co.
+FMAO, 44.66, 1.25, 0.53, Farmers &amp; Merchants Bancorp, Inc.
+FMNB, 16.0, 0.00, 0.26, Farmers National Banc Corp.
+FAMI, 4.17, 3.22, null, Farmmi, Inc.
+FARO, 67.25, -1.25, null, FARO Technologies, Inc.
+FAST, 59.48, -1.44, 1.38, Fastenal Company
+FAT, 7.8, -4.53, null, FAT Brands Inc.
+FATE, 11.85, 4.41, null, Fate Therapeutics, Inc.
+FBSS, 23.18, -2.19, 0.48, Fauquier Bankshares, Inc.
+FSAC, 10.15, 0.20, null, Federal Street Acquisition Corp.
+FSACU, 11.09, 2.21, null, Federal Street Acquisition Corp. Units
+FSACW, 1.65, 0.00, null, Federal Street Acquisition Corp
+FNHC, 26.3, 1.78, 0.32, FedNat Holding Company
+FENC, 9.79, 1.14, null, Fennec Pharmaceuticals Inc.
+GSM, 8.2, 1.99, 0.08, Ferroglobe PLC
+FFBW, 11.21, -0.71, null, FFBW, Inc.
+FCSC, 1.95, -1.02, null, Fibrocell Science, Inc.
+FGEN, 59.55, -0.33, null, FibroGen, Inc.
+FDBC, 59.25, 0.97, 0.93, Fidelity D &amp; D Bancorp, Inc.
+ONEQ, 312.09, 0.84, 2.33, Fidelity NASDAQ Composite Tr Stk ETF
+LION, 24.19, 0.12, 0.48, Fidelity Southern Corporation
+FDUS, 15.16, 1.00, 1.56, Fidus Investment Corporation
+FDUSL, 25.65, -0.97, 1.56, Fidus Investment Corporation
+FRGI, 29.05, -0.85, null, Fiesta Restaurant Group, Inc.
+FITB, 29.45, -0.10, 0.66, Fifth Third Bancorp
+FITBI, 27.62, 0.11, 0.66, Fifth Third Bancorp
+FISI, 32.75, -0.76, 0.91, Financial Institutions, Inc.
+FNSR, 20.01, 0.30, null, Finisar Corporation
+FNJN, 4.34, 5.60, null, Finjan Holdings, Inc.
+FEYE, 16.37, 3.87, null, FireEye, Inc.
+FBNC, 42.835, -0.15, 0.36, First Bancorp
+FNLC, 29.77, 0.92, 1.01, The First Bancorp, Inc.
+FRBA, 14.35, -0.69, 0.11, First Bank
+BUSE, 32.29, 0.62, 0.76, First Busey Corporation
+FBIZ, 21.83, -0.55, 0.54, First Business Financial Services, Inc.
+FCAP, 39.75, 0.51, 0.9, First Capital, Inc.
+FCFS, 81.75, 0.93, 0.83, FirstCash, Inc.
+FCBP, 27.59, 0.47, 0.4, First Choice Bancorp
+FCNCA, 477.27, 1.37, 1.35, First Citizens BancShares, Inc.
+FCBC, 33.7, -0.41, 0.75, First Community Bancshares, Inc.
+FCCO, 25.9, 0.00, 0.39, First Community Corporation
+FBNK, 31.9, -0.47, 0.62, First Connecticut Bancorp, Inc.
+FDEF, 32.53, -0.15, 0.55, First Defiance Financial Corp.
+FFBC, 31.8, -0.31, 0.72, First Financial Bancorp.
+FFBCW, 20.5, 0.00, null, First Financial Bancorp. - Warr
+FFIN, 60.3, 0.08, 0.78, First Financial Bankshares, Inc.
+THFF, 51.9, -1.14, 1.02, First Financial Corporation
+FFNW, 17.62, -1.01, 0.29, First Financial Northwest, Inc.
+FFWM, 16.29, 1.75, null, First Foundation Inc.
+FGBI, 25.9, 0.82, 0.615, First Guaranty Bancshares, Inc.
+FHB, 28.9, -0.58, 0.92, First Hawaiian, Inc.
+INBK, 31.25, -0.64, 0.24, First Internet Bancorp
+INBKL, 25.97, 0.00, 0.24, First Internet Bancorp SB NT FXD FLG MA
+FIBK, 46.3, -0.54, 1.08, First Interstate BancSystem, Inc.
+FRME, 48.54, -0.63, 0.76, First Merchants Corporation
+FMBH, 41.04, 0.22, 0.68, First Mid-Illinois Bancshares, Inc.
+FMBI, 27.39, -0.58, 0.42, First Midwest Bancorp, Inc.
+FNWB, 16.67, -0.18, null, First Northwest Bancorp
+FSFG, 67.7, -0.04, 0.58, First Savings Financial Group, Inc.
+FSLR, 52.08, 0.99, null, First Solar, Inc.
+FAAR, 28.76, -0.25, null, First Trust Alt Abs Ret Strat ETF
+FPA, 31.82, 0.16, null, First Trust AsiaPac ex-Jpn AlphaDEX ETF
+BICK, 26.55, 1.45, null, First Trust BICK ETF
+FBZ, 11.13, 0.27, null, First Trust Brazil AlphaDEX ETF
+FTHI, 23.38, 0.17, null, First Trust BuyWrite Income ETF
+FCAL, 50.3725, 0.28, null, First Trust California Muni Hi Inc ETF
+FCAN, 25.54, 0.99, null, First Trust Canada AlphaDEX ETF
+FTCS, 54.03, 0.50, null, First Trust Capital Strength ETF
+FCEF, 22.17, 0.09, null, First Trust CEF Income Opportunity ETF
+FCA, 27.14, -1.45, null, First Trust China AlphaDEX ETF
+SKYY, 55.8, 1.00, null, First Trust Cloud Computing ETF
+RNDM, 50.44, -0.02, null, First Trust Developed Intl Eq Sel ETF
+FDT, 59.04, 1.04, null, First Trust Dev Mkts Ex-US AlphaDEX ETF
+FDTS, 41.02, 0.95, null, First Trust DevMkts exUS SC AlphaDEXETF
+FVC, 29.16, 1.19, null, First Trust Dorsey Wright Dynamic Foc 5
+FV, 31.32, 1.26, null, First Trust Dorsey Wright Focus 5 ETF
+IFV, 20.73, 0.88, null, First Trust Dorsey Wright Intl Foc 5
+DWPP, 30.18, 0.30, null, First Trust Dorsey Wrght People's Pt ETF
+DALI, 21.14, 0.91, null, First Trust Dorsey Wright DALI 1 ETF
+FEM, 25.16, 1.41, null, First Trust Emerging Mrkts AlphaDEX ETF
+RNEM, 50.35, -0.10, null, First Trust Emerging Markets Eq Sel ETF
+FEMB, 36.92, 0.85, null, First Trust Emerging Mkts Lcl Ccy Bd ETF
+FEMS, 37.21, 0.49, null, First Trust Emerg Mkts SC AlphaDEX ETF
+FTSM, 60.01, 0.02, null, First Trust Enhanced Short Maturity ETF
+FEP, 38.71, 0.86, null, First Trust Europe AlphaDEX ETF
+FEUZ, 42.48, 0.59, null, First Trust Eurozone AlphaDEX ETF
+FGM, 48.5, 1.17, null, First Trust Germany AlphaDEX ETF
+FTGC, 19.55, 0.77, null, First Trust Global Tact Cmdty Strat ETF
+FTLB, 23.09, 0.13, null, First Trust Hedged BuyWrite Income ETF
+HYLS, 47.77, 0.17, null, First Trust Tactical High Yield ETF
+FHK, 36.92, 0.00, null, First Trust Hong Kong AlphaDEX ETF
+NFTY, 37.86, 0.00, null, First Trust India NIFTY 50 Equal Wtd ETF
+FTAG, 26.02, 0.81, null, First Trust Indxx Global Agriculture ETF
+FTRI, 12.42, 0.32, null, First Trust Indxx Glbl Natrl Res Inc ETF
+LEGR, 30.03, 1.08, null, First Trust Indxx Invtv Tnsctn&amp;Prcs ETF
+FPXI, 34.67, 1.49, null, First Trust International IPO ETF
+YDIV, 17.3886, 0.40, null, International MA Divers Inc ETF
+FJP, 54.71, 0.66, null, First Trust Japan AlphaDEX ETF
+FEX, 62.2, 0.81, null, First Trust Large Cap Core AlphaDEX ETF
+FTC, 69.45, 1.30, null, First Trust Large Cap Gr AlphaDEX ETF
+RNLC, 22.7401, 0.22, null, First Trust Large Cap US Equity Sel ETF
+FTA, 54.64, 0.42, null, First Trust Large Cap Val AlphaDEX ETF
+FLN, 18.6, -0.59, null, First Trust Latin America AlphaDEX ETF
+LMBS, 51.14, 0.02, null, First Trust Low Duration Oppos ETF
+FMB, 52.77, 0.13, null, First Trust Managed Municipal ETF
+FMK, 36.11, -0.28, null, First Trust Mega Cap AlphaDEX ETF
+FNX, 72.37, 0.40, null, First Trust Mid Cap Core AlphaDEX ETF
+FNY, 46.21, 0.48, null, First Trust Mid Cap Growth AlphaDEX ETF
+RNMC, 22.878, -0.40, null, First Trust Mid Cap US Equity Select ETF
+FNK, 37.53, 0.11, null, First Trust Mid Cap Value AlphaDEX ETF
+FAD, 76.27, 1.26, null, First Trust Multi Cap Gr AlphaDEX ETF
+FAB, 58.2, 0.28, null, First Trust Multi Cap Val AlphaDEX ETF
+MDIV, 18.84, 0.05, null, Multi-Asset Diversified Income ETF
+MCEF, 17.97, -0.39, null, First Trust Municipal CEF Income Opp ETF
+FMHI, 50.57, 0.04, null, First Trust Municipal High Income ETF
+QABA, 56.75, -0.35, null, First Trust NASDAQ ABA Community Bk ETF
+ROBT, 31.76, 1.15, null, FT Nasdaq Artfcl Intllgnc and Rbtc ETF
+FTXO, 29.84, -0.23, null, First Trust Nasdaq Bank ETF
+QCLN, 20.39, 1.34, null, First Trust NASDAQ Cln Edge GrnEngyETF
+GRID, 49.92, 0.24, null, First Trust NASDAQ Cln EdgeStGidIfsETF
+CIBR, 28.23, 2.17, null, First Trust NASDAQ Cybersecurity ETF
+FTXG, 19.76, 0.00, null, First Trust Nasdaq Food &amp; Beverage ETF
+CARZ, 36.225, 0.34, null, First Trust NASDAQ Global Auto ETF
+FTXN, 24.73, 1.60, null, First Trust Nasdaq Oil &amp; Gas ETF
+FTXH, 23.7019, -0.05, null, First Trust Nasdaq Pharmaceuticals ETF
+FTXD, 24.6857, 0.35, null, First Trust Nasdaq Retail ETF
+FTXL, 32.4, 1.57, null, First Trust Nasdaq Semiconductor ETF
+FONE, 49.79, 1.06, null, First Trust NASDAQ Smartphone ETF
+TDIV, 37.63, 0.59, null, First Trust NASDAQ Technology Div ETF
+FTXR, 25.44, -0.70, null, First Trust Nasdaq Transportation ETF
+QQEW, 63.3, 1.07, null, First Trust NASDAQ-100 Equal Wtd ETF
+QQXT, 52.33, 0.29, null, First Trust NASDAQ-100 ex-Tech Sect ETF
+QTEC, 80.495, 1.43, null, First Trust NASDAQ-100-Tech Sector ETF
+AIRR, 28.05, 0.39, null, First Trust RBA Amer Indl RenaisTM ETF
+QINC, 25.64, 0.00, null, First Trust RBA Quality Income ETF
+RDVY, 31.47, 0.29, null, First Trust Rising Dividend Achiev ETF
+RFAP, 55.95, 0.38, null, First Trust RiverFront Dyn Asia Pac ETF
+RFDI, 61.33, 0.74, null, First Trust RiverFront Dyn Dev Intl ETF
+RFEM, 63.9396, 1.10, null, First Trust RiverFront Dyn Em Mkts ETF
+RFEU, 63.661, 1.00, null, First Trust RiverFront Dynamic Eurp ETF
+FTSL, 47.96, 0.02, null, First Trust Senior Loan ETF
+FYX, 69.79, 0.52, null, First Trust Small Cap Core AlphaDEX ETF
+FYC, 51.91, 0.64, null, First Trust Small Cap Gr AlphaDEX ETF
+RNSC, 23.5014, -0.59, null, First Trust Small Cap US Equity Sel ETF
+FYT, 39.9155, -0.01, null, First Trust Small Cap Val AlphaDEX ETF
+SDVY, 21.8065, -0.88, null, First Trust SMID Cp Rising Div Achv ETF
+FKO, 25.22, 1.08, null, First Trust South Korea AlphaDEX ETF
+FCVT, 30.58, 0.71, null, First Trust SSI Strat Convert Secs ETF
+FDIV, 49.79, -0.26, null, First Trust Strategic Income ETF
+FSZ, 52.17, 0.33, null, First Trust Switzerland AlphaDEX ETF
+FIXD, 49.57, 0.29, null, First Trust TCWOpportunistic Fxd Inc ETF
+TUSA, 35.72, 0.42, 0.346, First Trust Total US Market AlphaDEX ETF
+FKU, 38.3984, -0.37, null, First Trust United Kingdom AlphaDEX ETF
+RNDV, 22.39, -0.89, null, First Trust US Equity Dividend Sel ETF
+FUNC, 20.5, 0.24, 0.18, First United Corporation
+FUSB, 11.2, -1.58, 0.08, First US Bancshares, Inc.
+MYFW, 17.825, -0.36, null, First Western Financial, Inc.
+SVVC, 13.79, 0.44, 5.86, Firsthand Technology Value Fund, Inc.
+FSV, 86.49, 1.00, 0.515, FirstService Corporation
+FISV, 80.03, 0.48, null, Fiserv, Inc.
+FIVE, 114.79, 0.04, null, Five Below, Inc.
+FPRX, 14.0, 3.32, null, Five Prime Therapeutics, Inc.
+FVE, 0.975, 2.63, null, Five Star Senior Living Inc.
+FIVN, 47.46, 2.53, null, Five9, Inc.
+FLEX, 13.9, 0.36, null, Flex Ltd.
+FLKS, 0.51, 0.00, null, Flex Pharma, Inc.
+FLXN, 21.47, 1.08, null, Flexion Therapeutics, Inc.
+SKOR, 49.34, -0.10, null, FlexShares Credit-Scored US Corp Bd ETF
+LKOR, 50.6, 0.00, null, FlexShares Crdt-Scrd US Lng Corp Bd ETF
+MBSD, 23.062, 0.17, null, FlexShares Disciplined Duration MBS ETF
+ASET, 28.1401, 0.50, null, FlexShares Real Assets Allocation ETF
+ESGG, 98.12, 0.17, null, FlexShares STOXX Glbl ESG Impact ETF
+ESG, 67.94, 0.16, null, FlexShares STOXX US ESG Impact ETF
+QLC, 35.6593, 0.48, null, FlexShares US Quality Large Cap ETF
+FPAY, 3.28, -2.96, null, FlexShopper, Inc.
+FLXS, 36.64, -5.47, 0.88, Flexsteel Industries, Inc.
+FLIR, 61.33, 0.29, 0.62, FLIR Systems, Inc.
+FLNT, 2.3, 2.22, null, Fluent, Inc.
+FLDM, 7.93, 8.33, null, Fluidigm Corporation
+FFIC, 26.68, 1.68, 0.76, Flushing Financial Corporation
+FNCB, 8.6904, 2.84, 0.15, FNCB Bancorp, Inc.
+FOMX, 5.72, -2.05, null, Foamix Pharmaceuticals Ltd.
+FOCS, 39.34, -0.46, null, Focus Financial Partners Inc.
+FONR, 25.4, -2.31, null, Fonar Corporation
+FSCT, 35.38, 1.96, null, ForeScout Technologies, Inc.
+FRSX, 2.86, -4.03, null, Foresight Autonomous Holdings Ltd.
+FORM, 14.0, 1.45, null, FormFactor, Inc.
+FORTY, 41.0103, 6.52, 0.34, Formula Systems (1985) Ltd.
+FORR, 49.25, -0.51, 0.78, Forrester Research, Inc.
+FRTA, 9.1, -0.66, null, Forterra, Inc.
+FTNT, 80.39, 2.08, null, Fortinet, Inc.
+FBIO, 1.92, 0.52, null, Fortress Biotech, Inc.
+FBIOP, 18.3, 0.00, null, Fortress Biotech, Inc.
+FTSV, 14.92, -2.67, null, Forty Seven, Inc.
+FMCIU, 9.95, -0.40, null, Forum Merger II Corporation Units
+FWRD, 63.9, 0.74, 0.6, Forward Air Corporation
+FORD, 1.53, 0.66, null, Forward Industries, Inc.
+FWP, 2.8, 1.82, null, Forward Pharma A/S
+FOSL, 26.55, 0.11, null, Fossil Group, Inc.
+FOXF, 64.75, 0.94, null, Fox Factory Holding Corp.
+FRAN, 6.9, -3.77, null, Francesca's Holdings Corporation
+FELE, 48.5, 0.10, 0.443, Franklin Electric Co., Inc.
+FRED, 1.71, 1.18, 0.12, Fred's, Inc.
+RAIL, 17.85, 0.11, 0.09, FreightCar America, Inc.
+FEIM, 8.3, 0.73, null, Frequency Electronics, Inc.
+FRPT, 35.55, 1.28, null, Freshpet, Inc.
+FTEO, 16.5, 0.00, null, FRONTEO, Inc.
+FTR, 5.68, 1.07, 1.2, Frontier Communications Corporation
+FRPH, 63.65, 1.11, null, FRP Holdings, Inc.
+FSBW, 57.97, -0.72, 0.48, FS Bancorp, Inc.
+FSBC, 17.7, 0.74, null, FSB Bancorp, Inc.
+FTD, 3.77, 0.00, null, FTD Companies, Inc.
+FTEK, 1.12, 9.80, null, Fuel Tech, Inc.
+FCEL, 1.15, 0.88, null, FuelCell Energy, Inc.
+FLGT, 4.35, 6.88, null, Fulgent Genetics, Inc.
+FORK, 2.9, 1.75, 0.88, Fuling Global Inc.
+FLL, 2.95, -2.64, null, Full House Resorts, Inc.
+FULT, 18.1, -0.28, 0.46, Fulton Financial Corporation
+FNKO, 23.26, 1.26, null, Funko, Inc.
+FSNN, 4.03, 1.77, null, Fusion Connect, Inc.
+FTFT, 1.61, 1.90, null, Future FinTech Group Inc.
+FFHL, 2.34, 0.00, null, Fuwei Films (Holdings) Co., Ltd.
+WILC, 6.9, 0.00, null, G. Willi-Food International Ltd.
+GTHX, 58.06, 0.19, null, G1 Therapeutics, Inc.
+FOANC, 100.04, 0.00, null, Gabelli Food of All Nations NextShares
+GRBIC, 99.99, 0.00, null, Gabelli NextShares Trust Gabell
+MOGLC, 100.04, 0.00, null, Gabelli Media Mogul NextShares
+PETZC, 100.04, 0.00, null, Gabelli Pet Parents’ NextShares
+GAIA, 16.95, 0.30, null, Gaia, Inc.
+GLPG, 104.42, 1.93, null, Galapagos NV
+GALT, 4.19, -1.64, null, Galectin Therapeutics, Inc.
+GLMD, 12.55, -2.79, null, Galmed Pharmaceuticals Ltd.
+GLPI, 35.73, 0.65, 2.52, Gaming and Leisure Properties, Inc.
+GPIC, 8.65, 1.17, null, Gaming Partners International Corporation
+GRMN, 64.74, -0.40, 2.12, Garmin Ltd.
+GARS, 8.71, -0.11, 1.26, Garrison Capital Inc.
+GLIBA, 48.14, 1.65, null, GCI Liberty, Inc.
+GLIBP, 24.67, -0.20, null, GCI Liberty, Inc.
+GDS, 36.29, 2.11, null, GDS Holdings Limited
+GEMP, 1.44, -4.00, null, Gemphire Therapeutics Inc.
+GENC, 13.15, -1.13, null, Gencor Industries, Inc.
+GFN, 13.75, 0.00, null, General Finance Corporation
+GFNCP, 102.67, -0.02, null, General Finance Corporation
+GFNSL, 25.68, -0.08, null, General Finance Corporation SR NT
+GENE, 1.13, -2.59, null, Genetic Technologies Limited
+GNUS, 2.22, 0.00, null, Genius Brands International, Inc.
+GNMK, 7.62, 6.42, null, GenMark Diagnostics, Inc.
+GNCA, 0.606, 1.00, null, Genocea Biosciences, Inc.
+GHDX, 57.68, -1.32, null, Genomic Health, Inc.
+GNPX, 2.53, 1.20, null, Genprex, Inc.
+GNTX, 23.54, 0.09, 0.42, Gentex Corporation
+THRM, 49.0, 0.41, null, Gentherm Incorporated
+GEOS, 14.3, 1.71, null, Geospace Technologies Corporation
+GABC, 37.66, 0.37, 0.58, German American Bancorp, Inc.
+GERN, 5.19, 28.78, null, Geron Corporation
+GEVO, 3.98, 3.38, null, Gevo, Inc.
+ROCK, 45.7, -0.11, null, Gibraltar Industries, Inc.
+GIGM, 2.95, -4.53, null, GigaMedia Limited
+GIII, 46.53, 0.61, null, G-III Apparel Group, Ltd.
+GILT, 8.73, 0.46, null, Gilat Satellite Networks Ltd.
+GILD, 73.59, 0.34, 2.18, Gilead Sciences, Inc.
+GBCI, 45.35, 0.20, 0.91, Glacier Bancorp, Inc.
+GLAD, 9.68, 0.31, 0.84, Gladstone Capital Corporation
+GLADN, 25.4, 0.28, 0.84, Gladstone Capital Corporation -
+GOOD, 19.87, -0.70, 1.5, Gladstone Commercial Corporation
+GOODM, 25.436, 0.14, 1.5, Gladstone Commercial Corporation
+GOODO, 26.69, 0.72, 1.5, Gladstone Commercial Corporation
+GOODP, 26.1836, -0.06, 1.5, Gladstone Commercial Corporation
+GAIN, 12.07, 0.25, 0.785, Gladstone Investment Corporation
+GAINM, 25.26, 0.24, 0.785, Gladstone Investment Corporation
+GAINN, 24.98, 0.04, 0.785, Gladstone Investment Corporation
+GAINO, 24.97, -0.08, 0.785, Gladstone Investment Corporation
+LAND, 13.28, 0.08, 0.53, Gladstone Land Corporation
+LANDP, 25.81, 0.35, 0.53, Gladstone Land Corporation
+GLBZ, 12.54, 4.41, 0.4, Glen Burnie Bancorp
+GBT, 49.25, -0.30, null, Global Blood Therapeutics, Inc.
+ENT, 2.75, 2.61, null, Global Eagle Entertainment Inc.
+GBLI, 40.44, 1.76, 0.5, Global Indemnity Limited
+GBLIL, 25.86, 0.08, 0.25, Global Indemnity Limited SUB NT 47
+GBLIZ, 25.5296, -0.28, 0.5, Global Indemnity Limited
+SELF, 4.21, 1.45, 0.26, Global Self Storage, Inc.
+GWRS, 9.94, -1.88, 0.276, Global Water Resources, Inc.
+DRIV, 14.69, 0.62, null, Global X Atnms &amp; Elctrc Vhcls ETF
+KRMA, 20.98, -0.10, null, Global X Conscious Companies ETF
+FINX, 28.72, 1.20, null, Global X FinTech ETF
+AIQ, 15.671, 1.56, null, Global X Future Analytics Tech ETF
+BFIT, 19.52, 1.35, null, Global X Health &amp; Wellness Thematic ETF
+SNSR, 20.6, 0.78, null, Global X Internet of Things ETF
+LNGR, 21.84, 0.78, null, Global X Longevity Thematic ETF
+MILN, 23.31, 0.65, null, Global X Millennials Thematic ETF
+EFAS, 17.1999, -0.57, null, Global X MSCI SuperDividend EAFE ETF
+QQQC, 26.75, 1.40, null, Global X NASDAQ China Technology ETF
+BOTZ, 22.27, 0.27, null, Global X Robotics &amp; Artfcl Intllgnc ETF
+CATH, 35.63, 0.71, null, Global X S&amp;P 500 Catholic Values ETF
+SOCL, 33.09, 1.01, null, Global X Social Media ETF
+ALTY, 15.37, 0.20, null, Global X SuperDividend Alternatives ETF
+SRET, 15.645, -0.03, null, Global X SuperDividend REIT ETF
+YLCO, 11.95, -0.67, null, Global X YieldCo ETF
+GLBS, 0.3789, 0.03, null, Globus Maritime Limited
+GLUU, 7.64, 2.28, null, Glu Mobile Inc.
+GLYC, 15.08, -1.57, null, GlycoMimetics, Inc.
+GOGO, 4.42, 0.45, null, Gogo Inc.
+GLNG, 25.82, 1.57, 0.25, Golar LNG Limited
+GMLP, 14.5, -2.49, 2.31, Golar LNG Partners LP
+GMLPP, 25.4, -0.12, 2.31, Golar LNG Partners LP 8.75% CUM PFD A
+DNJR, 6.72, -4.00, null, Golden Bull Limited
+GDEN, 29.11, 0.07, null, Golden Entertainment, Inc.
+GOGL, 9.62, 1.69, 0.1, Golden Ocean Group Limited
+GBDC, 18.94, -0.11, 1.28, Golub Capital BDC, Inc.
+GTIM, 4.9, -4.85, null, Good Times Restaurants Inc.
+GSHD, 26.46, -0.90, null, Goosehead Insurance, Inc
+GPRO, 6.42, 0.78, null, GoPro, Inc.
+GPAQ, 9.87, 0.00, null, Gordon Pointe Acquisition Corp.
+GPAQU, 10.37, -0.29, null, Gordon Pointe Acquisition Corp. Units
+GPAQW, 0.55, 0.00, null, Gordon Pointe Acquisition Corp.
+GSHT, 10.21, -0.39, null, Gores Holdings II, Inc.
+GSHTU, 10.9, 0.00, null, Gores Holdings II, Inc. Units
+GSHTW, 1.95, -2.50, null, Gores Holdings II, Inc. - Warra
+GOV, 16.94, 0.47, 1.72, Government Properties Income Trust
+GOVNI, 25.3, 0.04, 1.72, Government Properties Income Trust
+LOPE, 119.97, -0.04, null, Grand Canyon Education, Inc.
+GRVY, 41.0, 0.00, null, Gravity Co., Ltd.
+GECC, 9.77, 0.00, 0.994, Great Elm Capital Corporation
+GECCL, 25.7, -0.39, 0.995, Great Elm Capital Group, Inc.
+GECCM, 25.1, -0.20, 0.995, Great Elm Capital Corp. 6.75% N
+GEC, 3.05, -0.81, null, Great Elm Capital Group, Inc.
+GLDD, 5.75, -0.86, null, Great Lakes Dredge &amp; Dock Corporation
+GSBC, 60.25, -0.17, 1.04, Great Southern Bancorp, Inc.
+GNBC, 24.5, 0.41, 0.1, Green Bancorp, Inc.
+GRBK, 10.1, -2.42, null, Green Brick Partners, Inc.
+GPP, 15.2, -0.98, 1.88, Green Plains Partners LP
+GPRE, 18.0, 0.95, 0.48, Green Plains Inc.
+GCBC, 34.5, 0.29, 0.393, Greene County Bancorp, Inc.
+GLAC, 9.65, 0.00, null, Greenland Acquisition Corporation
+GLACR, 0.45, 28.57, null, Greenland Acquisition Corporati
+GLACU, 10.2, 0.00, null, Greenland Acquisition Corporation Units
+GLACW, 0.17, 0.00, null, Greenland Acquisition Corporati
+GLRE, 12.9, 0.39, null, Greenlight Capital Re, Ltd.
+GRNQ, 4.75, 2.15, null, Greenpro Capital Corp.
+GSKY, 19.45, 6.87, null, GreenSky, Inc.
+GSUM, 5.57, 1.83, null, Gridsum Holding Inc.
+GRIF, 40.02, 1.44, 0.4, Griffin Industrial Realty, Inc.
+GRFS, 21.26, 0.28, 0.233, Grifols, S.A.
+GRIN, 9.75, 7.14, null, Grindrod Shipping Holdings Ltd.
+GRPN, 4.54, 0.44, null, Groupon, Inc.
+OMAB, 49.55, 1.85, 0.204, Grupo Aeroportuario del Centro Norte, S. A. B. de C. V.
+GGAL, 26.4, -7.11, 0.031, Grupo Financiero Galicia S.A.
+GVP, 3.5, 0.72, null, GSE Systems, Inc.
+GSIT, 6.65, 0.45, null, GSI Technology, Inc.
+GSVC, 7.13, 0.56, 0.0, GSV Capital Corp.
+GTXI, 19.38, -2.17, null, GTx, Inc.
+GTYH, 10.16, 0.00, null, GTY Technology Holdings Inc.
+GTYHU, 10.7, 0.00, null, GTY Technology Holdings Inc. Units
+GTYHW, 1.21, 0.83, null, GTY Technology Holdings, Inc. -
+GBNK, 31.65, 0.80, 0.575, Guaranty Bancorp
+GNTY, 30.95, 0.23, 0.55, Guaranty Bancshares, Inc.
+GFED, 24.9, -0.40, 0.46, Guaranty Federal Bancshares, Inc.
+GIFI, 9.65, -0.52, 0.02, Gulf Island Fabrication, Inc.
+GURE, 1.21, 4.31, null, Gulf Resources, Inc.
+GPOR, 11.69, 1.12, null, Gulfport Energy Corporation
+GWPH, 143.29, 0.12, null, GW Pharmaceuticals plc
+GWGH, 11.5, -2.54, null, GWG Holdings, Inc.
+GYRO, 20.31, 0.00, null, Gyrodyne, LLC
+HEES, 34.36, -0.38, 1.1, H&amp;E Equipment Services, Inc.
+HLG, 73.89, 0.38, null, Hailiang Education Group Inc.
+HNRG, 6.1, -0.81, 0.16, Hallador Energy Company
+HALL, 11.08, 1.00, null, Hallmark Financial Services, Inc.
+HALO, 17.97, -1.80, null, Halozyme Therapeutics, Inc.
+HBK, 14.1, -0.70, null, Hamilton Bancorp, Inc.
+HLNE, 46.35, 0.35, 0.738, Hamilton Lane Incorporated
+HJLI, 2.1, -7.89, null, Hancock Jaffe Laboratories, Inc.
+HJLIW, 0.4616, 12.59, null, Hancock Jaffe Laboratories, Inc
+HWC, 51.65, -0.58, 0.96, Hancock Whitney Corporation
+HWCPL, 25.73, -0.16, 0.96, Hancock Whitney Corporation 5.95% SUB NT 45
+HAFC, 26.3, -0.57, 0.9, Hanmi Financial Corporation
+HQCL, 8.35, 0.48, null, Hanwha Q CELLS Co., Ltd.
+HONE, 19.83, 0.71, null, HarborOne Bancorp, Inc.
+HLIT, 5.55, 2.78, null, Harmonic Inc.
+HFGIC, 100.1, 0.00, null, Hartford Global Impact NextShares
+HBIO, 6.0, 4.35, null, Harvard Bioscience, Inc.
+HCAP, 11.05, 0.00, 1.245, Harvest Capital Credit Corporation
+HCAPZ, 25.63, 0.00, null, Harvest Capital Credit Corporat
+HAS, 100.99, 1.06, 2.4, Hasbro, Inc.
+HA, 41.4, 0.49, 0.36, Hawaiian Holdings, Inc.
+HWKN, 42.0, 0.48, 0.88, Hawkins, Inc.
+HWBK, 22.1, -0.67, 0.295, Hawthorn Bancshares, Inc.
+HYAC, 9.78, 0.31, null, Haymaker Acquisition Corp.
+HYACU, 10.35, 0.78, null, Haymaker Acquisition Corp. Units
+HYACW, 1.25, 0.00, null, Haymaker Acquisition Corp.
+HAYN, 38.41, 1.13, 0.88, Haynes International, Inc.
+HDS, 44.95, -2.01, null, HD Supply Holdings, Inc.
+HIIQ, 55.85, 0.27, null, Health Insurance Innovations, Inc.
+HCSG, 41.21, 0.19, 0.767, Healthcare Services Group, Inc.
+HQY, 88.24, 1.00, null, HealthEquity, Inc.
+HSTM, 31.29, 1.07, null, HealthStream, Inc.
+HTLD, 20.12, -0.30, 0.08, Heartland Express, Inc.
+HTLF, 61.25, -0.16, 0.48, Heartland Financial USA, Inc.
+HTBX, 1.95, 0.52, null, Heat Biologics, Inc.
+HEBT, 1.48, 5.71, null, Hebron Technology Co., Ltd.
+HSII, 44.05, -0.45, 0.52, Heidrick &amp; Struggles International, Inc.
+HELE, 117.05, 0.47, null, Helen of Troy Limited
+HMNY, 0.0186, -7.92, null, Helios and Matheson Analytics Inc.
+HSDT, 10.11, -0.59, null, Helius Medical Technologies, Inc.
+HMTV, 13.55, 1.12, null, Hemisphere Media Group, Inc.
+HNNA, 14.57, -0.55, 0.35, Hennessy Advisors, Inc.
+HSIC, 81.15, -0.25, null, Henry Schein, Inc.
+HTBK, 16.01, -0.12, 0.42, Heritage Commerce Corp
+HFWA, 36.25, -0.55, 0.56, Heritage Financial Corporation
+HCCI, 23.55, -0.21, null, Heritage-Crystal Clean, Inc
+MLHR, 38.4, 1.72, 0.72, Herman Miller, Inc.
+HRTX, 39.25, -1.13, null, Heron Therapeutics, Inc.
+HSKA, 100.92, -2.22, null, Heska Corporation
+HX, 8.22, -2.72, 0.27, Hexindai Inc.
+HIBB, 20.525, -30.19, null, Hibbett Sports, Inc.
+SNLN, 18.21, 0.08, null, Highland/iBoxx Senior Loan ETF
+HPJ, 2.85, -5.00, null, Highpower International, Inc.
+HIHO, 4.05, 0.00, 0.32, Highway Holdings Limited
+HIMX, 6.39, 2.08, null, Himax Technologies, Inc.
+HIFS, 220.71, 0.67, 1.37, Hingham Institution for Savings
+HSGX, 2.41, 1.26, null, Histogenics Corporation
+HCCH, 9.58, 0.10, null, HL Acquisition Corp.
+HCCHR, 0.41, 0.00, null, HL Acquisition Corp. RT
+HCCHU, 10.35, -0.48, null, HL Acquisition Corp. Units
+HCCHW, 0.42, 0.00, null, HL Acquisitions Corp
+HMNF, 20.7, -0.96, null, HMN Financial, Inc.
+HMSY, 31.46, 0.00, null, HMS Holdings Corp.
+HOLI, 21.43, -0.05, 0.12, Hollysys Automation Technologies Ltd.
+HOLX, 39.06, 1.11, null, Hologic, Inc.
+HBCP, 45.59, -0.55, 0.6, Home Bancorp, Inc.
+HOMB, 23.74, -0.67, 0.44, Home Bancshares, Inc. (Conway, AR)
+HFBL, 34.56, -1.26, 0.48, Home Federal Bancorp, Inc. of Louisiana
+HMST, 29.55, -1.83, null, HomeStreet, Inc.
+HMTA, 13.12, -2.53, 0.04, HomeTown Bankshares Corporation
+HTBI, 29.4, 0.00, null, HomeTrust Bancshares, Inc.
+FIXX, 16.0, -5.66, null, Homology Medicines, Inc.
+HOFT, 47.9, 1.27, 0.52, Hooker Furniture Corporation
+HOPE, 17.61, -0.90, 0.53, Hope Bancorp, Inc.
+HFBC, 16.47, -0.18, 0.22, HopFed Bancorp, Inc.
+HBNC, 20.82, 0.34, 0.373, Horizon Bancorp, Inc.
+HZNP, 20.19, 0.20, null, Horizon Pharma Public Limited Company
+HRZN, 10.93, 0.18, 1.2, Horizon Technology Finance Corporation
+DAX, 28.7823, 0.64, null, Horizons DAX Germany ETF
+QYLD, 25.06, 0.36, null, Horizons NASDAQ 100 Covered Call ETF
+HDP, 21.67, 3.78, null, Hortonworks, Inc.
+HPT, 28.88, 0.00, 2.1, Hospitality Properties Trust
+TWNK, 11.92, 0.17, null, Hostess Brands, Inc.
+TWNKW, 1.3255, 0.42, null, Hostess Brands, Inc. - Warrants
+HMHC, 6.45, 2.38, null, Houghton Mifflin Harcourt Company
+HWCC, 8.3, -1.78, 0.0, Houston Wire &amp; Cable Company
+HOVNP, 4.5, -10.00, null, Hovnanian Enterprises, Inc. PFD DEP1/1000A
+HBMD, 17.05, 2.10, null, Howard Bancorp, Inc.
+HTGM, 3.39, 6.27, null, HTG Molecular Diagnostics, Inc.
+HTHT, 34.59, 4.82, null, Huazhu Group Limited
+HUBG, 51.6, 0.58, null, Hub Group, Inc.
+HSON, 1.7, -2.86, 0.0, Hudson Global, Inc
+HDSN, 1.79, 1.70, null, Hudson Technologies Inc.
+HUNT, 9.82, 0.00, null, Hunter Maritime Acquisition Corp.
+HUNTU, 10.1, 0.00, null, Hunter Maritime Acquisition Cor
+HUNTW, 0.45, 0.00, null, Hunter Maritime Acquisition Cor
+HBAN, 16.21, 0.19, 0.41, Huntington Bancshares Incorporated
+HBANN, 25.65, 0.00, 0.38, Huntington Bancshares Incorporated DSHS 1/40 PFD
+HBANO, 26.47, 0.19, 0.41, Huntington Bancshares Incorporated
+HURC, 42.0, 1.57, 0.41, Hurco Companies, Inc.
+HURN, 48.45, -0.10, null, Huron Consulting Group Inc.
+HCM, 28.93, 1.01, null, Hutchison China MediTech Limited
+HBP, 5.4, -0.18, null, Huttig Building Products, Inc.
+HVBC, 14.9, -3.25, null, HV Bancorp, Inc.
+HYGS, 5.85, -4.10, null, Hydrogenics Corporation
+HYRE, 3.27, -10.41, null, HyreCar Inc.
+IDSY, 6.57, 0.15, null, I.D. Systems, Inc.
+IIIV, 18.77, 3.42, null, i3 Verticals, Inc.
+IAC, 199.3, 1.41, 0.34, IAC/InterActiveCorp
+IAM, 10.03, -0.69, null, I-AM Capital Acquisition Company
+IAMXR, 0.49, 13.95, null, I-AM Capital Acquisition Company
+IAMXW, 0.4497, 0.00, null, I-AM Capital Acquisition Compan
+IBKC, 86.0, 0.12, 1.5, IBERIABANK Corporation
+IBKCO, 27.05, 0.56, 1.5, IBERIABANK Corporation
+IBKCP, 27.34, 1.41, 1.5, IBERIABANK Corporation
+ICAD, 2.9, 0.69, null, iCAD, Inc.
+IEP, 77.01, 0.48, 6.5, Icahn Enterprises L.P.
+ICCH, 15.1, -0.53, null, ICC Holdings, Inc.
+ICFI, 81.1, 0.19, 0.28, ICF International, Inc.
+ICHR, 24.16, 9.27, null, Ichor Holdings, Ltd.
+ICLK, 5.99, -3.85, null, iClick Interactive Asia Group Limited
+ICLR, 144.49, 0.01, null, ICON Public Limited Company
+ICON, 0.382, -2.05, null, Iconix Brand Group, Inc.
+ICUI, 304.0, 1.67, null, ICU Medical, Inc.
+IPWR, 0.6849, -4.61, null, Ideal Power Inc.
+INVE, 6.1, 0.00, null, Identiv, Inc.
+IDRA, 9.17, 9.56, null, Idera Pharmaceuticals, Inc.
+IDXX, 249.5, 1.44, null, IDEXX Laboratories, Inc.
+IESC, 18.95, 0.53, null, IES Holdings, Inc.
+IROQ, 24.51, 1.28, 0.2, IF Bancorp, Inc.
+IFMK, 3.08, 1.65, null, iFresh Inc.
+INFO, 53.67, -0.06, null, IHS Markit Ltd.
+IIVI, 47.8, 0.21, null, II-VI Incorporated
+KANG, 18.9, 0.59, null, iKang Healthcare Group, Inc.
+IKNX, 10.25, -0.29, null, IKONICS Corporation
+ILG, 35.28, 0.28, 0.65, ILG, Inc.
+ILMN, 340.6, 1.45, null, Illumina, Inc.
+ISNS, 6.0, 3.45, null, Image Sensing Systems, Inc.
+IMMR, 11.43, -1.55, null, Immersion Corporation
+ICCC, 6.75, -3.16, null, ImmuCell Corporation
+IMDZ, 3.35, -1.47, 0.224, Immune Design Corp.
+IMGN, 9.24, -3.85, null, ImmunoGen, Inc.
+IMMU, 22.28, 0.86, null, Immunomedics, Inc.
+IMRN, 9.7, -3.00, null, Immuron Limited
+IMRNW, 3.6, 0.00, null, Immuron Limited - Warrants
+IMMP, 2.51, -0.79, null, Immutep Limited
+IMPV, 47.2, 1.94, null, Imperva, Inc.
+PI, 20.41, 0.49, null, Impinj, Inc.
+IMMY, 3.15, -0.63, null, Imprimis Pharmaceuticals, Inc.
+IMV, 5.0, 0.00, null, IMV Inc.
+INCY, 70.08, 1.30, null, Incyte Corporation
+INDB, 90.35, -0.11, 1.4, Independent Bank Corp.
+IBCP, 25.15, -1.18, 0.52, Independent Bank Corporation
+IBTX, 70.5, 0.57, 0.46, Independent Bank Group, Inc.
+INDU, 9.93, 0.00, null, Industrea Acquisition Corp.
+INDUU, 10.58, -3.82, null, Industrea Acquisition Corp. Units
+INDUW, 0.6789, 6.08, null, Industrea Acquisition Corp. - W
+ILPT, 23.99, 0.00, 0.6, Industrial Logistics Properties Trust
+IDSA, 2.25, 2.27, null, Industrial Services of America, Inc.
+INFN, 9.11, 1.67, null, Infinera Corporation
+INFI, 2.04, 2.00, null, Infinity Pharmaceuticals, Inc.
+IFRX, 30.98, -1.12, null, InflaRx N.V.
+III, 4.3, 0.94, null, Information Services Group, Inc.
+IEA, 10.48, 0.67, null, Infrastructure and Energy Alternatives, Inc.
+IEAWW, 1.447, 3.36, null, Infrastructure and Energy Alter
+IMKTA, 36.35, -1.22, 0.66, Ingles Markets, Incorporated
+INWK, 7.5, -0.66, null, InnerWorkings, Inc.
+INOD, 1.27, -2.31, null, Innodata Inc.
+IPHS, 44.39, 2.54, 1.92, Innophos Holdings, Inc.
+IOSP, 77.8, 2.57, 0.83, Innospec Inc.
+INNT, 5.04, -0.20, null, Innovate Biopharmaceuticals, Inc.
+ISSC, 2.71, 0.74, null, Innovative Solutions and Support, Inc.
+INVA, 14.12, 0.21, 0.0, Innoviva, Inc.
+INGN, 246.04, 1.93, null, Inogen, Inc.
+INOV, 11.8, -1.26, null, Inovalon Holdings, Inc.
+INO, 5.06, 1.81, null, Inovio Pharmaceuticals, Inc.
+INPX, 0.1289, 1.66, null, Inpixon
+INSG, 3.06, -0.97, null, Inseego Corp.
+NSIT, 56.23, 1.57, null, Insight Enterprises, Inc.
+ISIG, 2.03, 0.00, null, Insignia Systems, Inc.
+INSM, 21.34, -0.19, null, Insmed Incorporated
+INSE, 7.1, -0.70, null, Inspired Entertainment, Inc.
+IIIN, 40.01, 0.25, 0.12, Insteel Industries, Inc.
+PODD, 94.07, 0.09, null, Insulet Corporation
+INSY, 8.06, -0.74, null, INSYS Therapeutics, Inc.
+NTEC, 3.8, 0.00, null, Intec Pharma Ltd.
+IART, 59.22, -0.50, null, Integra LifeSciences Holdings Corporation
+IDTI, 37.67, 1.15, null, Integrated Device Technology, Inc.
+IMTE, 12.3395, 8.05, null, Integrated Media Technology Limited
+INTC, 47.66, 1.45, 1.145, Intel Corporation
+NTLA, 28.74, 0.60, null, Intellia Therapeutics, Inc.
+IPCI, 0.235, -3.05, null, IntelliPharmaCeutics International Inc.
+IPAR, 66.25, 0.45, 0.8, Inter Parfums, Inc.
+IBKR, 61.08, 0.36, 0.4, Interactive Brokers Group, Inc.
+ICPT, 108.45, 0.76, null, Intercept Pharmaceuticals, Inc.
+IDCC, 82.7, 0.55, 1.4, InterDigital, Inc.
+TILE, 23.4, 1.30, 0.26, Interface, Inc.
+LINK, 3.57, -5.31, null, Interlink Electronics, Inc.
+IMI, 1.4, 2.19, null, Intermolecular, Inc.
+INAP, 13.78, 2.53, null, Internap Corporation
+IBOC, 46.6, -0.11, 0.66, International Bancshares Corporation
+IMXI, 9.53, 1.28, null, International Money Express, Inc.
+IMXIW, 1.6, 3.90, null, INTERNATIONAL MONEY EXPRESS INC
+ISCA, 44.1, 0.11, 0.47, International Speedway Corporation
+IGLD, 2.8833, -0.58, null, Internet Gold - Golden Lines Ltd.
+IIJI, 10.42, 4.20, 0.123, Internet Initiative Japan Inc.
+IDXG, 1.35, 14.41, null, Interpace Diagnostics Group, Inc.
+XENT, 27.9, 2.39, null, Intersect ENT, Inc.
+INTX, 1.6, 6.67, 0.0, Intersections Inc.
+IVAC, 5.625, -3.02, null, Intevac, Inc.
+INTL, 56.5, 1.00, null, INTL FCStone Inc.
+ITCI, 21.3, -0.37, null, Intra-Cellular Therapies, Inc.
+IIN, 66.95, 0.98, null, IntriCon Corporation
+INTU, 216.63, 1.97, 1.51, Intuit Inc.
+ISRG, 541.52, 0.80, null, Intuitive Surgical, Inc.
+PLW, 31.85, 0.13, null, Invesco 1-30 Laddered Treasury ETF
+ADRA, 32.4959, -0.38, null, Invesco BLDRS Asia 50 ADR
+ADRD, 22.58, 0.67, 0.79, Invesco BLDRS Developed Markets 100 ADR
+ADRE, 40.3828, 0.96, 0.7, Invesco BLDRS Emerging Markets 50 ADR
+ADRU, 21.98, 0.73, 0.87, Invesco BLDRS Europe Select ADR
+PKW, 60.56, 0.41, null, Invesco BuyBack Achievers ETF
+PFM, 27.2, 0.22, 0.5, Invesco Dividend Achievers ETF
+PYZ, 68.72, 0.26, null, Invesco DWA Basic Materials Momentum ETF
+PEZ, 59.25, 0.78, null, Invesco DWA Consumer Cyclicals Mom ETF
+PSL, 72.4, 0.46, null, Invesco DWA Consumer Staples Mom ETF
+PIZ, 28.09, 1.30, null, Invesco DWA Developed Markets Mom ETF
+PIE, 18.98, 1.61, null, Invesco DWA Emerging Markets Mom ETF
+PXI, 43.3, 1.12, null, Invesco DWA Energy Momentum ETF
+PFI, 35.5, -0.14, null, Invesco DWA Financial Momentum ETF
+PTH, 93.51, 0.88, null, Invesco DWA Healthcare Momentum ETF
+PRN, 64.03, -0.26, null, Invesco DWA Industrials Momentum ETF
+DWLV, 33.83, 0.74, null, Invesco DWA Momentum &amp; Low Vol Rttn ETF
+PDP, 58.71, 0.79, null, Invesco DWA Momentum ETF
+DWAQ, 116.18, 1.03, 0.13, Invesco DWA NASDAQ Momentum ETF
+DWAS, 57.79, 0.71, null, Invesco DWA SmallCap Momentum ETF
+DWIN, 25.48, 0.04, null, Invesco DWA Tactical Multi-Asset Inc ETF
+DWTR, 31.76, 1.11, null, Invesco DWA Tactical Sector Rotation ETF
+PTF, 66.59, 1.76, null, Invesco DWA Technology Momentum ETF
+PUI, 28.94, 0.14, 0.7, Invesco DWA Utilities Momentum ETF
+IDLB, 29.19, 0.97, null, Invesco FTSE Intl Low Beta Eq Wt ETF
+PRFZ, 145.35, 0.40, null, Invesco FTSE RAFI US 1500 Small-Mid ETF
+PAGG, 27.1, 1.08, null, Invesco Global Agriculture ETF
+PSAU, 15.72, 2.75, null, Invesco Global Gold and Prec Mtls ETF
+PIO, 25.38, 0.04, null, Invesco Global Water ETF
+PGJ, 39.86, 0.21, 0.07, Invesco Golden Dragon China ETF
+PEY, 18.09, 0.28, 0.51, Invesco High Yield Eq Div Achiev ETF
+IPKW, 34.71, 0.70, null, Invesco Intl BuyBack Achiev ETF
+PID, 15.96, 0.44, null, Invesco International Div Achiev ETF
+KBWB, 57.0, 0.00, null, Invesco KBW Bank ETF
+KBWD, 23.53, 0.13, null, Invesco KBW High Dividend Yld Fincl ETF
+KBWY, 35.455, 0.07, null, Invesco KBW Premium Yield Eq REIT ETF
+KBWP, 63.0, -0.08, null, Invesco KBW Property &amp; Casualty Ins ETF
+KBWR, 59.5932, -0.21, null, Invesco KBW Regional Banking ETF
+LDRI, 24.5401, 0, null, Invesco LadderRite 0-5 Year Corp Bd ETF
+LALT, 21.74, 0.00, null, Invesco Multi-Strategy Alternative ETF
+PNQI, 136.77, 1.48, null, Invesco NASDAQ Internet ETF
+PDBC, 17.97, 0.73, null, Invesco Optm Yd Dvrs Cdty Stra No K1 ETF
+QQQ, 182.48, 0.93, 1.24, Invesco QQQ Trust
+USLB, 33.1149, -0.20, null, Invesco Russell 1000 Low Beta Eq Wt ETF
+PSCD, 71.49, -0.20, null, Invesco S&amp;P SmallCap Cnsmr Discret ETF
+PSCC, 85.53, 0.39, null, Invesco S&amp;P SmallCap Consumer Stapl ETF
+PSCE, 16.6, 0.12, null, Invesco S&amp;P SmallCap Energy ETF
+PSCF, 60.2, -0.03, null, Invesco S&amp;P SmallCap Financials ETF
+PSCH, 141.35, 0.30, null, Invesco S&amp;P SmallCap Health Care ETF
+PSCI, 74.86, 0.40, null, Invesco S&amp;P SmallCap Industrials ETF
+PSCT, 88.01, 0.49, null, Invesco S&amp;P SmallCap Info Tech ETF
+PSCM, 55.19, 1.36, null, Invesco S&amp;P SmallCap Materials ETF
+PSCU, 56.28, 0.14, null, Invesco S&amp;P SmallCap Utilities ETF
+VRIG, 25.11, 0.08, null, Invesco Variable Rate Investment Grd ETF
+PHO, 31.5, 0.38, null, Invesco Water Resources ETF
+ISTR, 28.2, 1.08, 0.139, Investar Holding Corporation
+ISBC, 12.83, -0.85, 0.36, Investors Bancorp, Inc.
+ITIC, 196.24, -0.39, 1.6, Investors Title Company
+NVIV, 1.95, -3.94, null, InVivo Therapeutics Holdings Corp.
+IVTY, 3.95, 9.72, null, Invuity, Inc.
+IONS, 49.8, -2.75, null, Ionis Pharmaceuticals, Inc.
+IOVA, 15.975, 0.31, null, Iovance Biotherapeutics, Inc.
+IPAS, 1.92, -9.00, null, iPass Inc.
+IPGP, 166.91, 0.60, null, IPG Photonics Corporation
+IPIC, 7.4, 5.11, null, iPic Entertainment Inc.
+CLRG, 26.15, 0.19, null, IQ Chaikin US Large Cap ETF
+CSML, 29.39, 0.31, null, IQ Chaikin US Small Cap ETF
+IQ, 28.65, 0.14, null, iQIYI, Inc.
+IRMD, 29.3, 1.21, null, IRadimed Corporation
+IRTC, 90.9, 3.57, null, iRhythm Technologies, Inc.
+IRIX, 8.42, 0.48, null, IRIDEX Corporation
+IRDM, 20.85, 0.72, null, Iridium Communications Inc.
+IRDMB, 702.0, -0.65, null, Iridium Communications Inc.
+IRBT, 108.07, 2.34, null, iRobot Corporation
+IRWD, 18.58, 1.09, null, Ironwood Pharmaceuticals, Inc.
+IRCP, 27.5, -0.76, 0.199, IRSA Propiedades Comerciales S.A.
+PMPT, 27.56, 0.00, null, iSectors Post-MPT Growth ETF
+SLQD, 49.78, 0.04, null, iShares 0-5 Year Invmt Grade Corp Bd ETF
+ISHG, 81.88, 0.32, null, iShares 1-3 Year International TrsBd ETF
+SHY, 83.33, 0.01, 0.555, iShares 1-3 Year Treasury Bond ETF
+TLT, 122.29, 0.20, null, iShares 20+ Year Treasury Bond ETF
+IEI, 120.15, -0.02, null, iShares 3-7 Year Treasury Bond ETF
+IEF, 102.89, 0.03, null, iShares 7-10 Year Treasury Bond ETF
+AIA, 62.67, 1.64, null, iShares Asia 50 ETF
+USIG, 54.08, 0.02, null, iShares Broad USD Invm Grd Corp Bd ETF
+COMT, 38.02, 0.90, null, iShares Commodities Select Strategy ETF
+ISTB, 49.14, -0.06, null, iShares Core 1-5 Year USD Bond ETF
+IXUS, 60.17, 0.89, null, iShares Core MSCI Total Intl Stk ETF
+IUSG, 60.89, 0.68, 0.545, iShares Core S&amp;P US Growth ETF
+IUSV, 56.49, 0.52, 1.117, iShares Core S&amp;P US Value ETF
+IUSB, 49.54, -0.04, null, iShares Core Total USD Bond Market ETF
+HEWG, 27.69, 0.18, null, iShares Currency Hedged MSCI Germany ETF
+SUSB, 24.6399, -0.04, null, iShares ESG 1-5 Year USD Corp Bd ETF
+SUSC, 24.47, 0.00, null, iShares ESG USD Corporate Bond ETF
+XT, 38.4, 0.92, null, iShares Exponential Technologies ETF
+FALN, 26.48, 0.00, null, iShares Fallen Angels USD Bond ETF
+IFEU, 40.0527, 0.46, null, iShares Europe Developed Real Estate ETF
+IFGL, 29.09, 0.69, null, iShares International Dev Real Est ETF
+IGF, 42.98, 0.28, null, iShares Global Infrastructure ETF
+GNMA, 48.535, 0.11, null, iShares GNMA Bond ETF
+HYXE, 50.6244, 0.09, null, iShares iBoxx $ HY exOil&amp;Gas Corp Bd ETF
+IGIB, 53.58, 0.06, null, iShares Intermediate-Term Corp Bd ETF
+IGOV, 48.73, 0.64, null, iShares International Treasury Bond ETF
+EMB, 107.4, 0.26, null, iShares JP Morgan USD Em Mkts Bd ETF
+MBB, 104.34, 0.02, null, iShares MBS ETF
+JKI, 164.51, 0.39, 3.026, iShares Morningstar Mid-Cap Value ETF
+ACWX, 47.57, 0.93, null, iShares MSCI ACWI ex US ETF
+ACWI, 73.49, 0.77, null, iShares MSCI ACWI ETF
+AAXJ, 71.48, 1.39, null, iShares MSCI All Country Asia ex Jpn ETF
+EWZS, 11.8, -0.08, null, iShares MSCI Brazil Small-Cap ETF
+MCHI, 61.21, 1.51, null, iShares MSCI China ETF
+ESGD, 65.49, 0.57, null, iShares MSCI EAFE ESG Optimized ETF
+SCZ, 62.15, 0.60, null, iShares MSCI EAFE Small-Cap ETF
+ESGE, 33.85, 1.38, null, iShares MSCI EM ESG Optimized ETF
+EEMA, 69.03, 1.57, null, iShares MSCI Emerging Markets Asia ETF
+EMXC, 49.63, 1.31, null, iShares MSCI Emerging Mkts ex China ETF
+EUFN, 20.12, 0.85, null, iShares MSCI Europe Financials ETF
+IEUS, 56.13, 0.68, null, iShares MSCI Europe Small-Cap ETF
+RING, 14.71, 2.58, null, iShares MSCI Global Gold Miners ETF
+MPCT, 57.8, -0.16, null, iShares MSCI Global Impact ETF
+ENZL, 48.89, 1.12, null, iShares MSCI New Zealand ETF
+QAT, 17.49, 0.92, null, iShares MSCI Qatar ETF
+TUR, 21.74, 3.28, null, iShares MSCI Turkey ETF
+UAE, 15.7929, 0.59, null, iShares MSCI UAE ETF
+ESGU, 63.25, 0.56, null, iShares MSCI USA ESG Optimized ETF
+IBB, 117.4, 0.07, 0.64, iShares Nasdaq Biotechnology ETF
+SOXX, 186.8, 1.45, 1.4, iShares PHLX Semiconductor ETF
+AMCA, 28.45, -0.11, null, iShares Russell 1000 Pure US Revenue ETF
+EMIF, 27.76, 0.07, null, iShares Emerging Markets Infras ETF
+ICLN, 8.72, 1.16, null, iShares Global Clean Energy ETF
+WOOD, 77.41, 0.69, null, iShares Global Timber &amp; Forestry ETF
+INDY, 37.55, 1.35, null, iShares India 50 ETF
+IJT, 206.36, 0.50, 1.521, iShares S&amp;P Small-Cap 600 Growth ETF
+DVY, 101.42, 0.27, 2.622, iShares Select Dividend ETF
+SHV, 110.42, 0.01, null, iShares Short Treasury Bond ETF
+IGSB, 52.0, 0.01, null, iShares Short-Term Corporate Bond ETF
+PFF, 37.76, 0.40, null, iShares US Preferred Stock ETF
+ISRL, 120.15, 1.56, null, Isramco, Inc.
+ITI, 5.12, -0.58, null, Iteris, Inc.
+ITRM, 10.05, 0.50, null, Iterum Therapeutics plc
+ITRI, 65.15, -0.23, null, Itron, Inc.
+ITRN, 33.5, 0.00, 0.96, Ituran Location and Control Ltd.
+ITUS, 4.01, 0.75, null, ITUS Corporation
+IVENC, 100.02, 0.00, null, Ivy NextShares Ivy Focused Ener
+IVFGC, 100.02, 0.00, null, Ivy NextShares - Ivy Focused Gr
+IVFVC, 100.02, 0.00, null, Ivy Focused Value NextShares
+IZEA, 1.47, -3.92, null, IZEA, Inc.
+JJSF, 143.38, 0.14, 1.77, J&amp;J Snack Foods Corp.
+MAYS, 37.1085, 0.84, null, J.W. Mays, Inc.
+JBHT, 123.8, 0.25, 0.94, J.B. Hunt Transport Services, Inc.
+JCOM, 81.22, 1.18, 1.6, j2 Global, Inc.
+JKHY, 158.47, 1.19, 1.3, Jack Henry &amp; Associates, Inc.
+JACK, 88.63, 0.07, 1.6, Jack in the Box Inc.
+JAGX, 0.8488, -1.30, null, Jaguar Health, Inc.
+JAKK, 2.475, 3.12, null, JAKKS Pacific, Inc.
+JMBA, 12.97, -0.08, null, Jamba, Inc.
+JRVR, 41.21, 0.86, 1.2, James River Group Holdings, Ltd.
+JSML, 45.36, 0.53, null, Janus Henderson Small Cap Gr Alpha ETF
+JSMD, 46.34, 1.00, null, Janus Henderson Small/Md Cp Gr Alpha ETF
+JASN, 2.63, 4.37, null, Jason Industries, Inc.
+JASNW, 0.01, 25.00, null, Jason Industries, Inc. - Warran
+JAZZ, 167.41, -1.23, null, Jazz Pharmaceuticals plc
+JD, 31.4, 0.03, null, JD.com, Inc.
+JSYN, 10.6, 0.00, null, Jensyn Acquisition Corp.
+JSYNR, 0.41, 0.00, null, Jensyn Acquistion Corp. - Right
+JSYNU, 11.2, 0.00, null, Jensyn Acquisition Corp. Units
+JSYNW, 0.23, 0.00, null, Jensyn Acquistion Corp. - Warra
+JRSH, 6.85, -0.15, null, Jerash Holdings (US), Inc.
+JBLU, 18.63, -1.43, null, JetBlue Airways Corporation
+JTPY, 1.7, 3.03, null, JetPay Corporation
+JCTCF, 8.5, -5.03, null, Jewett-Cameron Trading Company Ltd.
+JMU, 1.33, -13.64, null, JMU Limited
+JBSS, 73.14, 0.58, 0.5, John B. Sanfilippo &amp; Son, Inc.
+JOUT, 103.88, -0.78, 0.44, Johnson Outdoors Inc.
+JNCE, 8.31, 5.59, null, Jounce Therapeutics, Inc.
+KTWO, 22.55, 1.53, null, K2M Group Holdings, Inc.
+KALU, 109.13, 2.26, 2.15, Kaiser Aluminum Corporation
+KALA, 12.83, 2.56, null, Kala Pharmaceuticals, Inc.
+KALV, 15.15, -0.33, null, KalVista Pharmaceuticals, Inc.
+KMDA, 5.675, 0.44, null, Kamada Ltd.
+KNDI, 4.0, -1.23, null, Kandi Technologies Group, Inc.
+KPTI, 18.16, 0.78, null, Karyopharm Therapeutics Inc.
+KAAC, 10.27, 0.39, null, Kayne Anderson Acquisition Corp.
+KAACU, 10.9, 0.00, null, Kayne Anderson Acquisition Corp. Units
+KAACW, 1.58, -1.86, null, Kayne Anderson Acquisition Corp
+KZIA, 3.33, 2.46, null, Kazia Therapeutics Limited
+KBLM, 10.02, 0.00, null, KBL Merger Corp. IV
+KBLMR, 0.39, 0.00, null, KBL Merger Corp. IV - Right
+KBLMU, 10.5, 0.00, null, KBL Merger Corp. IV Units
+KBLMW, 0.3, 0.00, null, KBL Merger Corp. IV - Warrant
+KBSF, 3.84, -1.54, null, KBS Fashion Group Limited
+KCAP, 3.24, 0.93, 0.42, KCAP Financial, Inc.
+KCAPL, 25.3192, 0.27, 0.44, KCAP Financial, Inc. 6.125% NT 2022
+KRNY, 14.05, 0.36, 0.13, Kearny Financial Corp.
+KELYA, 26.01, 3.13, 0.3, Kelly Services, Inc.
+KELYB, 25.8, 0.00, 0.3, Kelly Services, Inc.
+KMPH, 4.7, -1.05, null, KemPharm, Inc.
+KFFB, 7.85, 0.00, 0.4, Kentucky First Federal Bancorp
+KERX, 3.37, 2.43, null, Keryx Biopharmaceuticals, Inc.
+KEQU, 34.0, 1.19, 0.66, Kewaunee Scientific Corporation
+KTCC, 7.66, 0.00, null, Key Tronic Corporation
+KZR, 17.3, 3.59, null, Kezar Life Sciences, Inc.
+KFRC, 42.3, -0.47, 0.48, Kforce Inc.
+KE, 19.9, -0.50, null, Kimball Electronics, Inc.
+KBAL, 17.57, 0.46, 0.28, Kimball International, Inc.
+KIN, 14.85, 2.06, null, Kindred Biosciences, Inc.
+KGJI, 1.23, 3.36, null, Kingold Jewelry, Inc.
+KINS, 19.4, 2.92, 0.36, Kingstone Companies, Inc.
+KONE, 6.775, 2.19, null, Kingtone Wirelessinfo Solution Holding Ltd
+KNSA, 17.46, 2.40, null, Kiniksa Pharmaceuticals, Ltd.
+KNSL, 60.32, 0.70, 0.26, Kinsale Capital Group, Inc.
+KIRK, 12.08, 1.85, null, Kirkland's, Inc.
+KTOV, 1.71, 3.01, null, Kitov Pharma Ltd
+KTOVW, 0.5, 19.05, null, Kitov Pharma Ltd. Warrants
+KLAC, 115.44, 1.33, 2.52, KLA-Tencor Corporation
+KLXI, 73.24, 0.62, null, KLX Inc.
+KONA, 2.55, 2.00, null, Kona Grill, Inc.
+KOPN, 2.28, 2.24, null, Kopin Corporation
+KRNT, 18.6, 0.27, null, Kornit Digital Ltd.
+KOSS, 3.97, -6.59, 0.0, Koss Corporation
+KWEB, 50.96, 1.13, null, KraneShares CSI China Internet ETF
+KTOS, 12.83, -2.51, null, Kratos Defense &amp; Security Solutions, Inc.
+KRYS, 16.73, 0.54, null, Krystal Biotech, Inc.
+KLIC, 25.62, 0.51, 0.12, Kulicke and Soffa Industries, Inc.
+KURA, 19.45, -0.26, null, Kura Oncology, Inc.
+KVHI, 12.5, 0.00, null, KVH Industries, Inc.
+FSTR, 23.7, -0.42, 0.0, L.B. Foster Company
+LJPC, 22.91, 2.55, null, La Jolla Pharmaceutical Company
+LSBK, 17.25, -0.29, 0.38, Lake Shore Bancorp, Inc.
+LBAI, 19.3, -0.52, 0.415, Lakeland Bancorp, Inc.
+LKFN, 49.98, -0.77, 0.96, Lakeland Financial Corporation
+LAKE, 12.7, 0.40, null, Lakeland Industries, Inc.
+LRCX, 172.46, -0.18, 2.55, Lam Research Corporation
+LAMR, 76.58, 1.43, 3.48, Lamar Advertising Company (REIT)
+LANC, 153.67, 0.13, 2.3, Lancaster Colony Corporation
+LCA, 10.17, 0.20, null, Landcadia Holdings, Inc.
+LCAHU, 11.25, 2.27, null, Landcadia Holdings, Inc.
+LCAHW, 0.84, 1.20, null, Landcadia Holdings, Inc. - Warr
+LNDC, 14.15, 1.07, null, Landec Corporation
+LARK, 29.0, 0.00, 0.782, Landmark Bancorp, Inc.
+LMRK, 13.3, 1.53, 1.46, Landmark Infrastructure Partners LP
+LMRKN, 22.75, 0.13, 1.46, Landmark Infrastructure Partners LP
+LMRKO, 24.16, -0.37, 1.46, Landmark Infrastructure Partners LP
+LMRKP, 24.6101, 0.04, 1.46, Landmark Infrastructure Partners LP
+LE, 24.95, -1.19, null, Lands' End, Inc.
+LSTR, 115.7, 0.26, 0.5, Landstar System, Inc.
+LNTH, 14.55, 0.34, null, Lantheus Holdings, Inc.
+LTRX, 5.78, 14.46, null, Lantronix, Inc.
+LSCC, 7.61, 0.66, null, Lattice Semiconductor Corporation
+LAUR, 15.59, -0.06, null, Laureate Education, Inc.
+LAWS, 32.1, 0.16, null, Lawson Products, Inc.
+LAZY, 7.95, -0.62, null, Lazydays Holdings, Inc.
+LCNB, 18.85, -0.26, 0.64, LCNB Corp.
+LPTX, 6.99, 0.43, null, Leap Therapeutics, Inc.
+LGCY, 5.3, -0.38, 0.0, Legacy Reserves LP
+LGCYO, 15.09, -0.07, 0.0, Legacy Reserves LP
+LGCYP, 14.7, -6.37, 0.0, Legacy Reserves LP
+LTXB, 45.58, -0.22, 0.63, LegacyTexas Financial Group, Inc.
+DDBI, 29.348, 0.27, null, Legg Mason Dev ex-US Divers Cor ETF
+EDBI, 29.75, 0.43, null, Legg Mason Emerging Mkts Divers Cor ETF
+INFR, 28.0, 0.00, null, Legg Mason Global Infrastructure ETF
+LVHD, 31.2, 0.48, null, Legg Mason Low Volatility High Div ETF
+SQLV, 30.76, -0.26, null, Legg Mason Small-Cap Quality Value ETF
+UDBI, 33.46, 0.00, null, Legg Mason US Diversified Core ETF
+LACQ, 9.68, 0.00, null, Leisure Acquisition Corp.
+LACQU, 10.25, 0.00, null, Leisure Acquisition Corp. Units
+LACQW, 1.14, 0.00, null, Leisure Acquisition Corp.
+LMAT, 35.67, -2.78, 0.25, LeMaitre Vascular, Inc.
+TREE, 240.2, 2.67, null, LendingTree, Inc.
+LEVL, 27.615, -1.27, 0.06, Level One Bancorp, Inc.
+LXRX, 10.43, 0.10, null, Lexicon Pharmaceuticals, Inc.
+LX, 13.0, 1.25, null, LexinFintech Holdings Ltd.
+LFAC, 9.6, -0.10, null, LF Capital Acquisition Corp.
+LFACU, 10.08, 0.00, null, LF Capital Acquisition Corp. Units
+LFACW, 0.53, 0.00, null, LF Capital Acquistion Corp
+LGIH, 56.76, -0.91, null, LGI Homes, Inc.
+LHCG, 99.47, 0.76, null, LHC Group, Inc.
+LLIT, 1.62, -1.82, null, Lianluo Smart Limited
+LBRDA, 78.54, 1.47, null, Liberty Broadband Corporation
+LBRDK, 78.7, 1.21, null, Liberty Broadband Corporation
+LEXEA, 46.35, 0.76, null, Liberty Expedia Holdings, Inc.
+LEXEB, 46.47, -0.13, null, Liberty Expedia Holdings, Inc.
+LBTYA, 26.69, 3.05, null, Liberty Global plc
+LBTYB, 28.75, 0.00, null, Liberty Global plc
+LBTYK, 25.84, 2.46, null, Liberty Global plc
+LILA, 18.29, 1.55, null, Liberty Latin America Ltd.
+LILAK, 18.27, 1.16, null, Liberty Latin America Ltd.
+BATRA, 26.74, 0.53, null, The Liberty Braves Group
+BATRK, 26.7, 0.68, null, The Liberty Braves Group
+FWONA, 34.65, 1.20, null, Formula One Group
+FWONK, 36.77, 1.24, null, Formula One Group
+LSXMA, 45.53, 0.07, 0.046, The Liberty SiriusXM Group
+LSXMB, 47.01, -3.07, 0.046, The Liberty SiriusXM Group
+LSXMK, 45.72, 0.24, 0.046, The Liberty SiriusXM Group
+LTRPA, 15.4, 0.33, null, Liberty TripAdvisor Holdings, Inc.
+LTRPB, 14.15, 0.00, null, Liberty TripAdvisor Holdings, Inc.
+LPNT, 64.35, 0.00, null, LifePoint Health, Inc.
+LCUT, 12.2, 0.41, 0.17, Lifetime Brands, Inc.
+LFVN, 11.15, -0.36, null, Lifevantage Corporation
+LWAY, 3.76, 1.62, null, Lifeway Foods, Inc.
+LGND, 251.32, 0.54, null, Ligand Pharmaceuticals Incorporated
+LTBR, 0.9702, 1.07, null, Lightbridge Corporation
+LPTH, 2.16, 0.00, null, LightPath Technologies, Inc.
+LLEX, 5.13, -1.54, null, Lilis Energy, Inc.
+LMB, 9.79, -2.39, null, Limbach Holdings, Inc.
+LLNW, 4.38, 1.39, null, Limelight Networks, Inc.
+LMST, 15.0, -0.66, null, Limestone Bancorp, Inc.
+LMNR, 30.0, 0.84, 0.235, Limoneira Company
+LINC, 2.13, 1.43, null, Lincoln Educational Services Corporation
+LECO, 92.48, 0.34, 1.52, Lincoln Electric Holdings, Inc.
+LIND, 15.08, -0.26, null, Lindblad Expeditions Holdings, Inc.
+LINDW, 4.19, -1.41, null, Lindblad Expeditions Holdings I
+LPCN, 1.4, -2.78, null, Lipocine Inc.
+YVR, 1.1549, 3.24, null, Liquid Media Group Ltd.
+LQDA, 16.77, 1.76, null, Liquidia Technologies, Inc.
+LQDT, 7.25, 0.69, null, Liquidity Services, Inc.
+LFUS, 219.01, 0.91, 1.48, Littelfuse, Inc.
+LIVN, 125.96, -0.36, null, LivaNova PLC
+LOB, 30.15, 1.01, 0.12, Live Oak Bancshares, Inc.
+LIVE, 10.52, -4.28, null, Live Ventures Incorporated
+LPSN, 26.0, 4.84, null, LivePerson, Inc.
+LIVX, 4.46, 1.83, null, LiveXLive Media, Inc.
+LKQ, 33.61, 1.23, null, LKQ Corporation
+LMFA, 0.42, 9.03, null, LM Funding America, Inc.
+LMFAW, 0.0229, -55.19, null, LM Funding America, Inc. - Warr
+LOGI, 49.09, 1.30, 0.63, Logitech International S.A.
+LOGM, 81.9, 1.55, 1.1, LogMeIn, Inc.
+CNCR, 24.74, 0.57, null, Loncar Cancer Immunotherapy ETF
+CHNA, 25.17, 1.49, null, Loncar China BioPharma ETF
+LONE, 9.07, -3.51, null, Lonestar Resources US Inc.
+LOOP, 9.37, 5.40, null, Loop Industries, Inc.
+LORL, 41.4, 1.22, null, Loral Space &amp; Communications Inc.
+LOXO, 160.65, 0.97, null, Loxo Oncology, Inc.
+LPLA, 66.36, 1.19, 1.0, LPL Financial Holdings Inc.
+LRAD, 3.41, 1.79, 0.0, LRAD Corporation
+LYTS, 5.37, 0.37, 0.2, LSI Industries Inc.
+LULU, 138.76, 1.88, null, Lululemon Athletica Inc.
+LITE, 65.1, 0.77, null, Lumentum Holdings Inc.
+LMNX, 28.0, 0.83, 0.24, Luminex Corporation
+LUNA, 3.5, -4.11, null, Luna Innovations Incorporated
+LBC, 10.99, -0.54, 0.015, Luther Burbank Corporation
+MBTF, 11.3, 0.44, 0.25, MBT Financial Corp.
+MCBC, 12.36, -0.16, 0.22, Macatawa Bank Corporation
+MFNC, 16.2, 0.31, 0.48, Mackinac Financial Corporation
+MTSI, 22.86, -1.04, null, MACOM Technology Solutions Holdings, Inc.
+MGNX, 20.59, 0.19, null, MacroGenics, Inc.
+MDGL, 243.44, -2.32, null, Madrigal Pharmaceuticals, Inc.
+MAGS, 5.77, -1.87, null, Magal Security Systems Ltd.
+MGLN, 75.1, 0.07, null, Magellan Health, Inc.
+MGTA, 14.19, -0.07, null, Magenta Therapeutics, Inc.
+MGIC, 9.05, 2.26, 0.285, Magic Software Enterprises Ltd.
+CALL, 8.625, 0.00, null, magicJack VocalTec Ltd.
+MNGA, 0.2216, -1.03, null, MagneGas Corporation
+MGYR, 12.34, -0.16, null, Magyar Bancorp, Inc.
+MHLD, 4.05, 5.19, 0.6, Maiden Holdings, Ltd.
+MMYT, 30.9, -1.75, null, MakeMyTrip Limited
+MBUU, 45.11, -0.20, null, Malibu Boats, Inc.
+MLVF, 24.6, 0.00, null, Malvern Bancorp, Inc.
+MAMS, 8.2, -1.80, null, MAM Software Group, Inc.
+TUSK, 29.0, -15.01, null, Mammoth Energy Services, Inc.
+RPIBC, 100.03, 0.00, null, Managed Portfolio Series Reinha
+MANH, 56.69, 1.30, null, Manhattan Associates, Inc.
+LOAN, 6.55, -1.50, 0.453, Manhattan Bridge Capital, Inc.
+MNTX, 10.88, -0.37, null, Manitex International, Inc.
+MTEX, 20.35, 0.49, 0.875, Mannatech, Incorporated
+MNKD, 1.12, 0.90, null, MannKind Corporation
+MANT, 64.98, 1.20, 0.92, ManTech International Corporation
+MARA, 0.8787, 2.17, null, Marathon Patent Group, Inc.
+MCHX, 2.73, -1.09, 0.5, Marchex, Inc.
+MRIN, 3.75, 4.17, null, Marin Software Incorporated
+MARPS, 4.1, 0.00, 0.35, Marine Petroleum Trust
+MRNS, 5.8, -0.17, null, Marinus Pharmaceuticals, Inc.
+MKTX, 187.38, -0.95, 1.5, MarketAxess Holdings Inc.
+MRLN, 28.5, -0.35, 0.56, Marlin Business Services Corp.
+MAR, 123.11, 0.76, 1.4, Marriott International, Inc.
+MBII, 1.9, 3.26, null, Marrone Bio Innovations, Inc.
+MRTN, 22.0, -0.68, 0.1, Marten Transport, Ltd.
+MMLP, 11.95, -1.65, 2.0, Martin Midstream Partners L.P.
+MRVL, 20.49, 1.24, 0.24, Marvell Technology Group Ltd.
+MASI, 117.3, 0.55, null, Masimo Corporation
+MTCH, 50.42, 1.04, null, Match Group, Inc.
+MTLS, 13.79, 4.08, null, Materialise NV
+MPAC, 10.0, -0.20, null, Matlin &amp; Partners Acquisition Corporation
+MPACU, 10.75, 0.37, null, Matlin &amp; Partners Acquisition Corporation Units
+MPACW, 0.74, -2.63, null, Matlin & Partners Acquisition C
+MTRX, 21.35, -0.70, null, Matrix Service Company
+MAT, 15.4, 0.98, 0.15, Mattel, Inc.
+MATW, 53.0, -0.09, 0.76, Matthews International Corporation
+MXIM, 61.75, 0.13, 1.66, Maxim Integrated Products, Inc.
+MXWL, 3.64, 7.37, null, Maxwell Technologies, Inc.
+MZOR, 45.99, 0.77, null, Mazor Robotics Ltd.
+MBFI, 48.18, -0.17, 0.9, MB Financial, Inc.
+MBFIO, 26.07, 0.50, 0.9, MB Financial, Inc.
+MCFT, 26.87, -1.14, null, MCBC Holdings, Inc.
+MGRC, 57.79, -1.21, 1.2, McGrath RentCorp
+MDCA, 4.8, 2.13, 0.0, MDC Partners Inc.
+MFIN, 5.69, -0.18, 0.0, Medallion Financial Corp.
+MFINL, 25.43, 0.28, 0.0, Medallion Financial Corp.
+MTBC, 4.63, -2.53, null, Medical Transcription Billing, Corp.
+MTBCP, 27.3, -1.09, null, Medical Transcription Billing, Corp.
+MNOV, 10.54, 8.32, null, MediciNova, Inc.
+MDSO, 81.67, 1.74, null, Medidata Solutions, Inc.
+MDGS, 3.05, -2.87, null, Medigus Ltd.
+MDGSW, 0.6, 0.00, null, Medigus Ltd
+MDWD, 6.4, -0.78, null, MediWound Ltd.
+MEDP, 55.32, 0.49, null, Medpace Holdings, Inc.
+MEIP, 4.35, 2.59, null, MEI Pharma, Inc.
+MGTX, 11.25, -2.26, null, MeiraGTx Holdings plc
+MLCO, 23.51, 0.04, 0.685, Melco Resorts &amp; Entertainment Limited
+MLNT, 4.65, 1.09, null, Melinta Therapeutics, Inc.
+MLNX, 82.15, 2.11, null, Mellanox Technologies, Ltd.
+MELR, 19.75, -0.50, 0.34, Melrose Bancorp, Inc.
+MNLO, 8.03, 0.50, null, Menlo Therapeutics Inc.
+MTSL, 1.57, 3.29, null, MER Telemanagement Solutions Ltd.
+MELI, 367.54, 5.51, 0.3, MercadoLibre, Inc.
+MBNAA, 0.0, 0, null, Mercantil Bank Holding Corporat
+MBNAB, 0.0, 0, null, Mercantil Bank Holding Corporat
+MBWM, 35.82, -0.33, 0.82, Mercantile Bank Corporation
+MERC, 17.7, 0.00, 0.49, Mercer International Inc.
+MBIN, 26.57, -0.19, 0.22, Merchants Bancorp
+MRCY, 51.85, 1.19, null, Mercury Systems, Inc.
+EBSB, 18.1, 0.28, 0.19, Meridian Bancorp, Inc.
+MRBK, 17.25, -0.12, null, Meridian Bank
+VIVO, 15.65, -0.32, 0.5, Meridian Bioscience, Inc.
+MMSI, 57.65, 0.44, null, Merit Medical Systems, Inc.
+MACK, 5.59, 2.76, 10.55, Merrimack Pharmaceuticals, Inc.
+MRSN, 13.2, 3.45, null, Mersana Therapeutics, Inc.
+MRUS, 19.86, -10.42, null, Merus N.V.
+MESA, 12.56, 0.48, null, Mesa Air Group, Inc.
+MLAB, 204.28, -2.12, 0.64, Mesa Laboratories, Inc.
+MESO, 5.95, 0.68, null, Mesoblast Limited
+CASH, 85.35, -0.76, 0.52, L&amp;GE Fund MSCI China A ETF
+MEOH, 74.25, 0.95, 1.26, Methanex Corporation
+MGEE, 65.85, 0.08, 1.29, MGE Energy, Inc.
+MGPI, 74.76, 0.61, 0.24, MGP Ingredients, Inc.
+MBOT, 0.6, 3.36, null, Microbot Medical Inc.
+MCHP, 86.98, 1.53, 1.451, Microchip Technology Incorporated
+MU, 50.7, 2.01, null, Micron Technology, Inc.
+MSFT, 108.4, 0.78, 1.68, Microsoft Corporation
+MSTR, 149.67, 5.56, null, MicroStrategy Incorporated
+MVIS, 1.04, 6.33, null, MicroVision, Inc.
+MICT, 1.29, -2.27, null, MICT, Inc.
+MPB, 30.3, -4.11, 0.58, Mid Penn Bancorp, Inc.
+MTP, 0.58, -4.80, null, Midatech Pharma Plc
+MCEP, 1.58, 4.64, 0.0, Mid-Con Energy Partners, LP
+MBCN, 50.45, -0.30, 1.1, Middlefield Banc Corp.
+MSEX, 46.16, 0.37, 0.882, Middlesex Water Company
+MSBI, 34.92, -0.46, 0.84, Midland States Bancorp, Inc.
+MSVB, 12.34, -0.16, null, Mid-Southern Bancorp, Inc.
+MOFG, 33.7, 0.27, 0.73, MidWestOne Financial Group, Inc.
+MIME, 41.39, 2.37, null, Mimecast Limited
+MDXG, 4.45, 5.95, null, MiMedx Group, Inc.
+MNDO, 2.25, 0.90, 0.3, MIND C.T.I. Ltd
+MB, 36.6, 2.52, null, MINDBODY, Inc.
+NERV, 10.1, 5.76, null, Minerva Neurosciences, Inc.
+MGEN, 6.18, 0.00, null, Miragen Therapeutics, Inc.
+MRTX, 58.6, 0.60, null, Mirati Therapeutics, Inc.
+MSON, 18.6, 5.68, null, Misonix, Inc.
+MIND, 4.03, 0.75, null, Mitcham Industries, Inc.
+MINDP, 23.45, 0.00, null, Mitcham Industries, Inc.
+MITK, 8.9, 4.09, null, Mitek Systems, Inc.
+MITL, 10.97, 0.09, null, Mitel Networks Corporation
+MKSI, 91.95, 2.34, 0.735, MKS Instruments, Inc.
+MMAC, 26.325, -0.57, null, MMA Capital Management, LLC
+MINI, 43.2, -1.59, 0.958, Mobile Mini, Inc.
+MOBL, 4.9, 4.26, null, MobileIron, Inc.
+MMDM, 10.03, 0.10, null, Modern Media Acquisition Corp.
+MMDMR, 0.48, 0.00, null, Modern Media Acquisition Corp. 
+MMDMU, 10.85, -1.00, null, Modern Media Acquisition Corp. UT EXP 000022
+MMDMW, 0.647, 0.00, null, Modern Media Acquisition Corp. 
+MOGO, 3.61, 4.03, null, Mogo Finance Technology Inc.
+MTEM, 5.1, 0.59, null, Molecular Templates, Inc.
+MBRX, 1.67, -1.76, null, Moleculin Biotech, Inc.
+MNTA, 27.15, 0.00, null, Momenta Pharmaceuticals, Inc.
+MOMO, 43.84, -0.34, null, Momo Inc.
+MKGI, 2.25, -0.44, null, Monaker Group, Inc.
+MCRI, 47.67, 0.10, null, Monarch Casino &amp; Resort, Inc.
+MDLZ, 42.39, 0.71, 0.88, Mondelez International, Inc.
+MGI, 6.11, -2.86, null, MoneyGram International, Inc.
+MDB, 70.23, 2.90, null, MongoDB, Inc.
+MPWR, 147.24, 1.16, 1.0, Monolithic Power Systems, Inc.
+TYPE, 21.9, -0.23, 0.458, Monotype Imaging Holdings Inc.
+MNRO, 70.5, -0.77, 0.74, Monro, Inc.
+MRCC, 13.71, 1.33, 1.4, Monroe Capital Corporation
+MNST, 60.65, -0.05, null, Monster Beverage Corporation
+MORN, 137.39, -0.28, 0.98, Morningstar, Inc.
+MOR, 29.13, -1.09, null, MorphoSys AG
+MOSY, 0.9, 3.45, null, MoSys, Inc.
+MTFB, 8.6932, 0.50, null, Motif Bio plc
+MTFBW, 2.5, 0.00, null, Motif Bio plc - Warrant
+MPAA, 26.08, 0.62, null, Motorcar Parts of America, Inc.
+MOTS, 4.88, -0.20, null, Motus GI Holdings, Inc.
+MPVD, 2.05, 2.50, null, Mountain Province Diamonds Inc.
+MOXC, 1.45, -9.38, null, Moxian, Inc.
+MSBF, 21.15, -0.24, null, MSB Financial Corp.
+MTEC, 10.09, -0.10, null, MTech Acquisition Corp.
+MTECU, 10.55, 0.00, null, MTech Acquisition Corp. Units
+MTECW, 0.8, 0.00, null, MTech Acquisition Corp. Warrant
+MTGE, 20.1, 0.00, 1.95, MTGE Investment Corp.
+MTGEP, 25.81, -0.04, 1.95, MTGE Investment Corp.
+MTSC, 52.55, -0.19, 1.2, MTS Systems Corporation
+MUDS, 9.68, 0.52, null, Mudrick Capital Acquisition Corporation
+MUDSU, 10.3, 0.00, null, Mudrick Capital Acquisition Corporation Units
+MUDSW, 0.66, 0.00, null, Mudrick Capital Acquisition Cor
+LABL, 61.1, 0.16, 0.2, Multi-Color Corporation
+MBIO, 6.395, -1.01, null, Mustang Bio, Inc.
+MFSF, 38.45, -0.13, 0.7, MutualFirst Financial, Inc.
+MVBF, 18.0, 0.73, 0.1, MVB Financial Corp.
+MYSZ, 0.78, 0.00, null, My Size, Inc.
+MYL, 38.69, 2.19, null, Mylan N.V.
+MYND, 1.53, -4.97, null, MYnd Analytics, Inc.
+MYNDW, 0.1218, -54.84, null, MYnd Analytics, Inc. - Warrant
+MYOK, 60.75, 1.93, null, MyoKardia, Inc.
+MYOS, 1.3, 4.00, null, MYOS RENS Technology Inc.
+MYRG, 35.06, -0.17, null, MYR Group Inc.
+MYGN, 48.62, -1.40, null, Myriad Genetics, Inc.
+NBRV, 2.73, 3.02, null, Nabriva Therapeutics plc
+NAKD, 4.55, 0.22, null, Naked Brand Group Limited
+NNDM, 1.92, -0.52, null, Nano Dimension Ltd.
+NANO, 44.14, 2.96, null, Nanometrics Incorporated
+NSTG, 14.79, 2.00, null, NanoString Technologies, Inc.
+NAOV, 4.54, -8.65, null, NanoVibronix, Inc.
+NH, 2.35, 1.29, null, NantHealth, Inc.
+NK, 3.04, 0.33, null, NantKwest, Inc.
+NSSC, 15.25, 4.45, null, Napco Security Technologies, Inc.
+NDAQ, 94.73, 1.52, 1.58, Nasdaq, Inc.
+NTRA, 28.96, 4.10, null, Natera, Inc.
+NATH, 91.25, 0.61, 0.25, Nathan's Famous, Inc.
+NAUH, 0.88, -1.12, 0.045, National American University Holdings, Inc.
+NKSH, 47.0, 0.64, 1.19, National Bankshares, Inc.
+FIZZ, 118.49, 1.18, null, National Beverage Corp.
+NCMI, 9.08, 0.55, 0.73, National CineMedia, Inc.
+NCOM, 45.5, -0.11, null, National Commerce Corporation
+NESR, 11.0, -0.90, null, National Energy Services Reunited Corp.
+NESRW, 1.72, 9.55, null, National Energy Services Reunit
+NGHC, 27.6, 0.44, 0.16, National General Holdings Corp.
+NGHCN, 25.01, -0.71, 0.16, National General Holdings Corp.
+NGHCO, 25.05, -0.40, 0.16, National General Holdings Corp.
+NGHCP, 25.13, -0.30, 0.16, National General Holdings Corp.
+NGHCZ, 25.8886, 0.07, 0.16, National General Holdings Corp.
+NHLD, 3.3, 6.45, null, National Holdings Corporation
+NHLDW, 1.1, 0.00, null, National Holdings Corporation -
+NATI, 45.32, 0.58, 0.88, National Instruments Corporation
+NRC, 40.0, 0.00, 0.47, National Research Corporation
+NSEC, 15.39, 3.99, 0.2, The National Security Group, Inc.
+EYE, 42.54, -1.80, 2.98, National Vision Holdings, Inc.
+NWLI, 325.12, 0.01, 0.36, National Western Life Group, Inc.
+NAII, 9.7, -1.52, null, Natural Alternatives International, Inc.
+NHTC, 26.87, 2.48, 0.5, Natural Health Trends Corp.
+NATR, 8.75, 4.17, 0.0, Nature's Sunshine Products, Inc.
+BABY, 36.2, -0.69, null, Natus Medical Incorporated
+JSM, 23.75, 1.06, 0.64, Navient Corporation SR NT 6% 121543
+NAVI, 13.28, 0.15, 0.64, Navient Corporation
+NBTB, 41.14, 0.07, 0.94, NBT Bancorp Inc.
+NCSM, 16.1, 0.69, null, NCS Multistage Holdings, Inc.
+NEBU, 9.67, -6.75, null, Nebula Acquisition Corporation
+NEBUU, 10.0554, -1.42, null, Nebula Acquisition Corporation Units
+NEBUW, 1.4225, 0.00, null, Nebula Acquisition Corporation 
+NKTR, 63.89, 0.60, null, Nektar Therapeutics
+NMRD, 2.12, -3.64, null, Nemaura Medical Inc.
+NEOG, 88.78, 1.42, null, Neogen Corporation
+NEO, 13.6, -1.16, null, NeoGenomics, Inc.
+NTGN, 11.82, -0.92, null, Neon Therapeutics, Inc.
+NEON, 0.302, -1.63, null, Neonode Inc.
+NEOS, 5.35, 1.90, null, Neos Therapeutics, Inc.
+NVCN, 0.0354, 1.72, null, Neovasc Inc.
+NEPT, 3.64, 5.81, null, Neptune Technologies &amp; Bioressources Inc.
+UEPS, 8.81, 1.03, null, Net 1 UEPS Technologies, Inc.
+NETE, 6.02, 0.33, null, Net Element, Inc.
+NTAP, 84.24, 1.30, 1.0, NetApp, Inc.
+NTES, 207.49, 0.85, 1.824, NetEase, Inc.
+NFLX, 358.82, 5.79, null, Netflix, Inc.
+NTGR, 73.05, 0.69, null, NETGEAR, Inc.
+NLST, 0.119, -2.62, null, Netlist, Inc.
+NTCT, 25.75, 0.59, null, NetScout Systems, Inc.
+NTWK, 5.65, 0.44, null, NetSol Technologies, Inc.
+CUR, 1.17, -3.31, null, Neuralstem, Inc.
+NBIX, 118.71, 1.04, null, Neurocrine Biosciences, Inc.
+NURO, 1.25, 0.81, null, NeuroMetrix, Inc.
+NUROW, 0.0351, 0.00, null, NeuroMetrix, Inc. - Warrants
+STIM, 33.43, 1.64, null, Neuronetics, Inc.
+NTRP, 9.29, 0.43, null, Neurotrope, Inc.
+NBEV, 1.32, -0.75, null, New Age Beverages Corporation
+NYMT, 6.35, 0.32, 0.8, New York Mortgage Trust, Inc.
+NYMTN, 24.26, 0.21, 0.8, New York Mortgage Trust, Inc.
+NYMTO, 24.35, -0.53, 0.8, New York Mortgage Trust, Inc.
+NYMTP, 24.43, 0.45, 0.8, New York Mortgage Trust, Inc.
+NEWA, 11.15, -5.51, null, Newater Technology, Inc.
+NLNK, 2.89, 0.70, null, NewLink Genetics Corporation
+NMRK, 12.8, 1.59, 0.18, Newmark Group, Inc.
+NWS, 13.85, 0.00, 0.2, News Corporation
+NWSA, 13.4, -0.07, 0.2, News Corporation
+NEWT, 23.42, -1.14, 1.7, Newtek Business Services Corp.
+NEWTI, 25.58, -1.35, 1.7, Newtek Business Services Corp.
+NEWTZ, 25.36, 0.12, 1.68, Newtek Business Services Corp. NT 22
+NXEO, 10.05, 0.30, null, Nexeo Solutions, Inc.
+NXEOU, 11.45, 0.00, null, Nexeo Solutions, Inc. Units
+NXEOW, 0.672, -0.59, null, Nexeo Solutions, Inc. - Warrant
+NXST, 82.25, 1.92, 1.35, Nexstar Media Group, Inc.
+NEXT, 6.48, 0.47, null, NextDecade Corporation
+NFEC, 4.27, -3.17, null, NF Energy Saving Corporation
+NODK, 16.82, -0.12, null, NI Holdings, Inc.
+EGOV, 17.05, -0.29, 0.32, NIC Inc.
+NICE, 114.86, 0.49, 0.16, NICE Ltd.
+NICK, 11.27, -3.88, 0.0, Nicholas Financial, Inc.
+NCBS, 55.75, 0.49, null, Nicolet Bankshares, Inc.
+NITE, 19.89, -0.55, null, Nightstar Therapeutics plc
+NIHD, 5.68, -2.41, null, NII Holdings, Inc.
+LASR, 29.97, 3.70, null, nLIGHT, Inc.
+NMIH, 22.3, 0.90, null, NMI Holdings, Inc.
+NNBR, 19.25, 0.52, 0.28, NN, Inc.
+NDLS, 11.6, 0.87, null, Noodles &amp; Company
+NDSN, 135.89, 1.16, 1.17, Nordson Corporation
+NSYS, 4.3, 6.83, null, Nortech Systems Incorporated
+NBN, 21.85, -0.68, 0.04, Northeast Bancorp
+NTIC, 35.3, 1.88, 0.3, Northern Technologies International Corporation
+NTRS, 107.55, 0.20, 1.68, Northern Trust Corporation
+NTRSP, 26.95, 0.30, 1.68, Northern Trust Corporation
+NFBK, 16.6, -0.12, 0.38, Northfield Bancorp, Inc. (Staten Island, NY)
+NRIM, 44.1, -0.34, 0.46, Northrim BanCorp, Inc.
+NWBI, 18.34, -0.16, 0.67, Northwest Bancshares, Inc.
+NWPX, 17.77, 6.09, null, Northwest Pipe Company
+NCLH, 53.07, 1.32, null, Norwegian Cruise Line Holdings Ltd.
+NWFL, 38.67, 0.70, 0.879, Norwood Financial Corp.
+NVFY, 1.845, 2.22, null, Nova LifeStyle, Inc.
+NVMI, 28.37, 0.50, null, Nova Measuring Instruments Ltd.
+NOVN, 2.83, 5.60, null, Novan, Inc.
+NOVT, 77.2, 1.38, null, Novanta Inc.
+NVAX, 1.33, 1.53, null, Novavax, Inc.
+NVLN, 3.14, -3.38, null, Novelion Therapeutics Inc.
+NVCR, 40.0, 1.52, null, NovoCure Limited
+NVMM, 1.43, 5.93, null, Novume Solutions, Inc.
+NVUS, 4.85, 2.11, null, Novus Therapeutics, Inc.
+NUAN, 16.59, 0.67, null, Nuance Communications, Inc.
+NCNA, 26.06, -2.98, null, NuCana plc
+NTNX, 56.97, 1.35, null, Nutanix, Inc.
+NTRI, 38.4, -5.07, 0.85, Nutrisystem, Inc.
+NUVA, 69.96, -1.06, null, NuVasive, Inc.
+NVTR, 21.18, 0.57, null, Nuvectra Corporation
+QQQX, 24.98, 0.48, null, Nuveen Nasdaq 100 Dynamic Overwrite Fund
+NVEE, 86.5, -1.59, null, NV5 Global, Inc.
+NVEC, 117.18, 1.79, 4.0, NVE Corporation
+NVDA, 272.22, 2.02, 0.59, NVIDIA Corporation
+NXPI, 91.98, 1.43, null, NXP Semiconductors N.V.
+NXTM, 28.38, 0.50, null, Nxstage Medical, Inc.
+NXTD, 1.6, 0.00, null, Nxt-ID, Inc.
+NXTDW, 0.186746, 0.00, null, NXT-ID Inc. - Warrant
+NYMX, 2.52, -4.55, null, Nymox Pharmaceutical Corporation
+OIIM, 1.94, 1.57, null, O2Micro International Limited
+OVLY, 21.82, 2.68, 0.26, Oak Valley Bancorp
+OCSL, 5.05, 0.00, null, Oaktree Specialty Lending Corpo
+OCSLL, 24.9, 0.20, null, Oaktree Specialty Lending Corpo
+OCSI, 8.76, 0.23, null, Oaktree Strategic Income Corpor
+OASM, 1.7977, -1.71, null, Oasmia Pharmaceutical AB (publ)
+OBLN, 2.79, 4.89, null, Obalon Therapeutics, Inc.
+OBSV, 12.14, 0.50, null, ObsEva SA
+OBCI, 4.52, 6.86, 0.06, Ocean Bio-Chem, Inc.
+OPTT, 0.69, -4.18, null, Ocean Power Technologies, Inc.
+ORIG, 26.75, 0.00, 0.0, Ocean Rig UDW Inc.
+OCFC, 29.56, 0.00, 0.6, OceanFirst Financial Corp.
+OCLR, 9.41, 0.21, null, Oclaro, Inc.
+OFED, 26.92, 0.56, 0.4, Oconee Federal Financial Corp.
+OCUL, 6.31, -2.17, null, Ocular Therapeutix, Inc.
+ODT, 20.4, 0.89, null, Odonate Therapeutics, Inc.
+OMEX, 8.68, 0.35, null, Odyssey Marine Exploration, Inc.
+ODP, 3.34, -0.60, 0.1, Office Depot, Inc.
+OFS, 12.37, 0.57, 1.36, OFS Capital Corporation
+OFSSL, 24.8853, -0.46, 1.36, OFS Capital Corporation 6.375% NT 25
+OHAI, 1.48, -2.63, 0.08, OHA Investment Corporation
+OVBC, 46.15, 0.22, 0.84, Ohio Valley Banc Corp.
+OHRP, 0.175, 0.63, null, OHR Pharmaceutical, Inc.
+OKTA, 59.95, 2.46, null, Okta, Inc.
+ODFL, 146.66, -0.73, 0.46, Old Dominion Freight Line, Inc.
+OLBK, 34.18, 0.00, 0.34, Old Line Bancshares, Inc.
+ONB, 20.1, -0.25, 0.52, Old National Bancorp
+OPOF, 27.81, -0.07, 0.44, Old Point Financial Corporation
+OSBC, 15.55, 0.00, 0.04, Old Second Bancorp, Inc.
+OSBCP, 10.55, 0.00, null, Old Second Capital Trust I PFD TR SEC
+OLLI, 80.55, 1.07, null, Ollie's Bargain Outlet Holdings, Inc.
+ZEUS, 21.59, 1.46, 0.08, Olympic Steel, Inc.
+OFLX, 87.88, -1.51, 0.9, Omega Flex, Inc.
+OMER, 22.12, 3.12, null, Omeros Corporation
+OMCL, 68.2, 0.96, null, Omnicell, Inc.
+ON, 21.12, 2.28, null, ON Semiconductor Corporation
+OTIV, 1.02, -2.86, null, On Track Innovations Ltd.
+ONS, 0.846, 2.92, null, Oncobiologics, Inc.
+ONSIW, 0.0138, 0.00, null, Oncobiologics, Inc. Series A Wa
+ONCY, 4.2722, -2.01, null, Oncolytics Biotech Inc.
+OMED, 2.15, -9.66, null, OncoMed Pharmaceuticals, Inc.
+ONTX, 0.43, 0.00, null, Onconova Therapeutics, Inc.
+ONTXW, 0.338, 0.00, null, Onconova Therapeutics, Inc. - W
+ONCS, 1.43, 4.38, null, OncoSec Medical Incorporated
+OHGI, 0.22, -12.46, null, One Horizon Group, Inc.
+OSS, 3.66, -3.68, null, One Stop Systems, Inc.
+OSPN, 18.4, 1.10, null, OneSpan Inc.
+OPBK, 12.19, -0.41, null, OP Bancorp
+OTEX, 38.94, 0.28, 0.548, Open Text Corporation
+OPRA, 13.32, 6.05, null, Opera Limited
+OPES, 9.8, -0.20, null, Opes Acquisition Corp.
+OPESU, 10.1038, -0.46, null, Opes Acquisition Corp. Units
+OPESW, 0.42, 2.44, null, Opes Acquisition Corp.
+OPGN, 1.89, 0.53, null, OpGen, Inc.
+OPGNW, 0.2101, 0.00, null, OpGen, Inc. - Warrant
+OPHT, 2.38, -1.65, null, Ophthotech Corporation
+OPNT, 16.25, 4.50, null, Opiant Pharmaceuticals, Inc.
+OPK, 5.63, -3.76, null, OPKO Health, Inc.
+OBAS, 8.9, 5.95, null, Optibase Ltd.
+OCC, 3.7, 0.00, 0.02, Optical Cable Corporation
+OPRX, 12.6, -1.10, null, OptimizeRx Corporation
+OPHC, 5.0548, -1.85, null, OptimumBank Holdings, Inc.
+OPTN, 15.2, -1.04, null, OptiNose, Inc.
+OPB, 28.3, -0.35, 0.32, Opus Bank
+ORMP, 4.6791, 0.73, null, Oramed Pharmaceuticals Inc.
+OSUR, 16.15, -1.40, null, OraSure Technologies, Inc.
+ORBC, 11.0, 0.55, null, ORBCOMM Inc.
+ORBK, 64.32, 0.45, null, Orbotech Ltd.
+ORLY, 330.67, -0.30, null, O'Reilly Automotive, Inc.
+ONVO, 1.26, 2.44, null, Organovo Holdings, Inc.
+ORGS, 6.83, -2.01, null, Orgenesis Inc.
+SEED, 5.5, 0.00, null, Origin Agritech Limited
+OBNK, 40.67, -1.62, 0.13, Origin Bancorp, Inc.
+OESX, 0.965, -2.53, null, Orion Energy Systems, Inc
+ORIT, 16.45, -0.60, 0.85, Oritani Financial Corp.
+ORRF, 25.85, 0.19, 0.49, Orrstown Financial Services, Inc.
+OFIX, 53.51, -0.69, null, Orthofix Medical Inc.
+KIDS, 32.18, 2.16, null, OrthoPediatrics Corp.
+OSIS, 76.63, -0.69, null, OSI Systems, Inc.
+OSIR, 8.86, 0.68, null, Osiris Therapeutics, Inc.
+OSN, 2.48, -2.36, null, Ossen Innovation Co., Ltd.
+OTEL, 17.1, -1.16, null, Otelco Inc.
+OTIC, 2.8, -4.27, null, Otonomy, Inc.
+OTTW, 13.75, 0.00, 0.18, Ottawa Bancorp, Inc.
+OTTR, 48.8, 0.51, 1.31, Otter Tail Corporation
+OVAS, 0.7508, -0.53, null, OvaScience, Inc.
+OSTK, 30.65, 0.66, null, Overstock.com, Inc.
+OVID, 6.6, 2.17, null, Ovid Therapeutics Inc.
+OXBR, 1.85, 5.71, 0.0, Oxbridge Re Holdings Limited
+OXBRW, 0.096, 0.00, null, Oxbridge Re Holdings Limited - 
+OXFD, 14.53, 1.54, null, Oxford Immunotec Global PLC
+OXLC, 10.9, 0.09, 1.605, Oxford Lane Capital Corp.
+OXLCM, 25.56, 0.55, 1.605, Oxford Lane Capital Corp.
+OXLCO, 25.42, 0.04, 1.605, Oxford Lane Capital Corp.
+OXSQ, 7.29, 0.00, 0.8, Oxford Square Capital Corp.
+OXSQL, 25.79, 0.00, 0.8, Oxford Square Capital Corp. 6.50% NT 24
+PFIN, 8.25, 5.77, 0.2, P&amp;F Industries, Inc.
+PTSI, 62.0, 2.62, null, P.A.M. Transportation Services, Inc.
+PCAR, 67.43, 1.22, 1.03, PACCAR Inc
+VETS, 27.42, 0.00, null, Pacer Military Times Best Employers ETF
+PACB, 4.29, -0.92, null, Pacific Biosciences of California, Inc.
+PCB, 19.75, -0.45, 0.12, Pacific City Financial Corporation
+PEIX, 1.95, 0.00, null, Pacific Ethanol, Inc.
+PMBC, 10.1, 0.50, null, Pacific Mercantile Bancorp
+PPBI, 39.6, 0.13, null, Pacific Premier Bancorp, Inc.
+PCRX, 46.2, -0.32, null, Pacira Pharmaceuticals, Inc.
+PACW, 50.42, -0.77, 2.1, PacWest Bancorp
+PTIE, 0.95, 7.28, null, Pain Therapeutics, Inc.
+PAAS, 15.82, 4.22, 0.12, Pan American Silver Corp.
+PANL, 3.43, 0.88, null, Pangaea Logistics Solutions, Ltd.
+PZZA, 44.7, 4.61, 0.9, Papa John's International, Inc.
+FRSH, 5.42, 0.56, 0.015, Papa Murphy's Holdings, Inc.
+PRTK, 10.3, -0.48, null, Paratek Pharmaceuticals, Inc.
+PCYG, 8.2, -0.61, null, Park City Group, Inc.
+PKBK, 23.0, 0.44, 0.467, Parke Bancorp, Inc.
+PKOH, 41.9, 1.33, 0.5, Park-Ohio Holdings Corp.
+PTNR, 4.57, 3.16, null, Partner Communications Company Ltd.
+PBHC, 15.25, -2.18, 0.233, Pathfinder Bancorp, Inc.
+PATK, 63.4, -0.16, null, Patrick Industries, Inc.
+PNBK, 19.4, -3.00, 0.04, Patriot National Bancorp, Inc.
+PATI, 20.41, 0.05, null, Patriot Transportation Holding, Inc.
+PEGI, 20.14, 0.85, 1.688, Pattern Energy Group Inc.
+PDCO, 23.41, -0.38, 1.04, Patterson Companies, Inc.
+PTEN, 17.48, 0.17, 0.1, Patterson-UTI Energy, Inc.
+PAVM, 1.13, 1.80, null, PAVmed Inc.
+PAVMW, 0.13, 0.00, null, PAVmed Inc. - Warrant
+PAVMZ, 0.3493, -0.20, null, PAVmed Inc.
+PAYX, 72.99, 0.34, 2.06, Paychex, Inc.
+PCTY, 75.27, 2.48, null, Paylocity Holding Corporation
+PYDS, 1.81, 0.56, null, Payment Data Systems, Inc.
+PYPL, 90.1, 3.11, null, PayPal Holdings, Inc.
+PBBI, 11.75, 0.00, 0.2, PB Bancorp, Inc.
+CNXN, 38.13, -0.52, null, PC Connection, Inc.
+PCMI, 21.5, -0.46, null, PCM, Inc.
+PCSB, 20.93, 0.43, 0.03, PCSB Financial Corporation
+PCTI, 4.33, 4.09, 0.22, PCTEL, Inc.
+PDCE, 54.21, -1.42, null, PDC Energy, Inc.
+PDFS, 9.86, -0.20, null, PDF Solutions, Inc.
+PDLI, 2.34, 1.74, 0.0, PDL BioPharma, Inc.
+PDLB, 14.985, 0.30, null, PDL Community Bancorp
+PDVW, 30.1, 0.33, null, pdvWireless, Inc.
+SKIS, 4.85, 7.78, 0.28, Peak Resorts, Inc.
+PGC, 33.58, 1.42, 0.2, Peapack-Gladstone Financial Corporation
+PEGA, 62.55, 2.12, 0.12, Pegasystems Inc.
+PENN, 34.55, -0.83, null, Penn National Gaming, Inc.
+PVAC, 83.43, 1.43, null, Penn Virginia Corporation
+PFLT, 13.7, 0.44, 1.14, PennantPark Floating Rate Capital Ltd.
+PNNT, 7.75, -0.13, 0.82, PennantPark Investment Corporation
+PWOD, 46.0, -0.04, 1.88, Penns Woods Bancorp, Inc.
+WRLS, 9.93, -0.30, null, Pensare Acquisition Corp.
+WRLSR, 0.53, 0.00, null, Pensare Acquisition Corp.
+WRLSU, 10.7, 0.00, null, Pensare Acquisition Corp. Units
+WRLSW, 0.6, 0.00, null, Pensare Acquisition Corp. - War
+PEBO, 35.93, 1.04, 1.04, Peoples Bancorp Inc.
+PEBK, 30.47, 0.00, 0.48, Peoples Bancorp of North Carolina, Inc.
+PFIS, 45.73, 0.51, 1.29, Peoples Financial Services Corp.
+PBCT, 18.66, -0.43, 0.693, People's United Financial, Inc.
+PBCTP, 26.24, 0.46, 0.693, People's United Financial, Inc.
+PUB, 36.0, -0.14, 0.39, People's Utah Bancorp
+PEP, 112.15, 0.20, 3.343, PepsiCo, Inc.
+PRCP, 10.05, 0.05, 0.15, Perceptron, Inc.
+PRFT, 28.03, 1.05, null, Perficient, Inc.
+PFMT, 2.17, 1.40, null, Performant Financial Corporation
+PERI, 1.19, -0.83, null, Perion Network Ltd.
+PESI, 4.85, 1.04, null, Perma-Fix Environmental Services, Inc.
+PPIH, 9.2, 0.00, null, Perma-Pipe International Holdings, Inc.
+PTX, 1.35, -11.18, null, Pernix Therapeutics Holdings, Inc.
+PERY, 27.7, 0.44, null, Perry Ellis International, Inc.
+PGLC, 1.28, -1.54, null, Pershing Gold Corporation
+PETQ, 37.51, -6.08, null, PetIQ, Inc.
+PETS, 37.0, -3.14, 0.9, PetMed Express, Inc.
+PFSW, 8.37, -2.56, null, PFSweb, Inc.
+PGTI, 24.75, 0.00, null, PGT Innovations, Inc.
+PHII, 9.35, 1.96, null, PHI, Inc.
+PHIIK, 8.95, 2.40, null, PHI, Inc.
+PAHC, 50.75, 1.81, 0.4, Phibro Animal Health Corporation
+PLAB, 10.8, 4.85, null, Photronics, Inc.
+PICO, 12.45, -0.40, null, PICO Holdings, Inc.
+PLLL, 12.1, -3.59, null, Piedmont Lithium Limited
+PIRS, 5.26, 0.19, null, Pieris Pharmaceuticals, Inc.
+PPC, 18.45, 1.82, null, Pilgrim's Pride Corporation
+PDD, 17.22, -5.95, null, Pinduoduo Inc.
+PME, 2.67, -2.55, 0.04, Pingtan Marine Enterprise Ltd.
+PNK, 34.34, -0.26, null, Pinnacle Entertainment, Inc.
+PNFP, 64.45, -0.62, 0.56, Pinnacle Financial Partners, Inc.
+PPSI, 4.9, 3.16, null, Pioneer Power Solutions, Inc.
+PXLW, 4.275, 2.52, null, Pixelworks, Inc.
+EAGL, 9.85, 0.00, null, Platinum Eagle Acquisition Corp.
+EAGLU, 10.4, 0.00, null, Platinum Eagle Acquisition Corp. Units
+EAGLW, 1.5, 0.00, null, Platinum Eagle Acquisition Corp
+PLYA, 10.36, -0.58, null, Playa Hotels &amp; Resorts N.V.
+PLXS, 60.95, 0.18, null, Plexus Corp.
+PLUG, 2.0, -0.50, null, Plug Power Inc.
+PLBC, 26.15, -0.95, 0.32, Plumas Bancorp
+PS, 33.26, 4.07, null, Pluralsight, Inc.
+PSTI, 1.36, 0.00, null, Pluristem Therapeutics Inc.
+PLXP, 3.2, -3.76, null, PLx Pharma Inc.
+PBSK, 26.5, -1.67, 0.24, Poage Bankshares, Inc.
+PNTR, 12.85, -2.28, null, Pointer Telocation Ltd.
+PCOM, 15.22, 2.01, null, Points International Ltd.
+POLA, 6.25, -2.80, null, Polar Power, Inc.
+COOL, 26.96, 0.67, null, PolarityTE, Inc.
+POOL, 160.96, 0.55, 1.56, Pool Corporation
+POPE, 72.9999, -0.55, 2.8, Pope Resources, A Delaware Limited Partnership
+BPOP, 51.84, 0.10, 1.0, Popular, Inc.
+BPOPM, 24.25, 1.00, null, Popular Capital Trust II PFD GTD 6.125%
+BPOPN, 25.08, -0.08, null, Popular Capital Trust I PFD 6.70% GTD
+PTLA, 28.17, 9.06, null, Portola Pharmaceuticals, Inc.
+PBPB, 13.9, 0.72, null, Potbelly Corporation
+PCH, 47.1, 0.96, 1.575, PotlatchDeltic Corporation
+POWL, 40.08, -0.12, 1.04, Powell Industries, Inc.
+POWI, 72.7, 0.07, 0.6, Power Integrations, Inc.
+PRAA, 37.85, 0.00, null, PRA Group, Inc.
+PRAH, 105.4, 0.89, null, PRA Health Sciences, Inc.
+PRAN, 2.0838, 0.90, null, Prana Biotechnology Limited
+PRPO, 0.4355, 0.14, null, Precipio, Inc.
+AIPT, 1.18, 1.72, null, Precision Therapeutics Inc.
+PFBC, 62.09, -0.56, 0.89, Preferred Bank
+PLPC, 82.0, 1.28, 0.8, Preformed Line Products Company
+PFBI, 19.82, -1.64, 0.51, Premier Financial Bancorp, Inc.
+PINC, 44.15, 1.92, null, Premier, Inc.
+LENS, 1.7999, 1.12, null, Presbia PLC
+PSDO, 16.17, 0.56, null, Presidio, Inc.
+PRGX, 9.5, 1.60, null, PRGX Global, Inc.
+PSMT, 86.25, 0.41, 0.7, PriceSmart, Inc.
+PNRG, 74.0, -3.90, null, PrimeEnergy Corporation
+PRMW, 20.19, -0.15, null, Primo Water Corporation
+PRIM, 25.13, -1.14, 0.235, Primoris Services Corporation
+PVAL, 27.47, 0.00, null, Principal Contrarian Value ETF
+PFG, 55.51, 0.40, 1.99, Principal Financial Group, Inc.
+BTEC, 36.47, 0.03, null, Principal Healthcare Innovators ETF
+PXUS, 101.6811, 1.07, null, Principal International Multi-Fac ETF
+GENY, 38.85, 0.86, null, Principal Millennials ETF
+PSET, 35.17, 1.94, null, Principal Price Setters ETF
+PY, 33.8, 0.00, null, Principal Shareholder Yield ETF
+PMOM, 29.77, 0.68, null, Principal Sustainable Momentum ETF
+USMC, 27.69, 0.33, null, Principal US Mega-Cap Multi-Factor ETF
+PSC, 35.57, 1.74, null, Principal US Small Cap Mlt Fac Ind ETF
+PRTH, 10.64, -2.39, null, Priority Technology Holdings, Inc.
+PRTHU, 13.5, 0.00, null, Priority Technology Holdings, Inc. UNITS(1 COM &amp; 1 WT EXP)
+PRTHW, 1.75, 0.00, null, PRIORITY TECHNOLOGY HOLDINGS IN
+PDEX, 7.1, 1.43, null, Pro-Dex, Inc.
+IPDN, 2.9, 2.11, null, Professional Diversity Network, Inc.
+PFIE, 2.63, -4.36, null, Profire Energy, Inc.
+PGNX, 7.7, -0.77, null, Progenics Pharmaceuticals, Inc.
+PRGS, 40.6, 2.53, 0.545, Progress Software Corporation
+PFPT, 119.8, 4.09, null, Proofpoint, Inc.
+PRPH, 3.09, 2.77, null, ProPhase Labs, Inc.
+PRQR, 7.6, 2.01, null, ProQR Therapeutics N.V.
+EQRR, 49.9, 0.14, null, ProShares Equities for Rising Rates ETF
+BIB, 64.92, 0.20, null, ProShares Ultra Nasdaq Biotechnology
+UBIO, 39.89, 0.48, null, ProShares UltraPro Nasdaq Biotechnology
+TQQQ, 67.7, 2.78, null, ProShares UltraPro QQQ
+ZBIO, 14.44, -0.35, null, ProShares UltraPro Short Nasdaq Biotech
+SQQQ, 11.89, -2.78, null, ProShares UltraPro Short QQQ
+BIS, 16.88, -0.41, null, ProShares UltraShort Nasdaq Biotech
+PSEC, 7.16, 0.99, 0.837, Prospect Capital Corporation
+PTGX, 9.94, 1.02, null, Protagonist Therapeutics, Inc.
+PTVCA, 22.75, -0.87, 1.1, Protective Insurance Corporation
+PTVCB, 23.65, -0.21, 1.1, Protective Insurance Corporation
+PRTO, 2.35, 2.17, null, Proteon Therapeutics, Inc.
+PTI, 2.47, 1.23, null, Proteostasis Therapeutics, Inc.
+PRTA, 14.61, -3.05, null, Prothena Corporation plc
+PRVB, 3.85, 0.79, null, Provention Bio, Inc.
+PVBC, 28.95, -0.34, null, Provident Bancorp, Inc.
+PROV, 18.01, -0.17, 0.56, Provident Financial Holdings, Inc.
+PBIP, 18.74, 0.16, 0.18, Prudential Bancorp, Inc.
+PMD, 19.66, -1.16, 0.66, Psychemedics Corporation
+PTC, 97.2, 1.62, null, PTC Inc.
+PTCT, 41.16, -7.55, null, PTC Therapeutics, Inc.
+PULM, 0.36, -4.00, null, Pulmatrix, Inc.
+PLSE, 13.89, -2.25, null, Pulse Biosciences, Inc.
+PBYI, 41.2, -1.44, null, Puma Biotechnology, Inc.
+PACQ, 9.7, -0.51, null, Pure Acquisition Corp.
+PACQU, 10.2701, -0.19, null, Pure Acquisition Corp. Units
+PACQW, 1.3, 0.00, null, Pure Acquisition Corp.
+PCYO, 11.15, 1.36, null, Pure Cycle Corporation
+PRPL, 5.5, 0.92, null, Purple Innovation, Inc.
+PRPLW, 0.25, 0.00, null, Purple Innovation, Inc.
+PXS, 0.828, 0.98, null, Pyxis Tankers Inc.
+QADA, 58.9, 1.73, 0.288, QAD Inc.
+QADB, 44.1, -6.17, 0.288, QAD Inc.
+QCRH, 44.35, 0.11, 0.22, QCR Holdings, Inc.
+QGEN, 38.83, -0.21, null, QIAGEN N.V.
+QIWI, 13.59, 1.04, 0.797, Qiwi plc
+QRVO, 79.63, 0.54, null, Qorvo, Inc.
+QCOM, 67.15, 0.43, 2.33, QUALCOMM Incorporated
+QSII, 22.37, -0.13, 0.0, Quality Systems, Inc.
+QBAK, 8.19, 0.24, null, Qualstar Corporation
+QLYS, 90.05, 3.03, null, Qualys, Inc.
+QTNA, 16.69, 1.95, null, Quantenna Communications, Inc.
+QTRX, 14.99, 0.07, null, Quanterix Corporation
+QTRH, 1.43, 0.00, 0.04, Quarterhill Inc.
+QRHC, 2.12, 2.91, null, Quest Resource Holding Corporation
+QUIK, 1.04, 0.97, null, QuickLogic Corporation
+QDEL, 70.0, 0.09, null, Quidel Corporation
+QNST, 16.02, 1.39, null, QuinStreet, Inc.
+QUMU, 2.59, 4.44, null, Qumu Corporation
+QTNT, 7.69, 1.72, null, Quotient Limited
+QRTEA, 20.67, 0.15, null, Qurate Retail Group, Inc.
+QRTEB, 20.33, -1.98, null, Qurate Retail Group, Inc.
+RRD, 5.22, 1.95, 0.56, R.R. Donnelley &amp; Sons Company
+RCM, 9.19, 3.72, null, R1 RCM Inc.
+RARX, 11.16, 1.55, null, Ra Pharmaceuticals, Inc.
+RADA, 2.66, 3.50, null, RADA Electronic Industries Ltd.
+RDCM, 18.45, 1.37, null, Radcom Ltd.
+RSYS, 1.57, 0.00, null, Radisys Corporation
+RDUS, 20.22, -3.48, null, Radius Health, Inc.
+RDNT, 14.1, 1.44, null, RadNet, Inc.
+RDWR, 28.14, 0.50, null, Radware Ltd.
+METC, 8.62, 3.86, null, Ramaco Resources, Inc.
+RMBS, 11.92, 1.62, null, Rambus Inc.
+RAND, 2.4001, 0.00, null, Rand Capital Corporation
+GOLD, 65.66, 1.23, 2.0, Randgold Resources Limited
+RNDB, 16.81, 0.06, null, Randolph Bancorp, Inc.
+RPD, 36.43, 2.02, null, Rapid7, Inc.
+RAVE, 1.4, 6.06, null, RAVE Restaurant Group, Inc.
+RAVN, 48.65, 3.84, 0.52, Raven Industries, Inc.
+RBB, 28.71, 0.10, 0.34, RBB Bancorp
+ROLL, 149.18, 1.46, 2.0, RBC Bearings Incorporated
+RICK, 33.38, 0.03, 0.12, RCI Hospitality Holdings, Inc.
+RCMT, 4.91, 2.29, null, RCM Technologies, Inc.
+RDI, 16.26, 0.25, null, Reading International, Inc.
+RDIB, 28.71, -2.64, null, Reading International, Inc.
+RGSE, 0.3899, 12.69, null, Real Goods Solar, Inc.
+BCNA, 21.01, 0.05, null, Reality Shares Nasdaq NexGenEcoyChinaETF
+BLCN, 23.25, 0.96, null, Reality Shares Nasdaq NexGen Economy ETF
+RLM, 0.0, 0, null, Realm Therapeutics plc
+RNWK, 3.33, 0.91, null, RealNetworks, Inc.
+RP, 60.85, 2.35, null, RealPage, Inc.
+RETA, 75.81, -1.57, null, Reata Pharmaceuticals, Inc.
+RCON, 1.29, 0.78, null, Recon Technology, Ltd.
+REPH, 6.56, 2.50, null, Recro Pharma, Inc.
+RRGB, 40.75, 0.00, null, Red Robin Gourmet Burgers, Inc.
+RRR, 33.03, 0.40, 0.4, Red Rock Resorts, Inc.
+RDVT, 7.42, 0.27, null, Red Violet, Inc.
+RDFN, 19.72, 1.28, null, Redfin Corporation
+RDHL, 7.32, 2.38, null, RedHill Biopharma Ltd.
+REGN, 376.33, -0.75, null, Regeneron Pharmaceuticals, Inc.
+RGNX, 66.15, -0.53, null, REGENXBIO Inc.
+RGLS, 0.2825, 3.37, null, Regulus Therapeutics Inc.
+REIS, 18.35, -0.54, 0.72, Reis, Inc.
+RBNC, 26.83, 0.11, 0.28, Reliant Bancorp, Inc.
+RELV, 4.97, -2.74, null, Reliv' International, Inc.
+MARK, 3.4, 0.00, null, Remark Holdings, Inc.
+RNST, 47.22, 0.83, 0.76, Renasant Corporation
+REGI, 26.4, -0.94, null, Renewable Energy Group, Inc.
+ABAC, 1.9, 5.56, null, Renmin Tianli Group, Inc.
+RCII, 14.74, 0.07, 0.08, Rent-A-Center, Inc.
+RGEN, 52.95, 1.44, null, Repligen Corporation
+REPL, 16.62, -0.18, null, Replimune Group, Inc.
+RBCAA, 49.85, -0.89, 0.924, Republic Bancorp, Inc.
+FRBK, 7.8, -0.64, null, Republic First Bancorp, Inc.
+REFR, 1.26, 6.78, null, Research Frontiers Incorporated
+RSLS, 0.065, -2.99, null, ReShape Lifesciences Inc.
+RESN, 4.77, 2.14, null, Resonant Inc.
+RECN, 15.75, 0.64, 0.48, Resources Connection, Inc.
+HAIR, 1.59, -3.64, null, Restoration Robotics, Inc.
+TORC, 10.0, -1.96, null, resTORbio, Inc.
+ROIC, 19.65, 0.36, 0.772, Retail Opportunity Investments Corp.
+RETO, 3.53, 1.44, null, ReTo Eco-Solutions, Inc.
+RTRX, 29.54, 1.37, null, Retrophin, Inc.
+RVNC, 26.35, 1.74, null, Revance Therapeutics, Inc.
+RVEN, 4.18, 5.29, null, Reven Housing REIT, Inc.
+RVLT, 2.47, -3.52, null, Revolution Lighting Technologies, Inc.
+RWLK, 1.04, 0.00, null, ReWalk Robotics Ltd.
+RFIL, 11.7, -4.10, 0.08, RF Industries, Ltd.
+RGCO, 27.7, 0.18, 0.61, RGC Resources, Inc.
+RYTM, 31.67, 3.67, null, Rhythm Pharmaceuticals, Inc.
+RBBN, 7.63, -0.91, null, Ribbon Communications Inc.
+RIBT, 3.15, 7.51, null, RiceBran Technologies
+RIBTW, 0.16, 129.23, null, RiceBran Technologies - Warrant
+RELL, 9.09, 0.22, 0.24, Richardson Electronics, Ltd.
+RIGL, 2.81, 0.36, null, Rigel Pharmaceuticals, Inc.
+RNET, 15.7, -1.57, null, RigNet, Inc.
+RMNI, 5.12, 0.99, null, Rimini Street, Inc.
+RIOT, 5.5, 0.55, null, Riot Blockchain, Inc.
+REDU, 10.29, -1.63, null, RISE Education Cayman Ltd
+RTTR, 1.93, 4.32, null, Ritter Pharmaceuticals, Inc.
+RVSB, 9.77, 0.62, 0.117, Riverview Bancorp, Inc.
+RIVE, 13.9, 2.96, 0.37, Riverview Financial Corporation
+RLJE, 6.16, -0.81, null, RLJ Entertainment, Inc.
+RMGN, 1.25, 1.63, null, RMG Networks Holding Corporation
+RCKT, 21.91, 1.67, null, Rocket Pharmaceuticals, Inc.
+RMTI, 4.52, 1.12, null, Rockwell Medical, Inc.
+RCKY, 30.5, 0.33, 0.45, Rocky Brands, Inc.
+RMCF, 10.21, -0.39, 0.48, Rocky Mountain Chocolate Factory, Inc.
+ROKU, 63.26, 5.28, null, Roku, Inc.
+ROSE, 8.2, 12.64, null, Rosehill Resources Inc.
+ROSEU, 9.55, -2.05, null, Rosehill Resources Inc. UT 1CL A &amp; 1WT
+ROSEW, 1.2, 0.00, null, Rosehill Resources Inc. - Warra
+ROST, 95.09, 0.06, 0.77, Ross Stores, Inc.
+RGLD, 78.32, 3.12, 1.0, Royal Gold, Inc.
+RTIX, 4.65, -1.06, null, RTI Surgical, Inc.
+RBCN, 9.1, 2.25, null, Rubicon Technology, Inc.
+RUBY, 25.14, -2.33, null, Rubius Therapeutics, Inc.
+RMBL, 6.7, 6.18, null, RumbleON, Inc.
+RUSHA, 43.34, 0.98, 0.12, Rush Enterprises, Inc.
+RUSHB, 43.8, -0.97, 0.12, Rush Enterprises, Inc.
+RUTH, 31.6, 0.32, 0.4, Ruth's Hospitality Group, Inc.
+RXII, 1.52, -4.40, null, RXi Pharmaceuticals Corporation
+RXIIW, 0.54, 0.00, null, RXi Pharmaceuticals Corporation
+RYAAY, 99.62, 1.51, null, Ryanair Holdings plc
+STBA, 47.53, 1.24, 0.94, S&amp;T Bancorp, Inc.
+SANW, 3.05, -1.61, null, S&amp;W Seed Company
+SCAC, 10.13, 0.10, null, Saban Capital Acquisition Corp.
+SCACU, 10.734, 0.32, null, Saban Capital Acquisition Corp. Units
+SCACW, 1.25, 0.00, null, Saban Capital Acquisition Corp.
+SBRA, 23.14, -0.39, 1.78, Sabra Health Care REIT, Inc.
+SABR, 25.58, 0.51, 0.56, Sabre Corporation
+SAEX, 0.531, -3.45, null, SAExploration Holdings, Inc.
+SFET, 12.0, 2.92, null, Safe-T Group Ltd
+SAFT, 95.95, 0.68, 3.2, Safety Insurance Group, Inc.
+SGA, 37.35, 0.54, 1.2, Saga Communications, Inc.
+SAGE, 153.95, -0.98, null, Sage Therapeutics, Inc.
+SAIA, 77.05, -0.39, null, Saia, Inc.
+SALM, 3.85, -2.53, 0.26, Salem Media Group, Inc.
+SAL, 41.2, -1.90, 1.12, Salisbury Bancorp, Inc.
+SAFM, 109.25, 2.61, 1.2, Sanderson Farms, Inc.
+SASR, 39.13, -0.38, 1.06, Sandy Spring Bancorp, Inc.
+SGMO, 15.3, -1.29, null, Sangamo Therapeutics, Inc.
+SANM, 30.6, 0.16, null, Sanmina Corporation
+GCVRZ, 0.53, -0.93, 3.53, Sanofi CONTGNT VAL RT
+SPNS, 11.87, 1.02, 0.0, Sapiens International Corporation N.V.
+SRPT, 133.24, -1.06, null, Sarepta Therapeutics, Inc.
+SVRA, 10.85, -1.09, null, Savara Inc.
+SBFG, 20.0, -0.94, 0.3, SB Financial Group, Inc.
+SBFGP, 19.75, 0.00, 0.3, SB Financial Group, Inc.
+SBBX, 27.85, -0.36, 0.255, SB One Bancorp
+SBAC, 156.03, 1.19, null, SBA Communications Corporation
+SCSC, 42.55, -0.23, null, ScanSource, Inc.
+SMIT, 2.84, 7.98, null, Schmitt Industries, Inc.
+SCHN, 26.0, 1.76, 0.75, Schnitzer Steel Industries, Inc.
+SRRK, 19.69, -0.91, null, Scholar Rock Holding Corporation
+SCHL, 41.95, 0.41, 0.6, Scholastic Corporation
+SGMS, 31.2, 1.63, null, Scientific Games Corporation
+SCPH, 5.29, 0.76, null, scPharmaceuticals Inc.
+SCYX, 1.28, 1.59, null, SCYNEXIS, Inc.
+SEAC, 1.55, 0.65, null, SeaChange International, Inc.
+SBCF, 31.42, -0.13, null, Seacoast Banking Corporation of Florida
+STX, 55.75, 0.05, 2.52, Seagate Technology plc
+SHIP, 0.94, -0.01, null, Seanergy Maritime Holdings Corp.
+SHIPW, 0.128, 0.00, null, Seanergy Maritime Holdings Corp
+SHLD, 1.1, -0.90, null, Sears Holdings Corporation
+SHLDW, 0.14, 0.00, null, Sears Holdings Corporation - Wa
+SHOS, 2.35, -1.05, null, Sears Hometown and Outlet Stores, Inc.
+SPNE, 14.89, -2.42, null, SeaSpine Holdings Corporation
+SGEN, 74.59, -1.41, null, Seattle Genetics, Inc.
+EYES, 1.56, -3.70, null, Second Sight Medical Products, Inc.
+EYESW, 0.65, 0.00, null, Second Sight Medical Products, 
+SECO, 14.0, 0.94, null, Secoo Holding Limited
+SCWX, 13.14, -3.03, null, SecureWorks Corp.
+SNFCA, 5.1, 0.49, null, Security National Financial Corporation
+SEIC, 62.24, 0.23, 0.6, SEI Investments Co.
+SLCT, 13.07, -2.10, null, Select Bancorp, Inc.
+SIR, 21.18, 0.38, 2.04, Select Income REIT
+SIC, 12.4, 3.25, null, Select Interior Concepts, Inc.
+SELB, 12.84, 0.78, null, Selecta Biosciences, Inc.
+SIGI, 63.85, 0.39, 0.7, Selective Insurance Group, Inc.
+SLS, 0.97, -5.83, null, SELLAS Life Sciences Group, Inc.
+LEDS, 3.99, 1.79, null, SemiLEDs Corporation
+SMTC, 50.45, 1.00, null, Semtech Corporation
+SENEA, 30.6, -2.39, null, Seneca Foods Corporation
+SENEB, 30.8, -4.64, null, Seneca Foods Corporation
+SNES, 0.8841, -4.43, null, SenesTech, Inc.
+SNH, 18.78, -0.16, 1.56, Senior Housing Properties Trust
+SNHNI, 24.57, -0.08, 1.56, Senior Housing Properties Trust NT 42
+SNHNL, 25.97, -0.23, 1.56, Senior Housing Properties Trust
+AIHS, 5.21, -1.88, null, Senmiao Technology Limited
+SNMX, 1.17, 0.00, null, Senomyx, Inc.
+SRTS, 7.02, 0.29, null, Sensus Healthcare, Inc.
+SRTSW, 0.936, 0.00, null, Sensus Healthcare, Inc. - Warra
+STNL, 9.81, 0.00, null, Sentinel Energy Services Inc.
+STNLU, 10.24, 0.00, null, Sentinel Energy Services Inc. Units
+STNLW, 1.1953, 0.00, null, Sentinel Energy Services Inc.
+SQBG, 1.88, -0.53, null, Sequential Brands Group, Inc.
+MCRB, 8.23, 0.61, null, Seres Therapeutics, Inc.
+SREV, 3.19, -1.24, null, ServiceSource International, Inc.
+SFBS, 43.07, -0.92, 0.32, ServisFirst Bancshares, Inc.
+SESN, 1.77, -1.67, null, Sesen Bio, Inc.
+SSC, 5.42, 38.97, null, Seven Stars Cloud Group, Inc.
+SVBI, 8.95, 0.56, 0.06, Severn Bancorp, Inc.
+SGBX, 3.8, -1.30, null, SG Blocks, Inc.
+SGOC, 1.05, 1.94, null, SGOCO Group, Ltd.
+SEII, 3.01, 5.99, null, Sharing Economy International Inc.
+SMED, 3.29, 0.61, null, Sharps Compliance Corp.
+SHSP, 14.32, 4.53, null, SharpSpring, Inc.
+SHEN, 37.8, 2.16, 0.26, Shenandoah Telecommunications Company
+PIXY, 3.01, -0.66, null, ShiftPixy, Inc.
+SHLO, 9.0, -0.66, null, Shiloh Industries, Inc.
+TYHT, 1.09, -1.36, null, Shineco, Inc.
+SHPG, 174.14, 2.18, 0.354, Shire plc
+SCVL, 33.67, -4.81, 0.3, Shoe Carnival, Inc.
+SHBI, 18.87, -1.00, 0.27, Shore Bancshares, Inc.
+SSTI, 46.7, 4.01, null, ShotSpotter, Inc.
+SFLY, 74.99, -1.34, null, Shutterfly, Inc.
+SIFI, 13.825, -0.18, 0.23, SI Financial Group, Inc.
+SIEB, 15.44, 6.41, null, Siebert Financial Corp.
+SNNA, 15.93, -0.44, null, Sienna Biopharmaceuticals, Inc.
+SIEN, 21.45, 1.80, null, Sientra, Inc.
+BSRR, 29.94, 0.07, 0.6, Sierra Bancorp
+SRRA, 1.78, 1.71, null, Sierra Oncology, Inc.
+SWIR, 19.2, 0.52, null, Sierra Wireless, Inc.
+SIFY, 1.76, 0.57, 0.018, Sify Technologies Limited
+SIGA, 8.25, 0.24, null, SIGA Technologies, Inc.
+SIGM, 0.2355, -3.88, null, Sigma Designs, Inc.
+SGLB, 1.02, -1.92, null, Sigma Labs, Inc.
+SGLBW, 0.4179, 0.00, null, Sigma Labs, Inc. - Warrant
+SGMA, 7.07, 0.71, null, SigmaTron International, Inc.
+SBNY, 117.77, -0.93, null, Signature Bank
+SBNYW, 85.5, 0.00, null, Signature Bank - Warrants 12/12
+SLGN, 27.36, 0.51, 0.38, Silgan Holdings Inc.
+SILC, 38.76, 0.34, 1.0, Silicom Ltd.
+SLAB, 98.35, 1.18, null, Silicon Laboratories Inc.
+SIMO, 58.49, -1.61, 1.1, Silicon Motion Technology Corporation
+SAMG, 16.15, -0.31, 0.5, Silvercrest Asset Management Group Inc.
+SSNT, 3.65, 4.29, null, SilverSun Technologies, Inc.
+SFNC, 31.1, -0.64, 0.55, Simmons First National Corporation
+SLP, 20.55, 1.48, 0.23, Simulations Plus, Inc.
+SINA, 69.85, 0.49, null, SINA Corporation
+SBGI, 29.25, -0.17, 0.72, Sinclair Broadcast Group, Inc.
+SINO, 1.09, 1.87, 0.009, Sino-Global Shipping America, Ltd.
+SVA, 6.3085, -0.97, null, Sinovac Biotech Ltd.
+SIRI, 6.96, 0.87, 0.043, Sirius XM Holdings Inc.
+SITO, 1.8, 14.65, null, SITO Mobile, Ltd.
+SKYS, 0.786, -1.26, null, Sky Solar Holdings, Ltd.
+SKYW, 64.0, 2.07, 0.36, SkyWest, Inc.
+SWKS, 92.99, 0.74, 1.28, Skyworks Solutions, Inc.
+SNBR, 32.57, 0.18, null, Sleep Number Corporation
+SLM, 11.49, -0.35, 0.15, SLM Corporation
+SLMBP, 71.194, -0.33, null, SLM Corporation
+SGH, 32.54, 0.34, null, SMART Global Holdings, Inc.
+SND, 5.38, 3.07, null, Smart Sand, Inc.
+SMBK, 24.82, -0.20, null, SmartFinancial, Inc.
+SMSI, 2.41, 0.42, null, Smith Micro Software, Inc.
+SMTX, 2.74, 1.67, null, SMTC Corporation
+SRAX, 4.55, 0.66, null, Social Reality, Inc.
+SCKT, 2.42, -0.41, null, Socket Mobile, Inc.
+SODA, 142.37, 0.08, null, SodaStream International Ltd.
+SOHU, 21.59, 0.00, null, Sohu.com Limited
+SLRC, 21.85, 0.00, 1.6, Solar Capital Ltd.
+SUNS, 16.625, -0.27, 1.41, Solar Senior Capital Ltd.
+SEDG, 47.775, 1.43, null, SolarEdge Technologies, Inc.
+SLNO, 2.15, -4.44, null, Soleno Therapeutics, Inc.
+SLNOW, 0.3, -11.76, null, Soleno Therapeutics, Inc. - Ser
+SLGL, 6.5, 0.00, null, Sol-Gel Technologies Ltd.
+SLDB, 38.34, 2.40, null, Solid Biosciences Inc.
+SNGX, 1.41, 0.00, null, Soligenix, Inc.
+SNGXW, 0.3899, 0.00, null, Soligenix, Inc. - Warrant
+SONC, 34.53, 0.79, 0.62, Sonic Corp.
+SOFO, 1.86, 0.54, null, Sonic Foundry, Inc.
+SNOA, 1.92, 10.34, null, Sonoma Pharmaceuticals, Inc.
+SNOAW, 0.07, 0.00, null, Sonoma Pharmaceuticals, Inc. - 
+SONO, 20.21, -2.98, null, Sonos, Inc.
+SPHS, 2.57, 0.00, null, Sophiris Bio, Inc.
+SORL, 4.66, -1.69, null, SORL Auto Parts, Inc.
+SRNE, 5.6, 3.70, null, Sorrento Therapeutics, Inc.
+SOHO, 7.27, -0.27, 0.455, Sotherly Hotels Inc.
+SOHOB, 25.73, 0.00, 0.455, Sotherly Hotels Inc.
+SOHOO, 25.2068, 0.51, 0.455, Sotherly Hotels Inc.
+SOHOK, 25.69, 0.00, null, Sotherly Hotels LP 7.25% SR NT 21
+SFBC, 39.8, -0.25, 0.46, Sound Financial Bancorp, Inc.
+SSB, 84.25, 0.00, 1.33, South State Corporation
+SFST, 42.65, -0.35, null, Southern First Bancshares, Inc.
+SMBC, 39.93, 0.03, 0.43, Southern Missouri Bancorp, Inc.
+SONA, 17.57, -0.51, 0.32, Southern National Bancorp of Virginia, Inc.
+SBSI, 35.87, -0.28, 1.14, Southside Bancshares, Inc.
+SP, 40.1, 0.00, null, SP Plus Corporation
+SGRP, 1.15, 0.88, null, SPAR Group, Inc.
+SPKE, 9.05, 3.43, 0.725, Spark Energy, Inc.
+SPKEP, 23.95, 0.46, 0.725, Spark Energy, Inc.
+ONCE, 60.64, -0.41, null, Spark Therapeutics, Inc.
+SPAR, 14.75, 0.68, 0.1, Spartan Motors, Inc.
+SPTN, 21.47, 0.56, 0.69, SpartanNash Company
+DWFI, 23.55, 0.21, null, SPDR Dorsey Wright Fixed Inc Allc ETF
+SPPI, 24.53, 3.59, null, Spectrum Pharmaceuticals, Inc.
+SPRO, 11.17, -1.24, null, Spero Therapeutics, Inc.
+ANY, 0.2701, 1.92, null, Sphere 3D Corp.
+SPEX, 1.06, 0.00, null, Spherix Incorporated
+SPI, 0.296, 2.78, null, SPI Energy Co., Ltd.
+SAVE, 45.65, -0.52, null, Spirit Airlines, Inc.
+STXB, 21.96, 0.14, null, Spirit of Texas Bancshares, Inc.
+SPLK, 123.69, 14.81, null, Splunk Inc.
+SPOK, 15.6, 0.00, 0.5, Spok Holdings, Inc.
+SPWH, 6.12, 2.51, null, Sportsman's Warehouse Holdings, Inc.
+SBPH, 12.8, 2.32, null, Spring Bank Pharmaceuticals, Inc.
+FUND, 7.79, 0.39, 0.522, Sprott Focus Trust, Inc. - Clos
+SFM, 25.0, 1.01, null, Sprouts Farmers Market, Inc.
+SPSC, 97.2, 2.62, null, SPS Commerce, Inc.
+SSNC, 57.6, 1.30, 0.28, SS&amp;C Technologies Holdings, Inc.
+SSLJ, 1.0, -2.91, null, SSLJ.com Limited
+SSRM, 8.91, 4.82, null, SSR Mining Inc.
+STAA, 44.8, 0.11, null, STAAR Surgical Company
+STAF, 1.94, 7.78, null, Staffing 360 Solutions, Inc.
+STMP, 235.3, 0.90, null, Stamps.com Inc.
+STND, 30.35, 0.10, 1.215, Standard AVB Financial Corp.
+SBLK, 13.44, 1.74, null, Star Bulk Carriers Corp.
+SBLKZ, 25.58, 0.31, null, Star Bulk Carriers Corp. 8.30% SR NT 22
+SBUX, 52.75, 0.17, 1.26, Starbucks Corporation
+STFC, 31.64, 0.25, 0.4, State Auto Financial Corporation
+STBZ, 32.9, -0.87, 0.68, State Bank Financial Corporation
+STDY, 4.7, 0.00, null, SteadyMed Ltd.
+GASS, 3.48, -3.06, null, StealthGas Inc.
+STCN, 2.16, -0.46, null, Steel Connect, Inc.
+STLD, 44.75, 1.54, 0.685, Steel Dynamics, Inc.
+SMRT, 2.3, -13.21, 0.0, Stein Mart, Inc.
+STLR, 11.0, 5.54, null, Stellar Acquisition III Inc.
+STLRU, 10.55, 0.00, null, Stellar Acquisition III Inc. - 
+STLRW, 0.25, 0.04, null, Stellar Acquisition III Inc. - 
+SBOT, 1.34, -3.60, null, Stellar Biotechnologies, Inc.
+STML, 15.65, 1.95, null, Stemline Therapeutics, Inc.
+SRCL, 61.32, -0.13, null, Stericycle, Inc.
+SRCLP, 46.32, 0.13, null, Stericycle, Inc.
+SBT, 12.0, 4.17, 0.01, Sterling Bancorp, Inc. (Southfield, MI)
+STRL, 14.86, -3.57, null, Sterling Construction Company, Inc.
+SHOO, 58.3, -0.43, 0.4, Steven Madden, Ltd.
+SSFN, 10.5, -1.87, 0.12, Stewardship Financial Corporation
+SFIX, 37.98, 3.86, null, Stitch Fix, Inc.
+SYBT, 38.7, 0.13, 0.87, Stock Yards Bancorp, Inc.
+BANX, 22.47, 0.31, 1.51, StoneCastle Financial Corp.
+SSKN, 2.63, -4.36, null, STRATA Skin Sciences, Inc.
+SSYS, 24.93, 0.00, null, Stratasys Ltd.
+STRA, 136.01, 0.74, 1.0, Strategic Education, Inc.
+HNDL, 24.35, 0.29, null, Strategy Shares Nasdaq 7 Handl ETF
+STRT, 34.95, 1.90, 0.56, STRATTEC Security Corporation
+STRS, 29.9, 0.00, 0.0, Stratus Properties Inc.
+STRM, 1.19, 0.00, null, Streamline Health Solutions, Inc.
+SBBP, 5.5, 2.80, null, Strongbridge Biopharma plc
+SUMR, 1.8, 0.00, null, Summer Infant, Inc.
+SMMF, 25.45, 0.79, 0.48, Summit Financial Group, Inc.
+WISA, 4.75, -0.21, null, Summit Semiconductor, Inc.
+SSBI, 15.35, -1.29, 0.48, Summit State Bank
+SMMT, 2.05, -3.76, null, Summit Therapeutics plc
+SNHY, 48.92, 0.87, 0.36, Helios Technologies
+SNDE, 5.25, -0.75, null, Sundance Energy Australia Limited
+SNSS, 1.97, 3.14, null, Sunesis Pharmaceuticals, Inc.
+STKL, 7.7, -1.91, null, SunOpta Inc.
+SPWR, 6.79, 1.19, null, SunPower Corporation
+RUN, 14.16, 4.35, null, Sunrun Inc.
+SUNW, 0.6935, 0.51, null, Sunworks, Inc.
+SPCB, 2.02, -1.46, null, SuperCom Ltd.
+SCON, 2.31, 0.00, null, Superconductor Technologies Inc.
+SGC, 19.12, 0.37, 0.38, Superior Group of Companies, Inc.
+SUPN, 44.55, -0.67, null, Supernus Pharmaceuticals, Inc.
+SPRT, 2.74, 0.74, null, Support.com, Inc.
+SURF, 9.31, -7.18, null, Surface Oncology, Inc.
+SGRY, 17.8, -0.84, null, Surgery Partners, Inc.
+SRDX, 74.15, -0.20, null, Surmodics, Inc.
+SIVB, 326.53, 0.24, null, SVB Financial Group
+SYKE, 29.3, 0.27, null, Sykes Enterprises, Incorporated
+SYMC, 19.76, 0.71, 0.3, Symantec Corporation
+SYNC, 2.2, -2.22, null, Synacor, Inc.
+SYNL, 22.8, 0.44, 0.38, Synalloy Corporation
+SYNA, 46.0, 1.61, null, Synaptics Incorporated
+SNDX, 7.16, -0.42, null, Syndax Pharmaceuticals, Inc.
+SYNH, 49.05, 0.31, null, Syneos Health, Inc.
+SGYP, 1.99, 1.53, null, Synergy Pharmaceuticals Inc.
+SYBX, 9.05, 15.14, null, Synlogic, Inc.
+SNPS, 102.13, 1.43, null, Synopsys, Inc.
+SYNT, 40.64, -0.07, null, Syntel, Inc.
+SES, 2.5, 2.88, null, Synthesis Energy Systems, Inc.
+SYPR, 1.58, 1.28, null, Sypris Solutions, Inc.
+SYRS, 11.48, 3.70, null, Syros Pharmaceuticals, Inc.
+TROW, 115.41, 0.30, 2.54, T. Rowe Price Group, Inc.
+TTOO, 5.99, 0.17, null, T2 Biosystems, Inc.
+TRHC, 83.34, 2.18, null, Tabula Rasa HealthCare, Inc.
+TCMD, 64.65, -0.83, null, Tactile Systems Technology, Inc.
+TAIT, 2.25, 0.00, 0.1, Taitron Components Incorporated
+TTWO, 134.01, 2.55, null, Take-Two Interactive Software, Inc.
+TLND, 60.59, 2.52, null, Talend S.A.
+TNDM, 38.37, -0.62, null, Tandem Diabetes Care, Inc.
+TLF, 7.6, -0.65, null, Tandy Leather Factory, Inc.
+TANH, 1.63, 0.00, null, Tantech Holdings Ltd
+TAOP, 1.35, 0.75, null, Taoping Inc.
+TPIV, 7.33, -1.61, null, TapImmune, Inc.
+TEDU, 8.8, 0.00, null, Tarena International, Inc.
+TATT, 7.2499, 0.69, 0.34, TAT Technologies Ltd.
+TAYD, 12.35, 0.41, null, Taylor Devices, Inc.
+CGBD, 17.04, -0.29, 1.07, TCG BDC, Inc.
+AMTD, 57.28, 0.60, 0.81, TD Ameritrade Holding Corporation
+PETZ, 2.78, 6.92, null, TDH Holdings, Inc.
+TECD, 86.55, 0.25, null, Tech Data Corporation
+TCCO, 4.9, -2.00, null, Technical Communications Corporation
+TTGT, 23.97, -0.91, null, TechTarget, Inc.
+TGLS, 9.49, 0.32, 0.56, Tecnoglass Inc.
+TGEN, 3.25, -1.22, null, Tecogen Inc.
+TNAV, 5.65, -2.59, null, Telenav, Inc.
+TLGT, 4.27, -2.73, null, Teligent, Inc.
+TELL, 8.89, 7.63, null, Tellurian Inc.
+TENB, 33.53, -1.03, null, Tenable Holdings, Inc.
+TENX, 5.19, -1.70, null, Tenax Therapeutics, Inc.
+TZACU, 10.03, 0.00, null, TENZING ACQUISITION CORP.
+TERP, 11.1, -1.25, 0.38, TerraForm Power, Inc.
+TBNK, 30.05, 0.20, 0.8, Territorial Bancorp Inc.
+TSRO, 30.1, -2.02, null, Tesaro, Inc.
+TSLA, 322.82, 0.85, null, Tesla, Inc.
+TESS, 17.7, 0.57, 0.8, TESSCO Technologies Incorporated
+TTEK, 69.7, -0.36, 0.42, Tetra Tech, Inc.
+TTPH, 3.1, 2.31, null, Tetraphase Pharmaceuticals, Inc.
+TCBI, 92.6, -0.43, null, Texas Capital Bancshares, Inc.
+TCBIL, 25.75, 0.00, null, Texas Capital Bancshares, Inc.
+TCBIP, 25.54, 0.31, null, Texas Capital Bancshares, Inc.
+TCBIW, 77.0, 0.00, null, Texas Capital Bancshares, Inc. 
+TXN, 113.64, 1.10, 2.36, Texas Instruments Incorporated
+TXRH, 66.82, -0.19, 0.92, Texas Roadhouse, Inc.
+TFSL, 15.36, 0.59, 0.68, TFS Financial Corp
+TGTX, 12.5, 1.63, null, TG Therapeutics, Inc.
+ANDE, 40.55, 0.25, 0.65, The Andersons, Inc.
+TBBK, 9.82, 2.29, null, The Bancorp, Inc.
+BPRN, 33.27, -0.39, null, The Bank of Princeton
+CG, 24.05, 0.84, 1.38, The Carlyle Group L.P.
+TCGP, 24.08, 0.42, 1.38, The Carlyle Group L.P.
+CAKE, 52.84, -0.30, 1.16, The Cheesecake Factory Incorporated
+CHEF, 28.95, -0.34, null, The Chefs' Warehouse, Inc.
+TCFC, 33.67, 0.00, 0.4, The Community Financial Corporation
+DSGX, 33.8, 0.45, null, The Descartes Systems Group Inc
+DXYN, 1.4, -6.67, null, The Dixie Group, Inc.
+ENSG, 38.79, 0.52, 0.177, The Ensign Group, Inc.
+XONE, 8.48, 0.83, null, The ExOne Company
+FBMS, 41.0, -0.49, 0.188, The First Bancshares, Inc.
+FLIC, 21.9, 0.23, 0.6, The First of Long Island Corporation
+GT, 23.58, 0.00, 0.52, The Goodyear Tire &amp; Rubber Company
+HABT, 16.2, 0.00, null, The Habit Restaurants, Inc.
+HCKT, 20.31, 2.06, 0.32, The Hackett Group, Inc.
+HAIN, 28.52, 0.53, null, The Hain Celestial Group, Inc.
+CUBA, 6.5, -0.15, 0.123, The Herzfeld Caribbean Basin Fund Inc.
+INTG, 28.3, -1.74, null, The InterGroup Corporation
+JYNT, 9.0, 2.74, null, The Joint Corp.
+KEYW, 8.0, -0.12, null, The KeyW Holding Corporation
+KHC, 59.03, 0.39, 2.5, The Kraft Heinz Company
+OLD, 27.11, 0.30, null, The Long-Term Care ETF
+LOVE, 20.35, -0.63, null, The Lovesac Company
+MSG, 296.49, -0.26, null, The Madison Square Garden Company
+MDCO, 38.92, -0.18, null, The Medicines Company
+MEET, 4.53, 4.86, null, The Meet Group, Inc.
+MIK, 20.67, 0.19, null, The Michaels Companies, Inc.
+MIDD, 119.26, 0.95, null, The Middleby Corporation
+NAVG, 69.5, -0.14, 0.26, The Navigators Group, Inc.
+SLIM, 38.2452, 1.41, null, The Obesity ETF
+STKS, 3.01, 0.00, null, The ONE Group Hospitality, Inc.
+ORG, 32.28, 1.22, null, The Organics ETF
+PRSC, 66.91, 0.06, null, The Providence Service Corporation
+RMR, 90.05, 2.04, 1.0, The RMR Group Inc.
+SMPL, 17.98, 0.17, null, The Simply Good Foods Company
+SMPLW, 6.47, -2.12, null, The Simply Good Foods Company -
+TSG, 27.85, 2.01, null, The Stars Group Inc.
+TTD, 138.35, 1.21, null, The Trade Desk, Inc.
+ULTI, 300.25, 1.96, null, The Ultimate Software Group, Inc.
+YORW, 30.35, -0.49, 0.66, The York Water Company
+NCTY, 0.948, 4.18, null, The9 Limited
+TXMD, 6.06, 7.07, null, TherapeuticsMD, Inc.
+TRPX, 4.0, 10.19, null, Therapix Biosciences Ltd.
+TBPH, 27.71, 0.43, null, Theravance Biopharma, Inc.
+TST, 2.13, -2.29, 0.025, TheStreet, Inc.
+TCRD, 8.47, 0.47, 1.22, THL Credit, Inc.
+TBRG, 9.72, 0.21, null, Thunder Bridge Acquisition, Ltd.
+TBRGU, 10.18, 0.00, null, Thunder Bridge Acquisition, Ltd. Units
+TBRGW, 0.47, 0.00, null, Thunder Bridge Acquisition, Ltd
+TIBR, 9.65, 0.00, null, Tiberius Acquisition Corporation
+TIBRU, 10.19, 0.79, null, Tiberius Acquisition Corporation Units
+TIBRW, 0.59, 0.00, null, Tiberius Acquisition Corporatio
+TTS, 7.95, 0.00, 0.2, Tile Shop Holdings, Inc.
+TLRY, 43.86, 14.67, null, Tilray, Inc.
+TSBK, 36.16, 0.72, 0.48, Timberland Bancorp, Inc.
+TIPT, 6.55, -0.76, 0.13, Tiptree Inc.
+TITN, 15.72, 2.41, null, Titan Machinery Inc.
+TMDI, 1.93, -3.50, null, Titan Medical Inc.
+TTNP, 0.7499, -2.55, null, Titan Pharmaceuticals, Inc.
+TVTY, 32.95, 0.61, null, Tivity Health, Inc.
+TIVO, 13.0, 0.00, 0.72, TiVo Corporation
+TKKSU, 10.02, -0.10, null, TKK Symphony Acquisition Corporation Units (1 Ord, 1 War and 1 Rts)
+TMUS, 65.41, 0.31, null, T-Mobile US, Inc.
+TMSR, 4.03, -16.22, null, TMSR Holding Company Limited
+TOCA, 9.0, 1.81, null, Tocagen Inc.
+TNXP, 1.04, -7.96, null, Tonix Pharmaceuticals Holding Corp.
+TISA, 1.02, 5.15, null, Top Image Systems Ltd.
+TOPS, 0.914, -1.63, null, Top Ships Inc.
+TRCH, 1.13, 1.80, null, Torchlight Energy Resources, Inc.
+TRMD, 6.6, 1.23, 0.0, Torm Plc
+TOTAU, 10.23, 0.00, null, Tottenham Acquisition I Limited Units
+TSEM, 20.92, 3.10, null, Tower Semiconductor Ltd.
+CLUB, 9.85, -1.01, 0.0, Town Sports International Holdings, Inc.
+TOWN, 32.8, 0.00, 0.58, TowneBank
+TPIC, 28.82, 3.22, null, TPI Composites, Inc.
+TCON, 2.05, -2.38, null, TRACON Pharmaceuticals, Inc.
+TSCO, 88.58, 0.03, 1.12, Tractor Supply Company
+TWMC, 1.0, -2.91, null, Trans World Entertainment Corporation
+TACT, 14.55, 1.04, 0.36, TransAct Technologies Incorporated
+TRNS, 24.5, 0.00, null, Transcat, Inc.
+TGA, 3.49, 2.05, null, TransGlobe Energy Corporation
+TBIO, 10.86, 0.56, null, Translate Bio, Inc.
+TA, 4.15, -1.19, null, TravelCenters of America LLC
+TANNI, 24.74, 0.53, null, TravelCenters of America LLC SR NT 8.25%2028
+TANNL, 23.528, 0.08, null, TravelCenters of America LLC SR NT
+TANNZ, 23.85, 0.00, null, TravelCenters of America LLC 8% SR NT 2030
+TZOO, 12.9, 0.78, null, Travelzoo
+TRMT, 12.0, -3.61, null, Tremont Mortgage Trust
+TRVN, 1.57, 2.61, null, Trevena, Inc.
+TCDA, 27.0, 6.38, null, Tricida, Inc.
+TCBK, 39.08, -0.03, 0.68, TriCo Bancshares
+TDAC, 9.8, 0.31, null, Trident Acquisitions Corp.
+TDACU, 10.1, 0.00, null, Trident Acquisitions Corp. Units
+TDACW, 0.33, -5.31, null, Trident Acquisitions Corp
+TRIL, 5.3, 2.91, null, Trillium Therapeutics Inc.
+TRS, 30.55, -0.16, null, TriMas Corporation
+TRMB, 41.0, 1.01, null, Trimble Inc.
+TRIB, 4.0, 5.82, null, Trinity Biotech plc
+TMCX, 9.79, -0.20, null, Trinity Merger Corp.
+TMCXU, 10.24, 0.00, null, Trinity Merger Corp. Units
+TMCXW, 0.45, 4.65, null, Trinity Merger Corp.
+TRIP, 53.38, 0.47, null, TripAdvisor, Inc.
+TSC, 29.5, -0.34, null, Tristate Capital Holdings, Inc.
+TSCAP, 26.51, 0.26, null, Tristate Capital Holdings, Inc.
+TBK, 42.0, -0.59, null, Triumph Bancorp, Inc.
+TRVG, 4.36, 2.11, null, trivago N.V.
+TRNC, 16.47, 1.23, 0.175, tronc, Inc.
+TROV, 0.8399, 5.44, null, TrovaGene, Inc.
+TRUE, 12.45, 0.57, null, TrueCar, Inc.
+THST, 1.7, -0.58, null, Truett-Hurst, Inc.
+TRUP, 37.26, -0.45, null, Trupanion, Inc.
+TRST, 9.4, 0.00, 0.263, TrustCo Bank Corp NY
+TRMK, 35.89, -0.14, 0.92, Trustmark Corporation
+TSRI, 8.25, 5.10, null, TSR, Inc.
+TTEC, 25.3, -0.39, 0.52, TTEC Holdings, Inc.
+TTMI, 17.98, -0.72, null, TTM Technologies, Inc.
+TCX, 54.8, -0.27, null, Tucows Inc.
+TUES, 3.15, -3.08, null, Tuesday Morning Corporation
+TOUR, 7.91, 2.46, null, Tuniu Corporation
+HEAR, 26.6, -4.83, null, Turtle Beach Corporation
+TWLV, 9.53, 0.11, null, Twelve Seas Investment Company
+TWLVR, 0.43, 4.88, null, Twelve Seas Investment Company COM NPV(S/RTS 06/04/2020)
+TWLVU, 10.2, -0.39, null, Twelve Seas Investment Company UNIT EXP 062123
+TWLVW, 0.35, 0.00, null, Twelve Seas Investment
+FOX, 44.58, -0.18, 0.36, Twenty-First Century Fox, Inc.
+FOXA, 45.17, -0.22, 0.36, Twenty-First Century Fox, Inc.
+TWIN, 25.53, -2.26, null, Twin Disc, Incorporated
+TRCB, 17.22, -0.29, 0.178, Two River Bancorp
+TYME, 2.33, 0.87, null, Tyme Technologies, Inc.
+USCR, 48.7, 0.10, null, U.S. Concrete, Inc.
+PRTS, 1.5, -1.32, null, U.S. Auto Parts Network, Inc.
+USEG, 0.93, -1.06, null, U.S. Energy Corp.
+GROW, 1.63, 0.62, 0.03, U.S. Global Investors, Inc.
+USAU, 1.12, 0.00, null, U.S. Gold Corp.
+UBNT, 83.06, 0.07, null, Ubiquiti Networks, Inc.
+UFPT, 36.35, 0.28, null, UFP Technologies, Inc.
+ULTA, 241.67, 0.95, null, Ulta Beauty, Inc.
+UCTT, 14.03, 0.29, null, Ultra Clean Holdings, Inc.
+UPL, 1.24, 2.48, null, Ultra Petroleum Corp.
+RARE, 75.97, 0.60, null, Ultragenyx Pharmaceutical Inc.
+ULBI, 8.55, -0.58, null, Ultralife Corporation
+UMBF, 75.56, -0.63, 1.11, UMB Financial Corporation
+UMPQ, 21.61, -1.41, 0.76, Umpqua Holdings Corporation
+UNAM, 7.1, -1.39, null, Unico American Corporation
+UBSH, 42.09, 0.17, 0.83, Union Bankshares Corporation
+UNB, 52.75, 0.29, 1.18, Union Bankshares, Inc.
+QURE, 39.41, 1.26, null, uniQure N.V.
+UBCP, 13.25, 1.15, 0.5, United Bancorp, Inc.
+UBOH, 23.3, 0.87, 0.48, United Bancshares, Inc.
+UBSI, 39.5, -0.13, 1.35, United Bankshares, Inc.
+UCBA, 27.25, -1.80, 0.4, United Community Bancorp
+UCBI, 30.53, -0.91, 0.47, United Community Banks, Inc.
+UCFC, 10.4, -0.19, 0.2, United Community Financial Corp.
+UBNK, 17.97, 0.28, 0.48, United Financial Bancorp, Inc.
+UFCS, 50.92, 1.43, 1.15, United Fire Group, Inc.
+UIHC, 20.72, -0.29, 0.24, United Insurance Holdings Corp.
+UNFI, 35.1, 0.78, null, United Natural Foods, Inc.
+UBFO, 11.05, 2.31, 0.28, United Security Bancshares
+USLM, 76.8, 0.08, 0.54, United States Lime &amp; Minerals, Inc.
+UTHR, 123.92, -1.71, null, United Therapeutics Corporation
+UG, 18.65, 1.08, 1.0, United-Guardian, Inc.
+UNIT, 20.58, -0.63, 2.4, Uniti Group Inc.
+UNTY, 24.6, -0.61, 0.25, Unity Bancorp, Inc.
+UBX, 17.9, 6.48, null, Unity Biotechnology, Inc.
+OLED, 122.0, 0.33, 0.18, Universal Display Corporation
+UEIC, 42.75, -1.04, null, Universal Electronics Inc.
+UFPI, 37.06, 0.30, 0.35, Universal Forest Products, Inc.
+ULH, 36.5, 0.55, 0.315, Universal Logistics Holdings, Inc.
+USAP, 29.0, 0.35, null, Universal Stainless &amp; Alloy Products, Inc.
+UVSP, 28.5, 0.00, 0.8, Univest Corporation of Pennsylvania
+UMRX, 14.9, -0.13, null, Unum Therapeutics Inc.
+UPLD, 35.05, 0.49, null, Upland Software, Inc.
+UONE, 2.3, -4.17, null, Urban One, Inc.
+UONEK, 2.15, -2.27, null, Urban One, Inc.
+URBN, 45.6, -3.33, null, Urban Outfitters, Inc.
+URGN, 44.29, 2.98, null, UroGen Pharma Ltd.
+ECOL, 72.6, 0.55, 0.72, US Ecology, Inc.
+USAT, 15.55, 1.63, null, USA Technologies, Inc.
+USATP, 25.05, -2.00, null, USA Technologies, Inc.
+USAK, 20.92, 0.53, null, USA Truck, Inc.
+UTMD, 88.15, -0.68, 1.075, Utah Medical Products, Inc.
+UTSI, 3.78, 0.80, null, UTStarcom Holdings Corp.
+UXIN, 6.19, -6.78, null, Uxin Limited
+VCNX, 10.38, -5.21, null, Vaccinex, Inc.
+VLRX, 1.24, 5.08, null, Valeritas Holdings, Inc.
+VALX, 29.83, -0.63, null, Validea Market Legends ETF
+VALU, 23.79, -0.88, 0.73, Value Line, Inc.
+VNDA, 21.3, 3.40, null, Vanda Pharmaceuticals Inc.
+BBH, 130.81, 0.28, null, VanEck Vectors Biotech ETF
+GNRX, 26.0215, 1.17, null, VanEck Vectors Generic Drugs ETF
+PPH, 63.51, -0.05, null, VanEck Vectors Pharmaceutical ETF
+VWOB, 75.6, 0.23, null, Vanguard Emerging Mkts Govt Bd ETF
+VNQI, 57.7, 0.79, null, Vanguard Global ex-US Real Est ETF
+VCIT, 84.42, 0.18, null, Vanguard Interm-Term Corp Bd ETF
+VGIT, 62.78, 0.00, null, Vanguard Intmdt-Term Trs ETF
+VIGI, 65.75, 1.12, null, Vanguard Intl Div Apprec ETF
+VYMI, 62.86, 0.70, null, Vanguard Intl Hi Div Yld Idx ETF
+VCLT, 89.48, 0.22, null, Vanguard Long-Term Corporate Bd ETF
+VGLT, 75.14, 0.21, null, Vanguard Long-Term Treasury ETF
+VMBS, 51.47, 0.04, null, Vanguard Mortgage-Backed Secs ETF
+VONE, 132.33, 0.71, null, Vanguard Russell 1000 ETF
+VONG, 156.98, 0.81, null, Vanguard Russell 1000 Growth ETF
+VONV, 110.92, 0.45, null, Vanguard Russell 1000 Value ETF
+VTWO, 137.9, 0.51, null, Vanguard Russell 2000 ETF
+VTWG, 157.42, 0.70, null, Vanguard Russell 2000 Growth ETF
+VTWV, 119.09, 0.32, null, Vanguard Russell 2000 Value ETF
+VTHR, 132.82, 0.68, null, Vanguard Russell 3000 ETF
+VCSH, 78.39, 0.00, null, Vanguard Short-Term Corporate Bond ETF
+VTIP, 49.01, 0.04, null, Vanguard Short-Term Infl-Prot Secs ETF
+VGSH, 59.91, 0.00, null, Vanguard Short-Term Treasury ETF
+BND, 79.51, 0.05, null, Vanguard Total Bond Market ETF
+VTC, 81.89, -0.01, null, Vanguard Total Corporate Bond ETF
+BNDX, 54.74, -0.15, null, Vanguard Total International Bond ETF
+VXUS, 54.21, 0.93, null, Vanguard Total International Stock ETF
+VEAC, 9.96, 0.00, null, Vantage Energy Acquisition Corp.
+VEACU, 10.52, 0.00, null, Vantage Energy Acquisition Corp. Units
+VEACW, 1.5, 0.00, null, Vantage Energy Acquisition Corp
+VREX, 31.14, 2.87, null, Varex Imaging Corporation
+VRNS, 72.15, 2.27, null, Varonis Systems, Inc.
+VBLT, 1.6, -3.03, null, Vascular Biogenics Ltd.
+VXRT, 3.16, 1.94, null, Vaxart, Inc.
+VBIV, 1.95, 4.84, null, VBI Vaccines Inc.
+VTIQ, 9.58, 0.00, null, VectoIQ Acquisition Corp.
+VTIQU, 10.0982, -0.51, null, VectoIQ Acquisition Corp. Units
+VTIQW, 0.65, 0.00, null, VectoIQ Acquisition Corp
+VECO, 10.85, 7.96, null, Veeco Instruments Inc.
+VEON, 2.74, -1.44, 0.29, VEON Ltd.
+VRA, 14.99, 1.01, null, Vera Bradley, Inc.
+VCYT, 12.31, 1.23, null, Veracyte, Inc.
+VSTM, 9.38, 3.08, null, Verastem, Inc.
+VCEL, 12.5, 5.71, null, Vericel Corporation
+VRNT, 49.25, 0.92, null, Verint Systems Inc.
+VRSN, 156.08, 1.12, null, VeriSign, Inc.
+VRSK, 117.94, 0.47, null, Verisk Analytics, Inc.
+VBTX, 31.09, 0.16, null, Veritex Holdings, Inc.
+VERI, 10.49, -2.15, null, Veritone, Inc.
+VRML, 0.62, 4.20, null, Vermillion, Inc.
+VRNA, 11.6699, -2.47, null, Verona Pharma plc
+VRCA, 17.59, 0.51, null, Verrica Pharmaceuticals Inc.
+VSAR, 1.8, 5.88, null, Versartis, Inc.
+VTNR, 1.23, 0.00, null, Vertex Energy, Inc.
+VRTX, 176.84, 0.47, null, Vertex Pharmaceuticals Incorporated
+VERU, 2.03, -2.87, null, Veru Inc.
+VIA, 35.9, -0.28, 0.8, Viacom, Inc.
+VIAB, 30.98, 0.00, 0.8, Viacom, Inc.
+VSAT, 63.29, 1.17, null, Viasat, Inc.
+VIAV, 11.47, 0.88, null, Viavi Solutions Inc.
+VICL, 1.33, 3.91, null, Vical Incorporated
+VICR, 60.0, 2.56, null, Vicor Corporation
+VCTR, 9.5, -1.45, null, Victory Capital Holdings, Inc.
+CIZ, 34.06, 0.50, null, VictoryShares Developed Enh Vol Wtd ETF
+VSDA, 30.33, 0.00, null, VictoryShares Dividend Accelerator ETF
+CEY, 24.21, 0.96, null, VictoryShares Em Mkt Hi Div Vol Wtd ETF
+CEZ, 27.45, -0.29, null, VictoryShares Emerging Mkt Vol Wtd ETF
+CID, 33.97, 0.86, null, VictoryShares Intl Hi Div Vol Wtd ETF
+CIL, 39.66, 0.99, null, VictoryShares International Vol Wtd ETF
+CFO, 51.98, 0.44, null, VictoryShares US 500 Enh Vol Wtd ETF
+CFA, 52.02, 0.46, null, VictoryShares US 500 Volatility Wtd ETF
+CSF, 50.23, -0.12, null, VictoryShares US Discv Enh Vol Wtd ETF
+CDC, 48.04, 0.27, null, VictoryShares US EQ Inc Enh Vol Wtd ETF
+CDL, 46.858, 0.38, null, VictoryShares US LgCp Hi Div Vol Wtd ETF
+VSMV, 29.78, 0.17, null, VictoryShares US Mult-Fctr Mnmm Vltl ETF
+CSB, 48.45, 0.15, 0.095, VictoryShares US SmCp Hi Div Vol Wtd ETF
+CSA, 51.56, 0.55, null, VictoryShares US Small Cap Vol Wtd ETF
+VRAY, 9.87, -1.20, null, ViewRay, Inc.
+VKTX, 11.46, 0.53, null, Viking Therapeutics, Inc.
+VKTXW, 9.78, -0.51, null, Viking Therapeutics, Inc. - War
+VBFC, 33.75, 0.00, null, Village Bank and Trust Financial Corp.
+VLGEA, 29.26, -0.34, 1.0, Village Super Market, Inc.
+VNOM, 39.89, 3.18, 1.877, Viper Energy Partners LP
+VIRC, 4.9, 0.00, 0.03, Virco Mfg. Corporation
+VTSI, 4.94, -1.59, null, VirTra, Inc.
+VIRT, 22.35, 0.68, 0.96, Virtu Financial, Inc.
+VRTS, 128.55, -0.62, 1.8, Virtus Investment Partners, Inc.
+VRTSP, 109.17, -1.77, 1.8, Virtus Investment Partners, Inc.
+BBC, 33.56, 0.93, null, Virtus LifeSci Biotech Clinical Trls ETF
+BBP, 43.8225, -0.58, null, Virtus LifeSci Biotech Products ETF
+VRTU, 57.57, 1.37, null, Virtusa Corporation
+VTGN, 1.35, 1.50, null, VistaGen Therapeutics, Inc.
+VC, 112.62, -2.29, null, Visteon Corporation
+VTL, 8.45, 1.20, null, Vital Therapies, Inc.
+VIVE, 3.09, 0.32, null, Viveve Medical, Inc.
+VVPR, 1.57, 1.29, null, VivoPower International PLC
+VVUS, 0.545, -3.20, null, VIVUS, Inc.
+VOD, 22.83, -0.04, 0.176, Vodafone Group Plc
+VOXX, 5.6, 0.00, null, VOXX International Corporation
+VYGR, 21.49, -0.05, null, Voyager Therapeutics, Inc.
+VSEC, 38.59, -0.59, 0.29, VSE Corporation
+VTVT, 1.17, -3.31, null, vTv Therapeutics Inc.
+VUZI, 6.4, -3.03, null, Vuzix Corporation
+WBA, 69.21, -0.10, 1.6, Walgreens Boots Alliance, Inc.
+WAFD, 34.95, 0.14, 0.67, Washington Federal, Inc.
+WAFDW, 15.15, 0.00, null, Washington Federal, Inc. - Warr
+WASH, 60.3, 0.25, 1.64, Washington Trust Bancorp, Inc.
+WSBF, 16.95, -0.15, 0.48, Waterstone Financial, Inc.
+WVE, 48.7, -0.10, null, Wave Life Sciences Ltd.
+WSTG, 11.75, 1.29, 0.68, Wayside Technology Group, Inc.
+WCFB, 8.85, 0.00, 0.2, WCF Bancorp, Inc.
+WDFC, 174.95, 0.98, 2.11, WD-40 Company
+WEB, 28.05, 0.18, null, Web.com Group, Inc.
+WB, 78.57, 0.65, null, Weibo Corporation
+WEBK, 34.0, 0.00, 0.205, Wellesley Bancorp, Inc.
+WEN, 17.8, -0.89, 0.31, The Wendy's Company
+WERN, 36.8, -0.67, 0.3, Werner Enterprises, Inc.
+WSBC, 50.13, -0.91, 1.1, WesBanco, Inc.
+WTBA, 24.35, -0.61, 0.74, West Bancorporation, Inc.
+WABC, 63.8, -0.45, 1.59, Westamerica Bancorporation
+WSTL, 2.87, 3.24, null, Westell Technologies, Inc.
+WDC, 63.81, 0.73, 2.0, Western Digital Corporation
+WNEB, 10.85, 0.46, 0.14, Western New England Bancorp, Inc.
+WPRT, 2.87, 1.41, null, Westport Fuel Systems Inc.
+WWR, 0.26, -0.57, null, Westwater Resources, Inc.
+WEYS, 38.34, 3.01, 0.89, Weyco Group, Inc.
+WHLR, 5.38, -3.06, 0.68, Wheeler Real Estate Investment Trust, Inc.
+WHLRD, 21.83, 3.07, 0.68, Wheeler Real Estate Investment Trust, Inc.
+WHLRP, 18.67, -0.21, 0.68, Wheeler Real Estate Investment Trust, Inc.
+WHLRW, 0.0153, 0.00, null, Wheeler Real Estate Investment 
+WHF, 14.11, -0.21, 1.42, WhiteHorse Finance, Inc.
+WHLM, 6.48, 0.00, null, Wilhelmina International, Inc.
+WVVI, 8.05, -1.11, null, Willamette Valley Vineyards, Inc.
+WVVIP, 5.0, 0.00, null, Willamette Valley Vineyards, Inc.
+WLDN, 32.05, 1.78, null, Willdan Group, Inc.
+WLFC, 34.22, 0.74, null, Willis Lease Finance Corporation
+WLTW, 146.98, 0.29, 1.13, Willis Towers Watson Public Limited Company
+WSC, 16.65, 1.83, null, WillScot Corporation
+WIN, 5.25, -2.60, 0.0, Windstream Holdings, Inc.
+WING, 65.97, 1.74, 0.3, Wingstop Inc.
+WINA, 151.45, 0.46, 0.48, Winmark Corporation
+WINS, 63.6, -15.37, null, Wins Finance Holdings Inc.
+WTFC, 89.85, -0.74, 0.66, Wintrust Financial Corporation
+WTFCM, 26.99, 0.15, 0.66, Wintrust Financial Corporation
+WTFCW, 66.62, -3.70, null, Wintrust Financial Corporation 
+AGND, 43.3101, 0, null, WisdomTree Negative Dur US Aggt Bd ETF
+CXSE, 74.65, 1.40, null, WisdomTree China ex-State-Owd Entpr ETF
+EMCG, 22.38, 1.13, null, WisdomTree Emerging Markets Cnsmr Gr ETF
+EMCB, 68.78, 0.28, null, WisdomTree Emerging Markets Corp Bd ETF
+DGRE, 24.69, 1.56, null, WisdomTree Emerging Mkts Qual Div Gr ETF
+DXGE, 30.3258, 0.30, null, WisdomTree Germany Hedged Equity ETF
+HYZD, 24.07, 0.25, null, WisdomTree Interest Rt Hdg Hi Yld Bd ETF
+AGZD, 47.88, 0.08, null, WisdomTree Interest RtHdgUS Aggt Bd ETF
+WETF, 8.07, 1.00, 0.22, WisdomTree Investments, Inc.
+DXJS, 42.42, -0.02, null, WisdomTree Japan Hedged SmallCap Eq ETF
+GULF, 18.95, -0.34, null, WisdomTree Middle East Dividend ETF
+HYND, 21.1, 0.14, null, WisdomTree Negative Dur High Yld Bd ETF
+DGRW, 43.61, 0.46, null, WisdomTree US Quality Dividend Gr ETF
+DGRS, 38.54, 0.50, null, WisdomTree US SmallCap Qual Div Gr ETF
+WIX, 106.85, 1.47, null, Wix.com Ltd.
+WMIH, 1.57, -2.48, null, WMIH Corp.
+WWD, 79.24, 0.14, 0.535, Woodward, Inc.
+WDAY, 151.0, 3.65, null, Workday, Inc.
+WKHS, 1.04, -0.95, null, Workhorse Group Inc.
+WRLD, 118.76, 0.77, null, World Acceptance Corporation
+WMGI, 27.97, 0.29, null, Wright Medical Group N.V.
+WMGIZ, 1.35, 3.85, null, Wright Medical Group N.V.
+WSFS, 49.3, -0.30, 0.36, WSFS Financial Corporation
+WSCI, 5.3, 2.91, 0.04, WSI Industries, Inc.
+WVFC, 16.23, 0.12, 0.28, WVS Financial Corp.
+WYNN, 145.9, 0.52, 2.5, Wynn Resorts, Limited
+XBIT, 4.06, -2.40, null, XBiotech Inc.
+XELB, 2.6, 0.00, null, Xcel Brands, Inc.
+XEL, 47.95, 0.55, 1.48, Xcel Energy Inc.
+XCRA, 14.42, 0.56, null, Xcerra Corporation
+XNCR, 40.91, -1.61, null, Xencor, Inc.
+XBIO, 2.84, 0.00, null, Xenetic Biosciences, Inc.
+XENE, 11.85, 0.00, null, Xenon Pharmaceuticals Inc.
+XERS, 25.78, -2.35, null, Xeris Pharmaceuticals, Inc.
+XGTI, 0.4499, 2.02, null, xG Technology, Inc.
+XLNX, 73.79, 0.86, 1.41, Xilinx, Inc.
+XOMA, 16.99, -0.99, null, XOMA Corporation
+XPER, 15.95, -1.54, 0.8, Xperi Corporation
+XSPA, 0.1545, -2.34, null, XpresSpa Group, Inc.
+XSPL, 6.0, 4.35, null, Xspand Products Lab, Inc.
+XTLB, 1.7715, -2.13, null, XTL Biopharmaceuticals Ltd.
+XNET, 9.45, 0.85, null, Xunlei Limited
+YNDX, 31.79, 3.01, null, Yandex N.V.
+YRIV, 11.64, -1.44, null, Yangtze River Port and Logistics Limited
+YTRA, 4.74, -0.21, null, Yatra Online, Inc.
+YTEN, 1.53, 2.00, null, Yield10 Bioscience, Inc.
+YIN, 6.94, -0.86, 0.396, Yintech Investment Holdings Limited
+YOGA, 1.15, 3.60, null, YogaWorks, Inc.
+YGYI, 4.07, -0.73, null, Youngevity International, Inc.
+YRCW, 9.66, -2.33, null, YRC Worldwide Inc.
+YECO, 1.63, -12.37, null, Yulong Eco-Materials Limited
+YY, 77.05, 0.75, null, YY Inc.
+ZFGN, 9.68, 1.47, null, Zafgen, Inc.
+ZAGG, 16.55, 2.48, null, ZAGG Inc
+ZLAB, 22.99, -1.08, null, Zai Lab Limited
+ZEAL, 14.51, 1.97, null, Zealand Pharma A/S
+ZBRA, 168.91, -0.06, null, Zebra Technologies Corporation
+ZG, 46.84, -1.04, null, Zillow Group, Inc.
+ZN, 1.57, -3.68, null, Zion Oil &amp; Gas, Inc.
+ZNWAA, 0.0, 0, null, Zion Oil & Gas Inc - Warrants
+ZION, 53.42, -0.30, 0.72, Zions Bancorporation
+ZIONW, 21.2, 0.00, null, Zions Bancorporation - Warrants
+ZIONZ, 18.0, 0.00, 0.56, Zions Bancorporation WT EXP 111418
+ZIOP, 2.85, 2.52, null, ZIOPHARM Oncology, Inc.
+ZIXI, 5.48, 0.37, null, Zix Corporation
+ZKIN, 3.86, -1.03, null, ZK International Group Co., Ltd.
+ZGNX, 48.55, 0.62, null, Zogenix, Inc.
+ZSAN, 4.04, -1.22, null, Zosano Pharma Corporation
+ZS, 44.43, 4.42, null, Zscaler, Inc.
+ZUMZ, 29.75, -0.83, null, Zumiez Inc.
+ZYNE, 6.3, 0.00, null, Zynerba Pharmaceuticals, Inc.
+ZNGA, 3.94, 0.25, null, Zynga Inc.

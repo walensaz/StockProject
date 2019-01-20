@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="zach.stocks.Launch">
+  <tabs>
+    <Tab text="Stocks">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="600.0" fitWidth="800.0" opacity="0.55" pickOnBounds="true" AnchorPane.bottomAnchor="-39.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <image>
+                        <Image url="@../../fxmlimages/Stockbackground.jpg" />
+                     </image>
+                     <viewport>
+                        <Rectangle2D />
+                     </viewport>
+                  </ImageView>
+                  <TableView fx:id="stockTableView" layoutX="45.0" layoutY="27.0" prefHeight="340.0" prefWidth="539.0" stylesheets="@../../cssfiles/stylebutton.css" AnchorPane.bottomAnchor="208.0" AnchorPane.leftAnchor="45.0" AnchorPane.rightAnchor="45.0" AnchorPane.topAnchor="27.0">
+                    <columns>
+                      <TableColumn fx:id="symboltable" prefWidth="76.0" text="Symbol" />
+                      <TableColumn fx:id="pricetable" prefWidth="128.0" text="Price" />
+                        <TableColumn fx:id="changetable" prefWidth="112.0" text="Change" />
+                        <TableColumn fx:id="companytable" prefWidth="393.0" text="Company Name" />
+                    </columns>
+                  </TableView>
+                  <VBox layoutX="31.0" layoutY="362.0" maxWidth="1.7976931348623157E308" prefHeight="185.0" prefWidth="586.0" spacing="15.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="31.0" AnchorPane.rightAnchor="183.0">
+                     <children>
+                        <HBox maxWidth="1.7976931348623157E308" prefHeight="74.0" prefWidth="325.0" spacing="20.0">
+                           <children>
+                              <DatePicker fx:id="stockdate" maxHeight="40.0" maxWidth="500.0" prefHeight="40.0" prefWidth="161.0" promptText="Enter Date for Stock" HBox.hgrow="ALWAYS">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="15.0" />
+                                 </HBox.margin>
+                              </DatePicker>
+                              <Button alignment="CENTER" mnemonicParsing="false" onAction="#setData" text="Search" HBox.hgrow="ALWAYS">
+                                 <HBox.margin>
+                                    <Insets top="15.5" />
+                                 </HBox.margin>
+                                 <font>
+                                    <Font size="18.0" />
+                                 </font>
+                              </Button>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="63.0" prefWidth="325.0" />
+                     </children>
+                  </VBox>
+               </children></AnchorPane>
+      </content>
+    </Tab>
+    <Tab text="Compare">
+        <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                <children>
+                    <ImageView fitHeight="600.0" fitWidth="800.0" layoutX="-1.0" opacity="0.55" pickOnBounds="true" AnchorPane.bottomAnchor="-39.0" AnchorPane.leftAnchor="-1.0" AnchorPane.rightAnchor="1.0" AnchorPane.topAnchor="0.0">
+                        <image>
+                            <Image url="@../../fxmlimages/Stockbackground.jpg" />
+                        </image>
+                        <viewport>
+                            <Rectangle2D />
+                        </viewport>
+                    </ImageView>
+                    <TableView fx:id="stockTableView1" layoutX="14.0" layoutY="27.0" prefHeight="326.0" prefWidth="385.0" stylesheets="@../../cssfiles/stylebutton.css" AnchorPane.bottomAnchor="208.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="401.0" AnchorPane.topAnchor="27.0">
+                        <columns>
+                            <TableColumn fx:id="symboltable1" prefWidth="76.0" text="Symbol" />
+                            <TableColumn fx:id="pricetable1" prefWidth="128.0" text="Price" />
+                            <TableColumn fx:id="changetable1" prefWidth="112.0" text="Change" />
+                            <TableColumn fx:id="companytable1" text="Company Name" />
+                        </columns>
+                    </TableView>
+                    <VBox layoutX="31.0" layoutY="362.0" maxWidth="1.7976931348623157E308" prefHeight="185.0" prefWidth="326.0" spacing="15.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="31.0" AnchorPane.rightAnchor="443.0">
+                        <children>
+                            <HBox maxWidth="1.7976931348623157E308" prefHeight="74.0" prefWidth="325.0" spacing="20.0">
+                                <children>
+                                    <DatePicker fx:id="stockdate1" maxHeight="40.0" maxWidth="500.0" prefHeight="40.0" prefWidth="161.0" promptText="Enter Date for Stock" HBox.hgrow="ALWAYS">
+                                        <HBox.margin>
+                                            <Insets left="10.0" top="15.0" />
+                                        </HBox.margin>
+                                    </DatePicker>
+                                    <Button alignment="CENTER" mnemonicParsing="false" onAction="#setDataCompare1" text="Search" HBox.hgrow="ALWAYS">
+                                        <HBox.margin>
+                                            <Insets top="15.5" />
+                                        </HBox.margin>
+                                        <font>
+                                            <Font size="18.0" />
+                                        </font>
+                                    </Button>
+                                </children>
+                            </HBox>
+                        </children>
+                    </VBox>
+                    <TableView fx:id="stockTableView2" layoutX="402.0" layoutY="27.0" prefHeight="326.0" prefWidth="384.0" stylesheets="@../../cssfiles/stylebutton.css" AnchorPane.bottomAnchor="208.0" AnchorPane.leftAnchor="402.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="27.0">
+                        <columns>
+                            <TableColumn fx:id="symboltable2" prefWidth="76.0" text="Symbol" />
+                            <TableColumn fx:id="pricetable2" prefWidth="128.0" text="Price" />
+                            <TableColumn fx:id="changetable2" prefWidth="112.0" text="Change" />
+                            <TableColumn fx:id="companytable2" text="Company Name" />
+                        </columns>
+                    </TableView>
+                      <HBox layoutX="432.0" layoutY="362.0" maxWidth="1.7976931348623157E308" prefHeight="74.0" prefWidth="325.0" spacing="20.0">
+                          <children>
+                              <DatePicker fx:id="stockdate2" maxHeight="40.0" maxWidth="500.0" prefHeight="40.0" prefWidth="161.0" promptText="Enter Date for Stock" HBox.hgrow="ALWAYS">
+                                  <HBox.margin>
+                                      <Insets left="10.0" top="15.0" />
+                                  </HBox.margin>
+                              </DatePicker>
+                              <Button alignment="CENTER" mnemonicParsing="false" onAction="#setDataCompare2" text="Search" HBox.hgrow="ALWAYS">
+                                  <HBox.margin>
+                                      <Insets top="15.5" />
+                                  </HBox.margin>
+                                  <font>
+                                      <Font size="18.0" />
+                                  </font>
+                              </Button>
+                          </children>
+                      </HBox>
+                </children></AnchorPane>
+        </content>
+    </Tab>
+      <Tab text="Simulator">
+        <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                <children>
+                    <ImageView fitHeight="600.0" fitWidth="800.0" opacity="0.55" pickOnBounds="true" AnchorPane.bottomAnchor="-39.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                        <image>
+                            <Image url="@../../fxmlimages/Stockbackground.jpg" />
+                        </image>
+                        <viewport>
+                            <Rectangle2D />
+                        </viewport>
+                    </ImageView>
+                    <TableView fx:id="stockSimView" layoutX="45.0" layoutY="27.0" prefHeight="340.0" prefWidth="539.0" stylesheets="@../../cssfiles/stylebutton.css" AnchorPane.bottomAnchor="208.0" AnchorPane.leftAnchor="45.0" AnchorPane.rightAnchor="45.0" AnchorPane.topAnchor="27.0">
+                        <columns>
+                            <TableColumn fx:id="symbolSim" prefWidth="76.0" text="Symbol" />
+                            <TableColumn fx:id="price1Sim" prefWidth="110.0" text="Price 1" />
+                            <TableColumn fx:id="price2Sim" prefWidth="113.0" text="Price 2" />
+                            <TableColumn fx:id="profitSim" minWidth="0.0" prefWidth="128.0" text="Profit" />
+                        <TableColumn fx:id="simulatorSim" prefWidth="163.0" text="Simulator" />
+                        <TableColumn fx:id="companySim" prefWidth="114.0" text="Company" />
+                        </columns>
+                    </TableView>
+                    <VBox layoutX="31.0" layoutY="362.0" maxWidth="1.7976931348623157E308" prefHeight="185.0" prefWidth="357.0" spacing="15.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="31.0" AnchorPane.rightAnchor="412.0">
+                        <children>
+                            <HBox maxWidth="1.7976931348623157E308" prefHeight="74.0" prefWidth="594.0" spacing="20.0">
+                                <children>
+                                    <DatePicker fx:id="stockdateSim" maxHeight="40.0" maxWidth="500.0" prefHeight="40.0" prefWidth="161.0" promptText="Enter Date for Stock" HBox.hgrow="ALWAYS">
+                                        <HBox.margin>
+                                            <Insets left="10.0" top="15.0" />
+                                        </HBox.margin>
+                                    </DatePicker>
+                                </children>
+                            </HBox>
+                            <HBox maxWidth="1.7976931348623157E308" prefHeight="74.0" prefWidth="594.0" spacing="20.0">
+                                <children>
+                                    <DatePicker fx:id="stockdateSim1" maxHeight="40.0" maxWidth="500.0" prefHeight="40.0" prefWidth="317.0" promptText="Enter Date for Stock" HBox.hgrow="ALWAYS">
+                                        <HBox.margin>
+                                            <Insets left="10.0" top="15.0" />
+                                        </HBox.margin>
+                                    </DatePicker>
+                                </children>
+                            </HBox>
+                            <HBox prefHeight="63.0" prefWidth="325.0">
+                           <children>
+                              <Button mnemonicParsing="false" onAction="#simulate" text="Simulate">
+                                 <HBox.margin>
+                                    <Insets left="140.0" />
+                                 </HBox.margin>
+                              </Button>
+                           </children></HBox>
+                        </children>
+                    </VBox>
+                </children>
+            </AnchorPane>
+        </content>
+      </Tab>
+  </tabs>
+</TabPane>
